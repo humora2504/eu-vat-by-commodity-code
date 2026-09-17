@@ -35,15 +35,18 @@ itself, so a machine can see it coming rather than a person noticing after.</li>
 that becomes obvious the first time you need it.</li>
 </ul>
 
-<h2>Plans</h2>
+<h2>The one thing for sale</h2>
 <table>
-<tr><th>Plan</th><th>Per month</th><th>For</th><th>What it adds</th></tr>
-<tr><td><b>Free</b></td><td>&euro;0</td><td>Research, internal tools, anyone running their own pipeline</td><td>The complete dataset, daily rebuilds, the change feed. Everything.</td></tr>
-<tr><td><b>Production</b></td><td>&euro;29</td><td>A small product that reads this feed in production</td><td>Versioned schema commitment, 30-day breaking-change notice, email support within two working days</td></tr>
-<tr><td><b>Business</b></td><td>&euro;99</td><td>VAT, customs or compliance products that depend on it</td><td>The above, plus migration help when the schema moves and a written answer on how a specific change affects your codes</td></tr>
+<tr><th></th><th>Free</th><th>Filtered feed</th></tr>
+<tr><td>The complete dataset, 2,667 codes</td><td>yes</td><td>yes</td></tr>
+<tr><td>Daily rebuild</td><td>yes</td><td>yes</td></tr>
+<tr><td>The full change feed</td><td>yes</td><td>yes</td></tr>
+<tr><td>A feed of only <b>your</b> commodity codes</td><td>no</td><td>yes</td></tr>
+<tr><td>Written schema commitment, 30 days' notice</td><td>no</td><td>yes</td></tr>
+<tr><td>Price</td><td>&euro;0</td><td><b>&euro;29 once, 12 months of updates</b></td></tr>
 </table>
-<p class="small">One person runs this. There is no Enterprise tier, because there is nobody to staff it.
-If you need contractual uptime guarantees, buy from a company that can honour them.</p>
+<p>One payment. No subscription, no automatic renewal. After twelve months it simply stops, and
+you keep everything you downloaded.</p>
 
 <h2>Why this is priced below the alternatives</h2>
 <p>Vatstack, VAT Sense, vatlayer and Lookuptax sell VAT rate access from roughly &euro;6 to &euro;450 a
@@ -53,12 +56,18 @@ person's attention. That is worth less, so it costs less.</p>
 is the reason to be here.</p>
 
 <h2>Buy</h2>
-<p>Checkout is not open yet. The honest reason: no one has asked for this plan, and switching on a
-payment page before a single person has said they want it would be building a shop for a street with
-nobody on it.</p>
-<p>If the change feed would save you work, write to
-<a href="mailto:hugo@vystral.com">hugo@vystral.com</a> and say which commodity codes you care about.
-That answer decides whether this plan exists at all, and you will get a straight reply either way.</p>
+<p><a class="buy" href="https://buy.stripe.com/cNicN56p9dIsbutfDDawo02" data-track="buy-vat-feed">Get the filtered feed &mdash; &euro;29 once</a></p>
+<p>Checkout asks for the commodity codes you sell. That is the only thing needed, and it is the whole
+product: your feed is built from that list.</p>
+<p class="small">If it does not do what this page says, reply to your Stripe receipt within 30 days and
+you get your money back. No form. And if you would rather just ask a question first,
+<a href="mailto:hugo@vystral.com">hugo@vystral.com</a> reaches one person.</p>
+
+<h2>Honest about scale</h2>
+<p>This is run by one person and an automated pipeline. There are no customers yet, so there are no
+testimonials on this page. The pipeline is public: you can read
+<a href="https://github.com/humora2504/eu-vat-by-commodity-code">every line that produces the data</a>
+before deciding whether to trust it.</p>
 </main>
 <footer><div class="wrap">
 <p>&copy; European Union, source: European Commission, DG TAXUD, Taxes in Europe Database.

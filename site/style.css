@@ -31,3 +31,6 @@ ul.plain li{padding:7px 0;border-bottom:1px solid var(--line)}
 .card{border:1px solid var(--line);border-radius:10px;padding:14px 16px}
 .card h3{margin:0 0 6px;font-size:15px}
 .card p{margin:0;font-size:14px;color:var(--ink-2)}
+.buy{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;font-weight:620;
+  padding:13px 22px;border-radius:8px;font-size:15.5px}
+.buy:hover{filter:brightness(1.08)}
