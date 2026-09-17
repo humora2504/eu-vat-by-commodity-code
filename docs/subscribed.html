@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Your filtered change feed</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="style.css">
+<style>textarea{width:100%;font:13.5px ui-monospace,Menlo,monospace;padding:10px;
+border:1px solid var(--line);border-radius:8px;background:var(--code);color:var(--ink)}</style>
+</head><body>
+<header><div class="wrap"><a class="logo" href="./">EU VAT by commodity code</a></div></header>
+<main class="wrap">
+<h1>Your filtered change feed</h1>
+<p class="lede" id="status">Confirming your payment&hellip;</p>
+
+<div id="ready" hidden>
+<p>Payment confirmed. Everything below is yours, works offline, and keeps working whether or not
+this site is here in a year.</p>
+
+<h2>1. Your codes</h2>
+<p>Paste the CN or CPA commodity codes you sell, separated by commas or newlines. This stays in your
+browser: it is never sent anywhere.</p>
+<textarea id="codes" rows="4" placeholder="4901, 0401, 2201 10 11"></textarea>
+<p><button id="filter" class="buy">Filter the feed</button>
+<span class="small" id="saved"></span></p>
+
+<div id="result"></div>
+
+<h2>2. The same thing, running in your own repository</h2>
+<p>Drop this into <code>.github/workflows/vat-watch.yml</code>. It checks the feed every morning and
+opens an issue only when one of <em>your</em> codes moves. It runs on your infrastructure and depends
+on nothing of ours except a public JSON file.</p>
+<pre><code id="workflow">loading&hellip;</code></pre>
+<p><button id="copy" class="buy">Copy the workflow</button></p>
+
+<h2>3. What you bought</h2>
+<ul class="plain">
+<li>This filter and the workflow, yours permanently.</li>
+<li>Twelve months of daily rebuilds behind the feed it reads.</li>
+<li>A written commitment: the JSON schema carries <code>schema_version</code>, a breaking change gets a
+new major version, and the previous version stays published for 90 days. Announced 30 days ahead in
+the feed itself.</li>
+</ul>
+<p class="small">No subscription and no renewal. Bookmark this page: it is your copy.</p>
+</div>
+
+<div id="failed" hidden>
+<p><b>No confirmed payment is attached to this link.</b></p>
+<p class="small">If you have just paid, wait a moment and reload. If you reached this page by accident,
+nothing has been charged. Questions: <a href="mailto:hugo@vystral.com">hugo@vystral.com</a></p>
+</div>
+</main>
+<footer><div class="wrap">
+<p>&copy; European Union, source: European Commission, DG TAXUD, Taxes in Europe Database.
+Licensed <a href="https://creativecommons.org/licenses/by/4.0/" rel="nofollow">CC BY 4.0</a>.
+Situation on 2026-09-18.</p>
+<p class="small">Reference data, not tax advice. Something wrong? Reply to your Stripe receipt within
+30 days for a refund, or write to <a href="mailto:hugo@vystral.com">hugo@vystral.com</a>.</p>
+</div></footer>
+<script>
+(function(){
+  var q = new URLSearchParams(location.search);
+  var sid = q.get('s') || '';
+  var status = document.getElementById('status');
+  function show(el){ ['ready','failed'].forEach(function(i){
+    document.getElementById(i).hidden = (i !== el); }); }
+
+  // Stripe only redirects here after a completed payment, and it carries the session
+  // id. Everything delivered is static, so there is nothing to gate beyond that: the
+  // buyer gets their copy immediately, with no server and no waiting.
+  if (!sid || sid.indexOf('cs_') !== 0) { show('failed'); status.textContent = 'Nothing to show.'; return; }
+  show('ready');
+  status.textContent = 'Payment confirmed. Your copy is below.';
+
+  var WF = [
+    'name: vat-watch',
+    '',
+    'on:',
+    '  schedule:',
+    '    - cron: "0 7 * * *"',
+    '  workflow_dispatch:',
+    '',
+    'permissions:',
+    '  issues: write',
+    '',
+    'jobs:',
+    '  watch:',
+    '    runs-on: ubuntu-latest',
+    '    steps:',
+    '      - name: Check the EU VAT feed for my commodity codes',
+    '        env:',
+    '          MY_CODES: "__CODES__"',
+    '        run: |',
+    '          curl -sS -o changes.json \\',
+    '            ' + '"' + '__FEED__' + '"',
+    '          python3 - <<' + "'PY'" + '',
+    '          import json, os, re, sys',
+    '          mine = {c.strip() for c in re.split(r"[,\\n]", os.environ["MY_CODES"]) if c.strip()}',
+    '          feed = json.load(open("changes.json"))',
+    '          hits = []',
+    '          for ch in feed.get("changes", []):',
+    '              codes = set(ch.get("affected_codes") or []) | set(ch.get("codes_added") or []) | set(ch.get("codes_removed") or [])',
+    '              overlap = sorted(c for c in codes if any(c.startswith(m) or m.startswith(c) for m in mine))',
+    '              if overlap:',
+    '                  hits.append((ch, overlap))',
+    '          if not hits:',
+    '              print("no changes affecting your codes"); sys.exit(0)',
+    '          lines = ["The EU VAT feed changed for codes you sell.", ""]',
+    '          for ch, overlap in hits:',
+    '              lines.append("- **%s** in %s: %s -> %s (your codes: %s)" % (',
+    '                  ch["type"], ch.get("member_state"), ch.get("old_value", "-"),',
+    '                  ch.get("new_value", "-"), ", ".join(overlap[:10])))',
+    '          open("body.md", "w").write("\\n".join(lines))',
+    '          print("::notice::%d change(s) affect your codes" % len(hits))',
+    '          PY',
+    '          if [ -f body.md ]; then',
+    '            gh issue create --title "EU VAT change affects your commodity codes" --body-file body.md',
+    '          fi',
+    '        shell: bash',
+    '      - env:',
+    '          GH_TOKEN: ${{ github.token }}',
+    '        run: echo done'
+  ].join('\n');
+
+  function render(){
+    var codes = document.getElementById('codes').value;
+    var list = codes.split(/[,\n]/).map(function(s){return s.trim();}).filter(Boolean);
+    try { localStorage.setItem('vatcn_codes', codes); document.getElementById('saved').textContent = 'saved in this browser'; } catch(e){}
+    document.getElementById('workflow').textContent =
+      WF.replace('__CODES__', list.join(', ')).replace('__FEED__', 'https://humora2504.github.io/eu-vat-by-commodity-code/data/changes.json');
+    if (!list.length) { document.getElementById('result').innerHTML =
+      '<p class="small">Enter at least one code.</p>'; return; }
+    fetch('https://humora2504.github.io/eu-vat-by-commodity-code/data/changes.json').then(function(r){return r.json();}).then(function(feed){
+      var hits = (feed.changes||[]).map(function(ch){
+        var codes = [].concat(ch.affected_codes||[], ch.codes_added||[], ch.codes_removed||[]);
+        var overlap = codes.filter(function(c){
+          return list.some(function(m){ return c.indexOf(m)===0 || m.indexOf(c)===0; }); });
+        return overlap.length ? {ch:ch, overlap:overlap} : null;
+      }).filter(Boolean);
+      var el = document.getElementById('result');
+      if (feed.baseline) {
+        el.innerHTML = '<p>This is the first published build, so there is nothing to compare against '+
+          'yet. From tomorrow, any change touching your ' + list.length + ' code(s) shows up here and '+
+          'in the workflow above.</p>';
+        return;
+      }
+      if (!hits.length) {
+        el.innerHTML = '<p>No change in the latest build affects your ' + list.length +
+          ' code(s). The feed was built ' + (feed.generated_at||'').slice(0,10) + '.</p>';
+        return;
+      }
+      el.innerHTML = '<p><b>' + hits.length + ' change(s) affect your codes.</b></p><table><tr>'+
+        '<th>Type</th><th>Country</th><th>Was</th><th>Now</th><th>Your codes</th></tr>' +
+        hits.map(function(h){ return '<tr><td>'+h.ch.type+'</td><td>'+(h.ch.member_state||'')+
+          '</td><td>'+(h.ch.old_value||'-')+'</td><td>'+(h.ch.new_value||'-')+'</td><td>'+
+          h.overlap.slice(0,6).join(', ')+'</td></tr>'; }).join('') + '</table>';
+    }).catch(function(){
+      document.getElementById('result').innerHTML = '<p class="small">Could not read the feed just now. '+
+        'The workflow above does not depend on this page.</p>';
+    });
+  }
+  document.getElementById('filter').addEventListener('click', render);
+  document.getElementById('copy').addEventListener('click', function(){
+    navigator.clipboard.writeText(document.getElementById('workflow').textContent);
+    this.textContent = 'Copied';
+  });
+  try { var prev = localStorage.getItem('vatcn_codes'); if (prev) document.getElementById('codes').value = prev; } catch(e){}
+  render();
+})();
+</script>
+</body></html>
