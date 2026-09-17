@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "55.90.19",
+ "entries": [
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Other accommodation services n.e.c.",
+   "comment": "The reduced rate is limited to accommodation required to be licensed in virtue of the Malta Travel and Tourism Services Act (or any Act substituted therefor).",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

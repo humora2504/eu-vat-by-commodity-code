@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3005 90 50",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "This reduced rate applies only to chronic ulcers and pressure sores (part 1):\r\n— gels, hydrocolloidal gels, hydrocolloidal pastes, rinsing solutions for chronic ulcers containing undecylenamidepropylbetanine; 3003 90 00, 3004 90 00, 3005 90 99, 3401 30 00, 3808 94 90\r\n— Hydrogel wound pads; 3005 90 99\r\n— wound poultices, with salt crystals; 3005 90 50\r\n— alginate dressings, calcium alginate dressings; 3005 90 50, 3005 90 99 \r\n— Hydrofibre wound dressings; 3005 90 50",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "This reduced rate applies only to chronic ulcers and pressure sores (part 2): — ointment dressings; 3005 90 31, 3005 90 99\r\n— wound dressings with collagen; 3005 90 99\r\n— Soft silicone wound dressings; 3005 10 00\r\n— bioactive wound dressings; 3005 90 50\r\n— foam wound pads; 3005 90 99\r\n— wound dressings with silver (incl hydrofiber); 3005 90 50, 3005 90 99 — hydrocolloid wound pads and wound plasters; 3005 90 99, 3005 10 00\r\n— wound dressings activated with a Ringer’s solution; 3005 90 50",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

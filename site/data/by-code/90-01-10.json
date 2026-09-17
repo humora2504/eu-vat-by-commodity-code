@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "90.01.10",
+ "entries": [
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "code_kind": "CPA",
+   "code_description": "Services of performing artists",
+   "comment": "Royalties (article 279 g of the general tax code)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HU",
+   "country": "Hungary",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "code_kind": "CPA",
+   "code_description": "Services of performing artists",
+   "comment": "supply of instrumental music services rendered by performing artists, such as live instrumental music provided in: places serving restauration or entertainment purposes, private events among family members or friends, certain events without admission fee.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HU",
+   "country": "Hungary",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "18.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Services of performing artists",
+   "comment": "entrance to open-air festival",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "code_kind": "CPA",
+   "code_description": "Services of performing artists",
+   "comment": "The reduced rate applies to royalties, please see chapter 9 section 16 paragraph 1 in the Swedish VAT Act (https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/mervardesskattelag-2023200_sfs-2023-200#K9). A performing artist`s (actor, musician, dancer, artist) performance of a literary or artistic work is exempt.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Services of performing artists",
+   "comment": "Admission to shows, theatres, circuses, concerts, operas, ballets and similar performances are subject to 6 % VAT. The reduced rate also applies to admission to zoos. However, arrangement of public exhibitions in museums and supplies of items to such exhibitions are exempt if the museum is run by the public sector or is supported by the public sector. Admission to amusement parks and cinemas are subject to the standard VAT rate. Please see chapter 9 section 14 in the Swedish VAT Act.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

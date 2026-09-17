@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8443 31 00",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network",
+   "comment": "This reduced rate applies only to computer units, accessories and special equipment for the blind and visually impaired persons: touch screen monitors; keyboards; devices contr. by hand, foot, head; switching devices; special attachments (keyboard frame); voice-contr. computer components; Braille monitor, printer; touch monitor, voice controlled systems, screen reading systems, equipment for the production of Braille and recorded material; hearing aids customised for computer.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network",
+   "comment": "Applies to medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled people, prescribed by an act of general application on orthopaedic and other aids.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

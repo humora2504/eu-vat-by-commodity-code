@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "68.11.04",
+ "entries": [
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "code_kind": "CPA",
+   "code_description": "Non-residential buildings and associated land sales or purchases services",
+   "comment": "The reduced VAT rate is applied for the supply of housing as part of social policy, including the land on which they are built (nursing homes and retirement homes, children's homes, and recovery and rehabilitation centers for minors with disabilities). For details see art. 291 para. (2) letter l) of the Fiscal Code corroborated with point 37 para. (16), (19) and (20) of the Methodological Norms.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1511 90 19",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Annex 1 to Sec. 10 of the Austrian VAT Act 1994 contains a list of goods falling under the reduced rate of 10% such as meal, fish, cereals, edible vegetable oils and so on (https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10004873&amp;Artikel=&amp;Paragraf=&amp;Anlage=1&amp;Uebergangsrecht=).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Edible oils and fats of vegetable or animal origin, baby foods and processed cereal-based foods for infants and young children and food for animals other than pet food, live animals, fresh or chilled meat and edible offal, fresh or chilled fish, molluscs or other aquatic invertebrates, fresh or chilled crustaceans, fresh or chilled crustaceans, fresh and dried fruits and nuts, fresh or chilled vegetables, roots and tubers, including dried leguminous vegetables, fresh poultry eggs in shell.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Animal or vegetable fats and oils for human and animal consumption or  normally intended for use in the preparation of foodstuffs",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "- Foodstuffs referred to in article 2 in regulation EC no 178/2002 are subject to reduced VAT rate, with the exception for tap water and certain alcoholic beverages, see chapter 9 section 3 in the Swedish VAT Act.\r\n- Goods with CN code 2203 can be subject to reduced VAT rate provided that the alcohol content is maximum 3.5 volume percent. Goods with CN code 28-29, 3201-3206, 3301-3302, 3501-3505, 3507 can be subject to reduced VAT rate if they constitute food additives.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Except: 0301 11 00 &amp; 0301 19 00; 0106: only live rabbits, frogs, roe deer, partridges, pheasants, and other wild fowl; 1207 99 96: only pumpkin seed; 1208 90 00: only crumbled or ground poppy seed; 2501 00 10: only salt; 2501 00 91: only salt; 2530 90 70: only sepiolite; 2923 20 00: only lecithin; 2934 99 90: only acesulfame; 3824 99 96: only dietetic salt; 2106: ex. sugar syrups and prep. for making bev. (2106 90 30-59, 2106 90 98); 2202: ex. bev. cont. added sugar or sweeteners",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

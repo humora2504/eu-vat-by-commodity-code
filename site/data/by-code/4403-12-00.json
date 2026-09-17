@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "4403 12 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PLANT",
+   "category_description": "Live plants and other floricultural products, including bulbs, cotton, roots and the like, cut flowers and ornamental foliage",
+   "code_kind": "CN",
+   "code_description": "Non-coniferous",
+   "comment": "Royal Decree N° 20, Table A, category VII, 11°, 12°, 13°, 14°, 15° - Live plants and other floricultural products, including bulbs, roots and the like, cut flowers and cut foliage (*1, see EXTRA INFO) also when supplied for the designing and the maintenance of gardens; wood",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

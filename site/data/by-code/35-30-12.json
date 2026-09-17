@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "35.30.12",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "SUSTAINABLE_ENERGY",
+   "category_description": "Supply of electricity, district heating and district cooling, and biogas produced by the feedstock listed in Annex IX, Part A, to Directive (EU) 2018/2001 of the European Parliament and of the Council; supply and installation of highly efficient low emissions heating systems meeting the emission (PM) benchmarks laid down in Annex V to Commission Regulation (EU) 2015/1189 and in Annex V to Commission Regulation (EU) 2015/1185 and having been attributed an EU energy label to show that the criterion referred to in Article 7(2) of Regulation (EU) 2017/1369 of the European Parliament and of the Council is met; and, until 1 January 2030, natural gas and wood used as firewood",
+   "code_kind": "CPA",
+   "code_description": "Steam and hot water supply services through mains",
+   "comment": "Royal Decree N0 20, Table A, category XIV.\r\nThe supply of electricity, heat through heating networks and natural gas used as heating fuel under residential contracts.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "code_kind": "CPA",
+   "code_description": "Steam and hot water supply services through mains",
+   "comment": "Royal Decree N° 20, Table A, category XIV: the supply of heat through heating networks under residential contracts for which, with the closure of the contract in mind, a business number has not been communicated by the customer natural person",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "code_kind": "CPA",
+   "code_description": "Steam and hot water supply services through mains",
+   "comment": "Subscriptions to deliveries of heat energy distributed by networks, as well as the supply of heat when produced at least 50% from biomass, geothermal, solar thermal energy, waste and recovered energy, and delivery of chilled energy distributed by networks (article 278-0 bis B and B bis of the general tax code)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "code_kind": "CPA",
+   "code_description": "Steam and hot water supply services through mains",
+   "comment": "District heating",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LV",
+   "country": "Latvia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "code_kind": "CPA",
+   "code_description": "Steam and hot water supply services through mains",
+   "comment": "Supplies of thermal energy, if the actual consumer thereof is an inhabitant who purchases and consumes thermal energy for domestic needs. \n(Section 42, Paragraph 12 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "SUSTAINABLE_ENERGY",
+   "category_description": "Supply of electricity, district heating and district cooling, and biogas produced by the feedstock listed in Annex IX, Part A, to Directive (EU) 2018/2001 of the European Parliament and of the Council; supply and installation of highly efficient low emissions heating systems meeting the emission (PM) benchmarks laid down in Annex V to Commission Regulation (EU) 2015/1189 and in Annex V to Commission Regulation (EU) 2015/1185 and having been attributed an EU energy label to show that the criterion referred to in Article 7(2) of Regulation (EU) 2017/1369 of the European Parliament and of the Council is met; and, until 1 January 2030, natural gas and wood used as firewood",
+   "code_kind": "CPA",
+   "code_description": "Steam and hot water supply services through mains",
+   "comment": "Supply of district heating in the cold season (the 5-month period between November 1 of the current year and March 31 of the following year), intended for: the population, public and private hospitals, public and private educational institutions, non-governmental organizations, religious institutions, accredited public and private social service providers. See Art. 291 para. (2), letters k) of the Fiscal Code.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0602 30 00",
+ "entries": [
+  {
+   "member_state": "ES",
+   "country": "Spain",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Rhododendrons and azaleas, grafted or not",
+   "comment": "As from 01/01/2021 sugar-sweetened beverages are subject to the standard VAT rate (21%)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "PLANT",
+   "category_description": "Live plants and other floricultural products, including bulbs, cotton, roots and the like, cut flowers and ornamental foliage",
+   "code_kind": "CN",
+   "code_description": "Rhododendrons and azaleas, grafted or not",
+   "comment": "- Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant\r\n- Other ornamental live plants (including their roots), cuttings and slips\r\n- Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh or dried\r\n- Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh or dried",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PT",
+   "country": "Portugal",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "Rhododendrons and azaleas, grafted or not",
+   "comment": "Some products are taxed at 13%. \r\nThe tax rate on animals applies only to live stock, agricultural labor and reproductive.",
+   "situation_on": "2026-01-01"
+  }
+ ]
+}

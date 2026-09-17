@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3002 90 50",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Cultures of micro-organisms",
+   "comment": "Royal Decree N° 20, Table A, cat. X (…)\r\nThe reduced rate only applies for:\r\n- products intended for sale for oral human consumption other than beverages in 2936, 3006 6000\r\n- for the manufacture of foodstuffs in 3002 9050\r\n- for oral human consumption in 3306\r\n- proteins/gelatin for food in 3502 1990 and 3503 0010\r\n- some semi-finished products for the preparation of products for human consumption 3507 9090\r\n- artif. sweeteners for human consumption in 3824 6091",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Cultures of micro-organisms",
+   "comment": "Royal Decree N° 20, Table A, category XVII\r\nThe reduced rates only applies to: -medicinal products registered as medicines/medicinal product  according to the Belgian law: 3002 1200, 3002 1900, 3002 1300, 3002 1400, 3002 1500, 3002 2000, 3002 3000, 3006 3000, 3006 7000, 3824 9958, 3002 9030, 3002 9050, 3002 9090, 3004, 3006 6000",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Cultures of micro-organisms",
+   "comment": "Royal Decree N° 20, Table A, category XVII\r\nThe reduced rate only applies to:\r\n- products offered for sale for oral consumption by humans, excluding beverages: 3002 9050, 3004, 3006 6000\r\n- bone cements containing antibiotics having an action accessory to that of the device: 3006 4000\r\n- sterile viscoelastic substances strictly intended for human or veterinary medical or surgical use: 3304 99",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Cultures of micro-organisms",
+   "comment": "Restricted to medicines in the meaning of The Medicines Act. Including herbal medicinal products and homeopathic preparations in so far they, according to the registration due to The Med. Act may be sold only at pharmacies. Also including clinical foodstuffs as well as basic creams and ointments in so far they are eligible for reimbursement in accordance with the The Health Insurance Act. Female sanitary protection and incontinence articles and napkins for babies taxed with the reduced rate.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "Cultures of micro-organisms",
+   "comment": "article 278 bis 5° b e of the general tax code. Excepted 2501 00 10 and 2827 39 10",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Cultures of micro-organisms",
+   "comment": "Applies to medicines which have the approval of the competent authority for medicines and medical products.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

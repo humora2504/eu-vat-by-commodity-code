@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "2941",
+ "entries": [
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Antibiotics",
+   "comment": "Restricted to medicines in the meaning of The Medicines Act. Including herbal medicinal products and homeopathic preparations in so far they, according to the registration due to The Med. Act may be sold only at pharmacies. Also including clinical foodstuffs as well as basic creams and ointments in so far they are eligible for reimbursement in accordance with the The Health Insurance Act. Female sanitary protection and incontinence articles and napkins for babies taxed with the reduced rate.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Antibiotics",
+   "comment": "For non reimbursed pharmaceutical products (article 278 quater of the general tax code)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "2.1",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Antibiotics",
+   "comment": "For reimbursed pharmaceutical products (article 281 octies of the general tax code)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SK",
+   "country": "Slovakia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Antibiotics",
+   "comment": "Only selected items.\r\nExhaustive list can be found in Annex 7 of Act No. 222/2004 Coll. on Value Added Tax as amended via the following link https://www.mfsr.sk/en/taxes-customs-accounting/indirect-taxes/vat/",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

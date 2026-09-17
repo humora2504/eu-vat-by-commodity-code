@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0106 33 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Ostriches; emus (Dromaius novaehollandiae)",
+   "comment": "Royal Decree N° 20, Table A, category I and II  \r\nThe reduced rate only applies to \r\n- draught horses, heavy and medium weight in 0101 2100, 0101 2990\r\n- deers in 0106 1900\r\n- domestic pigeons in 0106 3910\r\n- animal blood whether or not dried in 0511 9985",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Ostriches; emus (Dromaius novaehollandiae)",
+   "comment": "Domestic rabbits, pigeons, hares, partridges, pheasants, frogs and other live animals intended for human consumption.\r\nOnly if intended for human consumption",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PT",
+   "country": "Portugal",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "Ostriches; emus (Dromaius novaehollandiae)",
+   "comment": "Some products are taxed at 13%. \r\nThe tax rate on animals applies only to live stock, agricultural labor and reproductive.",
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Ostriches; emus (Dromaius novaehollandiae)",
+   "comment": "Food, including beverages, intended for human and animal consumption, live animals and poultry of domestic species, except alcoholic beverages, non-alcoholic beverages NC 2202, foods with added sugar, whose total sugar content is at least 10g/100g product, other than milk formula for newborns, infants and young children, food supplements defined by Law No. 56/2021: art. 291 para (2) lett. b) of Fiscal Code and point 37 (4)-(4^3) of Norms.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

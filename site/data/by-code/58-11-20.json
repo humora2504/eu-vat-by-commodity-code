@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "58.11.20",
+ "entries": [
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CPA",
+   "code_description": "E-books",
+   "comment": "Article 278-0 bis A 3° of the general tax code",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LT",
+   "country": "Lithuania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CPA",
+   "code_description": "E-books",
+   "comment": "Applies for printed and electronic books as well as printed and electronic non-periodical information publications (see non-exhaustive most common publications supplied list in Comment of VAT Law on the STI website)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CPA",
+   "code_description": "E-books",
+   "comment": "The reduced VAT rate is applied for the supply of school textbooks, books, newspapers and magazines, either on physical means of support and/or supplied electronically, except for those which have, wholly or predominantly, video or music audio content and those intended exclusively or mainly for advertising. See art. 291 para. (2) letter g) of the Fiscal Code corroborated with point 38 of the Methodological Norms.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

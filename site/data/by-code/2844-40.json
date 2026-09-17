@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "2844 40",
+ "entries": [
+  {
+   "member_state": "SK",
+   "country": "Slovakia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Radioactive elements and isotopes and compounds other than those of subheading 284410, 284420 or 284430; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues",
+   "comment": "Only selected items.\r\nExhaustive list can be found in Annex 7 of Act No. 222/2004 Coll. on Value Added Tax as amended via the following link https://www.mfsr.sk/en/taxes-customs-accounting/indirect-taxes/vat/",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1207 91 10",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Seed",
+   "comment": "Linseed and castor seeds; other oily seeds and fruits not intended for de-oiling, excluding crushed ones.\r\nThe CN code 1207 992090 is included.\r\n1205 1090, 1205 90, 1206 0091, 1206 0099, 1207 10, 1207 29, 1207 4090, 1207 5090, 1207 60, 1207 70, 1207 9190, 1207 992090, 1207 9991, 1207 9996 excluding those intended for oil extraction and those crushed.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "Seed",
+   "comment": "The reduced VAT rate shall be applied for the supply of fertilizers and pesticides used in agriculture, seeds and other agricultural products intended for sowing or planting, corresponding to the CN codes mentioned below. For details see art. 291 para. (2) letter e) of the Fiscal Code and art. 1 para. (1) of the Order no. 4634/2022.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

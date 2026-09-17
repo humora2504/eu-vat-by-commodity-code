@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8428 90 90",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "This reduced rate applies only to lifts for people with disabilities (including bath lifts and swimming pool lifts, vertical and sloping ground lift platforms for wheelchairs,  stair lifts).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Children's tricycle for children with motor impairments, wooden chair for children with motor impairment; therapeutic rollers, therapeutic balls, therapeutic exercise boards and therapeutic pillows for children with motor impairments; room lift and bathroom lift",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SK",
+   "country": "Slovakia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Only selected items.\r\nExhaustive list can be found in Annex 7 of Act No. 222/2004 Coll. on Value Added Tax as amended via the following link https://www.mfsr.sk/en/taxes-customs-accounting/indirect-taxes/vat/",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

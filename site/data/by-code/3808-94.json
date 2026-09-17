@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3808 94",
+ "entries": [
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Disinfectants",
+   "comment": "Applies to medicines which have the approval of the competent authority for medicines and medical products.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Disinfectants",
+   "comment": "Applies to medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled people, prescribed by an act of general application on orthopaedic and other aids.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Disinfectants",
+   "comment": "Articles of protective clothing for health purposes such as latex, vinyl and nitrile gloves, protective goggles and visors, protective suits, footwear and overshoes, caps, waterproof gowns, surgical gowns; thermometers; disinfectant hand cleaners; wall dispenser for disinfectants; hydroalcoholic solution in liters; 3 percent peroxide in liters; emergency trolleys; RNA extractors;",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "Disinfectants",
+   "comment": "Plant protection products authorised by the administration of technical services for agriculture (Administration des services techniques de l'agriculture ASTA) for organic agriculture where the requirements laid down in modified regulation (EC) 834/2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91 are met",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "CHEMICAL_PESTICIDES_ENVIRONMENT",
+   "category_description": "Until 1 January 2032: Chemical pesticides",
+   "code_kind": "CN",
+   "code_description": "Disinfectants",
+   "comment": "Plant protection products authorised by the administration of technical services for agriculture (Administration des services techniques de l'agriculture ASTA) for organic agriculture where the requirements laid down in modified regulation (EC) 834/2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91 are met",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

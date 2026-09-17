@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1102 90 50",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Rice flour",
+   "comment": "Flour and groats of wheat, maize and rye; barley flours; oat flours, rice flours and other minor cereals intended for zootechnical use.\r\n1102 9030, 1102 9050, 1102 9090 if intended for zootechnical use.\r\nThe reduced rate of 4% applies also to the following item: 1103 192090",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Rice flour",
+   "comment": "Oat flours and flours of other minor cereals intended for uses other than the zootechnical one.\r\n1102 9030, 1102 9050, 1102 9090 if intended for uses other than the zootechnical one",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PT",
+   "country": "Portugal",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Rice flour",
+   "comment": "Foodstuffs are also taxed at 0%,13% and 23%.",
+   "situation_on": "2026-01-01"
+  }
+ ]
+}

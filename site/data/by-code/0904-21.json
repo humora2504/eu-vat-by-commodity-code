@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0904 21",
+ "entries": [
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Dried, neither crushed nor ground",
+   "comment": "Tabel I prov. a.1: foodstuff for human consumption, products used for preparation of human foodstuff that are wholly/partially incorporated in these foodstuff, supplements/substitutes for human foodstuff;\r\nExcluded: living animals, except if consumed raw.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

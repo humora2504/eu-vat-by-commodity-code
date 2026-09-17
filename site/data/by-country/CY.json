@@ -1,0 +1,702 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "CY",
+ "country": "Cyprus",
+ "rates": [
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-01-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "When organized by non-profit organizations and does not distort competition between them and profit organizations",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "91",
+     "description": "Libraries, archives, museums and other cultural services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93",
+     "description": "Sporting services and amusement and recreation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "94",
+     "description": "Services furnished by membership organisations"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "situation_on": "2026-01-01",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41",
+     "description": "Residential and non-residential buildings, residential and non-residential buildings construction works"
+    },
+    {
+     "kind": "CPA",
+     "code": "43",
+     "description": "Specialised construction works"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "situation_on": "2026-01-01",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "82",
+     "description": "Office administrative, office support and other business support services"
+    },
+    {
+     "kind": "CPA",
+     "code": "85",
+     "description": "Education services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86",
+     "description": "Human health services"
+    },
+    {
+     "kind": "CPA",
+     "code": "87",
+     "description": "Residential care services"
+    },
+    {
+     "kind": "CPA",
+     "code": "88",
+     "description": "Social work services without accommodation"
+    },
+    {
+     "kind": "CPA",
+     "code": "90",
+     "description": "Arts creation and performing arts services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91",
+     "description": "Libraries, archives, museums and other cultural services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93",
+     "description": "Sporting services and amusement and recreation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "94",
+     "description": "Services furnished by membership organisations"
+    },
+    {
+     "kind": "CPA",
+     "code": "99",
+     "description": "Services provided by extraterritorial organisations and bodies"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "situation_on": "2026-01-01",
+   "category_id": "UNDERTAKERS_SERVICES",
+   "category_description": "Supply of services by undertakers and cremation services, and the supply of goods related thereto",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96",
+     "description": "Personal services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": "Live animals, feeding stuffs (including food for birds and fish)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "01",
+     "description": "CHAPTER 1 - LIVE ANIMALS"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "The sale of: baby milk, baby diapers, adult diapers, women hygiene products, fresh vegetable and fruits are liable at 0% until 31/12/2026",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "02",
+     "description": "CHAPTER 2 - MEAT AND EDIBLE MEAT OFFAL"
+    },
+    {
+     "kind": "CN",
+     "code": "03",
+     "description": "CHAPTER 3 - FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES"
+    },
+    {
+     "kind": "CN",
+     "code": "04",
+     "description": "CHAPTER 4 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "08",
+     "description": "CHAPTER 8 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+     "kind": "CN",
+     "code": "09",
+     "description": "CHAPTER 9 - COFFEE, TEA, MATÉ AND SPICES"
+    },
+    {
+     "kind": "CN",
+     "code": "10",
+     "description": "CHAPTER 10 - CEREALS"
+    },
+    {
+     "kind": "CN",
+     "code": "11",
+     "description": "CHAPTER 11 - PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "14",
+     "description": "CHAPTER 14 - VEGETABLE PLAITING MATERIALS; VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "15",
+     "description": "CHAPTER 15 - ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES"
+    },
+    {
+     "kind": "CN",
+     "code": "17",
+     "description": "CHAPTER 17 - SUGARS AND SUGAR CONFECTIONERY"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "The sale of in vitro products and vaccines related to virus covid 19 are liable at 0% from 13/01/2023 until 31/5/2023\r\n\r\nFrom 5/5/2023 up until 31/12/2025 until the sale of the following: baby milk (liquid or powder), baby diapers, adult diapers, products related to feminine hygiene protection are liable at the 0%\r\n\r\nFrom 1/12/23 up until 31/12/25 sale of fresh or refrigerated vegetables of all kinds for human consumption are liable at the 0% VAT",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "30",
+     "description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": "Fertilizers, insecticides, rodenticides, fungicides, herbicides, disinfectants (under tariff code 31)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "31",
+     "description": "CHAPTER 31 - FERTILISERS"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Lifting devices for the disabled \r\n(under tariff code 84.28)\r\nBraille typewriters and pocket size specialized electronic communication devices for the disabled (under tariff code 84.69)\r\nHearing aids and orthopedic devices (under tariff code 90.21)\r\nWheelchairs for the disabled  \r\n(under tariff code 87.13)\r\nRepair services of the aforementioned goods - standard rate",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "84",
+     "description": "CHAPTER 84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF"
+    },
+    {
+     "kind": "CN",
+     "code": "90",
+     "description": "CHAPTER 90 - OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "CHILDREN_CAR_SEATS",
+   "category_description": "Supply of children’s car seats",
+   "comment": "Children's car seats to be used by land vehicles and specially designed for children up to 12 years old",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "87",
+     "description": "CHAPTER 87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "ZOOLOGICAL",
+   "category_description": "Importation of collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, paleontological, ethnographic or numismatic interest (CN code 9705 00 00)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "97",
+     "description": "CHAPTER 97 - WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "100_YEARS_OLD",
+   "category_description": "Goods, other than works of art or collector’s items, which are more than 100 years old (CN code 9706 00 00)",
+   "comment": "only the importation of archeological goods under tariff code 9706 00 00 - is liable at the reduced vat rate 5%",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "97",
+     "description": "CHAPTER 97 - WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "UNDERTAKERS_SERVICES",
+   "category_description": "Supply of services by undertakers and cremation services, and the supply of goods related thereto",
+   "comment": "Only the sale of coffins is liable at the extra reduced rate of 5%",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "32",
+     "description": "Other manufactured goods"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "36",
+     "description": "Natural water; water treatment and supply services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "38",
+     "description": "Waste collection, recovery and disposal services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "Renovation services related to extension of house used as a residence",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41",
+     "description": "Residential and non-residential buildings, residential and non-residential buildings construction works"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "City and rural buses",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49",
+     "description": "Land transport services and transport services via pipelines"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "58",
+     "description": "Publishing services"
+    },
+    {
+     "kind": "CPA",
+     "code": "90",
+     "description": "Arts creation and performing arts services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "86",
+     "description": "Human health services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93",
+     "description": "Sporting services and amusement and recreation services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93",
+     "description": "Sporting services and amusement and recreation services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-01-01",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "comment": "Hair extensions and wigs are liable at the standard rate",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96",
+     "description": "Personal services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-01-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Urban/suburban/rural taxi\r\nTouristic/excursion/intercity buses",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49",
+     "description": "Land transport services and transport services via pipelines"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-01-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "Until 31/8/2022 was 5% - from 1/9/2022 is 9%",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55",
+     "description": "Accommodation services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-01-01",
+   "category_id": "RESTAURANT",
+   "category_description": "Restaurant and catering services, it being possible to exclude the supply of (alcoholic and/or non-alcoholic) beverages",
+   "comment": "Until 31/8/2022 was 5% - from 1/9/2022 is 9%",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56",
+     "description": "Food and beverage serving services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-01-01",
+   "category_id": "BOOKS",
+   "category_description": "Books",
+   "comment": "Books under tariff code 49.01-49.05\r\nAudio books for persons with disability under tariff code 85.23",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "49",
+     "description": "CHAPTER 49 - PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+    },
+    {
+     "kind": "CN",
+     "code": "85",
+     "description": "CHAPTER 85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-01-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "under tariff code 49.01-49.05",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "49",
+     "description": "CHAPTER 49 - PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-01-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "under tariff code 49.01-49.05",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "49",
+     "description": "CHAPTER 49 - PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-01-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "3% VAT rate from 21/7/2023 \r\nLifting devices for the disabled \r\n(under tariff code 84.28)\r\nBraille typewriters and pocket size specialized electronic communication devices for the disabled (under tariff code 84.69)\r\nOrthopedic devices including medical surgical belts, bandage and crutches, splints, supports and other items and devices for fractures, items and prosthetic devices, hearing devices for the deaf (under tariff code 90.21)\r\nWheelchairs for the disabled  \r\n(under tariff code 87.13)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "84",
+     "description": "CHAPTER 84 - NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF"
+    },
+    {
+     "kind": "CN",
+     "code": "90",
+     "description": "CHAPTER 90 - OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-01-01",
+   "category_id": "WASTE_TREATMENT_REFUSAL",
+   "category_description": "Refuse collection and waste treatment",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "38",
+     "description": "Waste collection, recovery and disposal services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-01-01",
+   "category_id": "WASTE_TREATMENT",
+   "category_description": "Sewage disposal and treatment and emptying of septic tanks and industrial tanks",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "38",
+     "description": "Waste collection, recovery and disposal services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-01-01",
+   "category_id": "THEATRE_PERFORMANCES",
+   "category_description": "140 first theatre and circus performances",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93",
+     "description": "Sporting services and amusement and recreation services"
+    }
+   ]
+  },
+  {
+   "member_state": "CY",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "19.0",
+   "situation_on": "2026-01-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  }
+ ]
+}

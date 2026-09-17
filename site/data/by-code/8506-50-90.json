@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8506 50 90",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Royal Decree N° 20, Table A, category  XXIII, N° 11 - external defibrillators (ED)\r\n\r\nThe reduce rates only apply for: \r\n- batteries intended for ED: 8506 5090 90, 8507 6000 90\r\n- specific software and specific data storage card + Remotes for ED: \r\n8523 5110, 8523 5190, 8543 7090\r\n- ED: 9018 9084\r\n- first aid or intervention kits linked to the use of the external defibrillator 9019 2000\r\n- cabinets specially designed for the storage of ED: 9402 9000",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

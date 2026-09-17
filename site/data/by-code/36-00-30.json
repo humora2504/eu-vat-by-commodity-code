@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "36.00.30",
+ "entries": [
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "code_kind": "CPA",
+   "code_description": "Trade services of water through mains",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "code_kind": "CPA",
+   "code_description": "Trade services of water through mains",
+   "comment": "As regards CN 2201 only water supplies by distrubition networks, tanks, other transport modes",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "code_kind": "CPA",
+   "code_description": "Trade services of water through mains",
+   "comment": "The reduced VAT rate is applied for the supply of water for irrigation in agriculture and for water supply and sewerage services. See art. 291 para. (2) letters c) and d) of the Fiscal Code and point 37 para. (13) of the Methodological Norms.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0301 99",
+ "entries": [
+  {
+   "member_state": "ES",
+   "country": "Spain",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "As from 01/01/2021 sugar-sweetened beverages are subject to the standard VAT rate (21%)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Excluding live animals and tap water. As a main rule, regarding groups 07, 10, 12 and 15, products used for sowing are excluded. Regarding group 15 products used for industrial uses other than the manufacture of foodstuffs for human or animal consumption are excluded.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Food, including beverages, intended for human and animal consumption, live animals and poultry of domestic species, except alcoholic beverages, non-alcoholic beverages NC 2202, foods with added sugar, whose total sugar content is at least 10g/100g product, other than milk formula for newborns, infants and young children, food supplements defined by Law No. 56/2021: art. 291 para (2) lett. b) of Fiscal Code and point 37 (4)-(4^3) of Norms.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "- Foodstuffs referred to in article 2 in regulation EC no 178/2002 are subject to reduced VAT rate, with the exception for tap water and certain alcoholic beverages, see chapter 9 section 3 in the Swedish VAT Act.\r\n- Goods with CN code 2203 can be subject to reduced VAT rate provided that the alcohol content is maximum 3.5 volume percent. Goods with CN code 28-29, 3201-3206, 3301-3302, 3501-3505, 3507 can be subject to reduced VAT rate if they constitute food additives.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

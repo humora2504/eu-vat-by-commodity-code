@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3922 90 00",
+ "entries": [
+  {
+   "member_state": "LT",
+   "country": "Lithuania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Disabled technical aids and/or accessories, as listed in Order no. A1-338,  approved by the Minister of Social Security and Labor in 2006 December 19th or others (non-exhaustive list of technical assistance measures with different conditions of supply (must be documented for dissability purposes or  dissabled person's actual use) of such measures; see Comment on VAT Law on STI website)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SK",
+   "country": "Slovakia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Only selected items.\r\nExhaustive list can be found in Annex 7 of Act No. 222/2004 Coll. on Value Added Tax as amended via the following link https://www.mfsr.sk/en/taxes-customs-accounting/indirect-taxes/vat/",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

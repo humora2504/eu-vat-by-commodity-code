@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "40",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 40 - RUBBER AND ARTICLES THEREOF",
+   "comment": "From January 1, 2026, the supply of chemical, hormonal and mechanical contraceptives and of all kinds of feminine hygiene products are zero tax rated.\n\nPlease notice that until December 31, 2025, all kinds of feminine hygiene products were subject to a reduced tax rate of 10% and the standard tax rate of 20% was applied to contraceptives.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

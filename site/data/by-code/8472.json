@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8472",
+ "entries": [
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or -wrapping machines, pencil-sharpening machines, perforating or stapling machines)",
+   "comment": "For tariff headings of goods intended to service people with vision disabilities the reduced rate applies only on white sticks (6602) Braille typewriters  (8472), on computer programs (jaws, supernova, hall, loudspeaker, fine reader, cellphone programs in Greek and foreign version-mobile speak, speaking phone) (8523), on  Braille printers (8443)  writing frames for people with reduced abilities vision (Braille) (3926)",
+   "situation_on": "2025-01-01"
+  }
+ ]
+}

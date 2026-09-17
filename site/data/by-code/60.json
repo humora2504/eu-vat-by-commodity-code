@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "60",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "code_kind": "CPA",
+   "code_description": "Programming, broadcasting, news agency and other content distribution services",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "code_kind": "CPA",
+   "code_description": "Programming, broadcasting, news agency and other content distribution services",
+   "comment": "Tax is paid on the payment from the Radio and Television Fund to the Finnish Broadcasting company and from a similar payment to Ålands radio and TV. (Pay and Cable TV are taxed at standard rate.)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "code_kind": "CPA",
+   "code_description": "Programming, broadcasting, news agency and other content distribution services",
+   "comment": "Subscription fees for circular broadcasts excluding of those transmitted in codified form; broadcasting services excluding those transmitted in codified form with predominantly political trade union cultural religious sporting educational or recreational character pursuant to Art. 19 b) c) Law 103/75\r\nThe reduced rate is applied only to subscription fees for circular broadcasts and on the tax base consisting of the share due, pursuant to current provisions, to the concessionaire of the service",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

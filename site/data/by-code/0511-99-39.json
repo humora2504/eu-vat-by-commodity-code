@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0511 99 39",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Annex 1 to Sec. 10 of the Austrian VAT Act 1994 contains a list of goods falling under the reduced rate of 10% such as meal, fish, cereals, edible vegetable oils and so on (https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10004873&amp;Artikel=&amp;Paragraf=&amp;Anlage=1&amp;Uebergangsrecht=).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "From January 1, 2026, the supply of chemical, hormonal and mechanical contraceptives and of all kinds of feminine hygiene products are zero tax rated.\n\nPlease notice that until December 31, 2025, all kinds of feminine hygiene products were subject to a reduced tax rate of 10% and the standard tax rate of 20% was applied to contraceptives.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "DE",
+   "country": "Germany",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "VAT - Import - Article 98 (2) and Annex III of the VAT Directive: Annex 2 of the German VAT Act contains a list of goods falling under the reduced rate of 7% such as products for monthly hygiene purposes and so on. For legal certainty please have a look at the German VAT Act.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "DE",
+   "country": "Germany",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Article 98 (2) and Annex III of the VAT Directive: Annex 2 of the German VAT Act contains a list of goods falling under the reduced rate of 7% such as products for monthly hygiene purposes and so on. For legal certainty please have a look at the German VAT Act.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Products used for sanitary protection: sanitary towels (pads), tampons, panty liners, period panties, menstrual cups, menstrual sponges and similar feminine hygiene products; Sheath contraceptives",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

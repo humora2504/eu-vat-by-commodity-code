@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3006 10 10",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Sterile surgical catgut",
+   "comment": "This reduced rate applies only to incontinence products: — mattress protection sheets: — thin film; 3921 90 10  — absorbent; 4818 90, 9619 00 79 — special netting pants for fixing diapers; 6108 22 00 — incontinence pads and diapers (other than baby diapers); 9619 — gel implants and ribbons that are injected into the body to prevent urinary incontinence ; 3006 10 10 bladder neck inclination’s correction products to prevent urinary incontinence 9018 39 00.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

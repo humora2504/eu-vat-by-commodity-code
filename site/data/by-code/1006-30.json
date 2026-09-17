@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1006 30",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Semi-milled or wholly milled rice, whether or not polished or glazed",
+   "comment": "Rice, oats, other minor cereals, broken or crushed, intended for uses other than the zootechnical one. \r\n1006 20, 1006 30, 1006 40, 1007 90, 1008, 1104 1210 , 1104 1910, 1104 1930, 1104 1950, 1104 2295, 1104 2398 if not intended for zootechnical use.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Semi-milled or wholly milled rice, whether or not polished or glazed",
+   "comment": "Wheat, including rye, rye; maize; rice; paddy rice; barley, excluding that intended for sowing; oats, buckwheat, millet, canary seed, sorghum and other minor cereals, intended for zootechnical use\r\n1004 90  if intended for zootechnical use, 1006 20 (rice, not broken or crushed, intended for zootechnical use), 1006 30,1006 40, 1007 90, 1008 10, 1008 29 00, 1008 30, 100840,100850, 1008 60, 1008 90 if intended for zootechnical use",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Semi-milled or wholly milled rice, whether or not polished or glazed",
+   "comment": "Wheat, maize, rye and barley, broken or crushed; rice, oats and other minor cereals, broken or crushed, intended for zootechnical use.\r\n1006 20, 1006 30, 1006 40 rice if broken or crushed, for zootechnical use;  1104 1910, 1104 1930, 1104 1950, 1104 2398, 1104 2908 if broken or crushed; 1104 1210, 1104 2295, 1104 2959, 1104 1999 if broken or crushed, intended for zootechnical use.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PT",
+   "country": "Portugal",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Semi-milled or wholly milled rice, whether or not polished or glazed",
+   "comment": "Foodstuffs are also taxed at 0%,13% and 23%.",
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Semi-milled or wholly milled rice, whether or not polished or glazed",
+   "comment": "Food, including beverages, intended for human and animal consumption, live animals and poultry of domestic species, except alcoholic beverages, non-alcoholic beverages NC 2202, foods with added sugar, whose total sugar content is at least 10g/100g product, other than milk formula for newborns, infants and young children, food supplements defined by Law No. 56/2021: art. 291 para (2) lett. b) of Fiscal Code and point 37 (4)-(4^3) of Norms.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

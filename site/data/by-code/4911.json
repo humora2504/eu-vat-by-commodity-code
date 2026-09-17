@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "4911",
+ "entries": [
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CN",
+   "code_description": "Other printed matter, including printed pictures and photographs",
+   "comment": "Supply, including on loan by libraries, of books, picture books, drawing or colouring books, brochures, music and maps, including audio recordings of their content (other than those where advertising exceeds 50% of their content, or those that consist wholly or mainly of video content or audible music). It also applies to electronic versions (e-books, etc.).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other printed matter, including printed pictures and photographs",
+   "comment": "This reduced rate applies only to other printed material, including printed reproductions and photographs in relief for blind and visually impaired persons.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CN",
+   "code_description": "Other printed matter, including printed pictures and photographs",
+   "comment": "Newspapers and daily newsletters, news agency dispatches, books, periodicals, including in Braille writing and on audio-magnetic media for the blind and visually impaired, with the exception of pornographic newspapers and periodicals and catalogs other than those of book information, printed musical editions and geographic maps, including printed globes; paper needed for printing them.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LT",
+   "country": "Lithuania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CN",
+   "code_description": "Other printed matter, including printed pictures and photographs",
+   "comment": "Applies for printed and electronic books as well as printed and electronic non-periodical information publications (see non-exhaustive most common publications supplied list in Comment of VAT Law on the STI website)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "code_kind": "CN",
+   "code_description": "Other printed matter, including printed pictures and photographs",
+   "comment": "As regards CN codes: 4902 (only regional or local periodicals), 4911 (only regional or local yearbooks),  8523 (only regional or local periodicals and yearbooks on physical means of support)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "PHOTOGRAPHS",
+   "category_description": "Photographs taken by the artist, printed by him or under his supervision, signed and numbered and limited to 30 copies, all sizes and mounts included",
+   "code_kind": "CN",
+   "code_description": "Other printed matter, including printed pictures and photographs",
+   "comment": "The Polish VAT rules, following the VAT Directive, do not provide for CN codes with respect to those items (the CN code 4911 91 is provided illustratively only).",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

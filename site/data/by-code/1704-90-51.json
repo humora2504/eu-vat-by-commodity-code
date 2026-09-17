@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1704 90 51",
+ "entries": [
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Pastes, including marzipan, in immediate packings of a net content of 1 kg or more",
+   "comment": "Food for human consumption, excluding food supplied for catering, is taxed at 0% (exempt with credit) (part 4).  \r\n\r\nThe above exemption does not apply to items classified under the following subheadings in the First Schedule of the Import Duties Act:\r\n\r\n(1) 1515.90.15.00;1515.90.15.90;1515.90.21.00; 1515.90.31.00;1515.90.40.00;1515.90.60.00; 1516.20.10.00; 1517.90.93; 1521.90.10.00\r\n\r\n(2) 2006.00.10; 2009\r\n\r\n(3) 2105.00; 2106.90.20.00; 2106.90.98.33; 2106.90.98.37; 2106.90.98.39\r\n\r\n(4) 2307.00",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

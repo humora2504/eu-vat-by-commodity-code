@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "88.99.1",
+ "entries": [
+  {
+   "member_state": "DK",
+   "country": "Denmark",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Other social work services without accommodation n.e.c.",
+   "comment": "Delivery of goods and services related to charitable events - e.g. collection and sale of used items of little value - is exempt under certain conditions according to section 13(1)(17). Exemption obtained by prior application to the tax authorities on condition that the event does not distort competition in relation to commercial enterprises. An application for exemption is based on a specific assessment (event has a charitable purpose or has a commercial character).",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

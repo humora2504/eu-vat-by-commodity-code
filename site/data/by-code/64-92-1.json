@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "64.92.1",
+ "entries": [
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "category_id": "CREDIT_MANAGEMENT",
+   "category_description": "Management of credits and credit guarantees by a person or body other than those who granted the credits",
+   "code_kind": "CPA",
+   "code_description": "Other credit granting services, other than by monetary institutions",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

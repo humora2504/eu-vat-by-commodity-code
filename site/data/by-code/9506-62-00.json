@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9506 62 00",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Inflatable",
+   "comment": "This reduced rate applies only to occupational therapy and movement therapy equipment: balloons (for breathing function training), mega-balls, active balls, sitting balls, balls for the therapy of seniors and functional balls for rehab. of sick or disabled person; 9506 62 00 — reflex balls and gravity balls, int. for rehab. of sick or disabled persons, 9506 69 90 —physioth. rollers, functional pillows for physiotherapy and back stretching benches; 9506 91 90 — rings for occup. th.; 9506 99 90",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

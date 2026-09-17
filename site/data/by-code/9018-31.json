@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9018 31",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Syringes, with or without needles",
+   "comment": "Royal Decree N° 20, Table A, category XVII\r\nThe reduced rate only applies to:\r\n- sterile hypodermic syringes for single use, intended for the injection of insulin solutions and graduated for this purpose in international units of insulin; disposable sterile needles for insulin injector pens: 9018 31\r\n-intrauterine IUDs (pessaries): 9018 9084",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Syringes, with or without needles",
+   "comment": "This reduced rate applies only to insulin pumps, insulin syringes, and accessories thereof.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "ES",
+   "country": "Spain",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Syringes, with or without needles",
+   "comment": "excluding 9018 90 30 subject to 4%",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Syringes, with or without needles",
+   "comment": "Article 278-0 bis A 2° of the general tax code",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Syringes, with or without needles",
+   "comment": "Applies to medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled people, prescribed by an act of general application on orthopaedic and other aids.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Syringes, with or without needles",
+   "comment": "Tabel I prov. a.36 and b.1: aids that are usually used for the subcutaneous administration of insulin, with the exception of syringes and needles that are apparently also suitable for other purposes; aids that are usually used for the self-diagnosis of blood sugar levels. \r\n\r\nOnly included are the mentioned devices specifically developed for diabetics and offered as such. Generally applicable aids such as individual injection needles and syringes are excluded.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

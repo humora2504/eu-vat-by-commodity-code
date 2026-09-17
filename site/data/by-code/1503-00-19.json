@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1503 00 19",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "lard stearin, oleostearin, lard oil and not emulsified oleo-oil, not mixed or otherwise prepared, intended for human or animal consumption.\r\n1503 0019 e 1503 0090 if for human or animal consumption",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Animal or vegetable fats and oils for human and animal consumption or  normally intended for use in the preparation of foodstuffs",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Some confectionery &amp; similar items are taxed at the reduced rate of 5%.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "- Foodstuffs referred to in article 2 in regulation EC no 178/2002 are subject to reduced VAT rate, with the exception for tap water and certain alcoholic beverages, see chapter 9 section 3 in the Swedish VAT Act.\r\n- Goods with CN code 2203 can be subject to reduced VAT rate provided that the alcohol content is maximum 3.5 volume percent. Goods with CN code 28-29, 3201-3206, 3301-3302, 3501-3505, 3507 can be subject to reduced VAT rate if they constitute food additives.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

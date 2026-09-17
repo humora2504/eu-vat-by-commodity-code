@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "87",
+ "entries": [
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Residential care services",
+   "comment": null,
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "CHILDREN_CAR_SEATS",
+   "category_description": "Supply of children’s car seats",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 87 - VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF",
+   "comment": "Children's car seats to be used by land vehicles and specially designed for children up to 12 years old",
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Residential care services",
+   "comment": "Social care, in so far as those transactions are not exempt.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Residential care services",
+   "comment": "The services referred to in Nos 18), 19), 20), 21) and 27-ter) of Article 10, paragraph 1, rendered in favour of the persons indicated in No 27-ter) by social cooperatives and their consortia; [health services, hospitalization and care services, educational services for children and youth and instruction, services of children's homes, orphanages, kindergartens, retirement homes for the elderly and the like; social and health services, home or outpatient care, community and similar services].",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LV",
+   "country": "Latvia",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Residential care services",
+   "comment": "Social care, vocational and social rehabilitation, social assistance and social work services.\n(Section 52, Paragraph 1, Clause 9 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

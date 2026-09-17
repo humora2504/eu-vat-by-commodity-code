@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EU VAT rates by commodity code — free, open, machine-readable</title>
+<meta name="description" content="VAT rates for 2667 CN and CPA commodity codes across all 27 EU member states, as JSON. Rebuilt daily from the European Commission&#x27;s database. Free under CC BY 4.0.">
+<link rel="canonical" href="https://humora2504.github.io/eu-vat-by-commodity-code/">
+<link rel="stylesheet" href="style.css">
+</head><body>
+<header><div class="wrap"><a class="logo" href="./">EU VAT by commodity code</a>
+<nav><a href="data/index.json">Data</a> <a href="licence.html">Licence</a> <a href="commercial.html">Commercial use</a></nav></div></header>
+<main class="wrap">
+
+<h1>EU VAT rates by commodity code</h1>
+<p class="lede">Which VAT rate applies to <em>this</em> product in <em>that</em> country, keyed to the
+same CN and CPA commodity codes your customs paperwork already uses. 2,667 codes, all 27
+member states, rebuilt daily from the European Commission's own database.</p>
+
+<h2>Why this exists</h2>
+<p>Published VAT tables give you a country's standard rate and its reduced rates. They do not tell you
+<em>which goods</em> each reduced rate covers, and that is the part that costs money. Two countries can
+both have a 10% reduced rate that applies to entirely different things. Undercharge VAT and you cannot
+recover it from the customer: the shortfall comes out of your margin, with interest on top.</p>
+<p>The Commission publishes this mapping. It is not published anywhere as open, machine-readable data.
+Now it is.</p>
+
+<h2>Use it</h2>
+<pre><code># every rate for one commodity code, across the EU
+curl https://humora2504.github.io/eu-vat-by-commodity-code/data/by-code/4901.json
+
+# everything one country charges
+curl https://humora2504.github.io/eu-vat-by-commodity-code/data/by-country/DE.json
+
+# the whole dataset
+curl https://humora2504.github.io/eu-vat-by-commodity-code/data/all.json</code></pre>
+
+<div class="grid">
+<div class="card"><h3>2,667 commodity codes</h3><p>CN codes for goods, CPA codes for services, exactly as the member states report them.</p></div>
+<div class="card"><h3>1,120 rate rows</h3><p>Across 27 member states, with the category each rate belongs to.</p></div>
+<div class="card"><h3>958 official comments</h3><p>The member states' own legal notes, in their own words, not a summary.</p></div>
+<div class="card"><h3>Rebuilt daily</h3><p>A scheduled job refetches and commits only when something actually changed, so the git history is the changelog.</p></div>
+</div>
+
+<h2>Browse a few</h2>
+<ul class="plain"><li><a href="code/0401.html">0401</a></li><li><a href="code/2201.html">2201</a></li><li><a href="code/3004.html">3004</a></li><li><a href="code/4901.html">4901</a></li><li><a href="code/9403.html">9403</a></li></ul>
+
+<h2>What this is not</h2>
+<p>It is not tax advice, and it is not a substitute for your own verification. It is the Commission's
+data, reshaped so a machine can read it. Rates change; the situation date is on every page and in every
+file. If a filing depends on it, check with your tax authority.</p>
+
+<h2>Free, and when it is not</h2>
+<p>The dataset is free under CC BY 4.0 and always will be: it is public data and it is not ours to
+withhold. What is sold is a <a href="commercial.html">commercial licence</a> for embedding it in a
+product, which buys you a stable schema, a change feed and someone to answer when the Commission moves
+the endpoint. If you are looking something up by hand, you need none of that.</p>
+
+</main>
+<footer><div class="wrap">
+<p>&copy; European Union, source: European Commission, DG TAXUD, Taxes in Europe Database.
+Licensed <a href="https://creativecommons.org/licenses/by/4.0/" rel="nofollow">CC BY 4.0</a> under
+Commission Decision 2011/833/EU. Reshaped into JSON and pages; the rates themselves are unaltered.
+Situation on 2026-09-18, fetched 2026-09-17.</p>
+<p class="small">Reference data, not tax advice. Verify against your own tax authority before relying
+on it for a filing.</p>
+</div></footer></body></html>

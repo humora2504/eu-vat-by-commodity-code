@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0602 90 10",
+ "entries": [
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "code_kind": "CN",
+   "code_description": "Mushroom spawn",
+   "comment": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings, excluding leasing and renting of agricultural and forestry machinery and utensils, transport of agricultural and forestry products and felling and logging of trees",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "code_kind": "CN",
+   "code_description": "Mushroom spawn",
+   "comment": "Services excluded : leasing and renting of agricultural and forestry machinery and utensils; transport of agricultural and forestry products; felling and logging of trees",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Mushroom spawn",
+   "comment": "Food for human consumption, excluding food supplied for catering, is taxed at 0% (exempt with credit).  \r\n\r\nThe above exemption does not apply to items classified under the following subheadings in the First Schedule of the Import Duties Act:\r\n\r\n(1) 0101.10.10.00; 0106.11.00.00; 0106.12.00.00; 0106.19.90.00; 0106.20.00.00; 0106.31.00.00; 0106.32.00.00; 0106.39.90.00; 0106.90.00.00\r\n\r\n(2) 0206.10.10.00; 0206.29.10.00; 0206.80.10.00; 0206.90.10.00\r\n\r\n(3) 0301.10.10.00; 0301.10.90.00",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "Mushroom spawn",
+   "comment": "Seeds and seedlings of agricultural and forestry plants placed on the market in accordance with the regulations governing the trade in seeds and seedlings.\r\nExcept: 1209 30 00, 1209 99 91",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

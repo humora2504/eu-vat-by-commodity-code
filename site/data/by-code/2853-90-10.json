@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "2853 90 10",
+ "entries": [
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "code_kind": "CN",
+   "code_description": "Distilled or conductivity water and water of similar purity",
+   "comment": "Tabel I prov. a.28: including water supplied via the public mains network; distilled water; warm water; and 'other water' (surface water not suitable for human consumption but usable for non-consumptive purposes such as rinsing activities or sprinkling crops).\r\nExcluded: demineralized, deironed and softened water; river water and sea water (2501 00 10) whether or not intended for scientific purposes; ice and steam.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

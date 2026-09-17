@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "60.10.1",
+ "entries": [
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "code_kind": "CPA",
+   "code_description": "Radio broadcasting services; broadcast originals",
+   "comment": "Reception of certain radio and television broadcasting services, excluding reception of adult content",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "CERTAIN_BROADCASTING_SERVICES",
+   "category_description": "Reception of certain radio and television broadcasting services",
+   "code_kind": "CPA",
+   "code_description": "Radio broadcasting services; broadcast originals",
+   "comment": "Excluding reception of adult content",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

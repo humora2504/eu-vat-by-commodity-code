@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "60.10",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "code_kind": "CPA",
+   "code_description": "Radio broadcasting and audio distribution services",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "95",
+ "entries": [
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of computers, personal and household goods, and motor vehicles and motorcycles",
+   "comment": "Tabel I prov. a.31 and b.1: certain braille products; clocks, optical reading devices, TV magnifiers, reading platforms, orientation aids, support, tactile and recognition canes designed for personal use of blind and partially sighted persons; guide dogs; other aids designated by ministerial regulation that have been specially designed for exclusive and personal use by blind and partially sighted persons; reading pens and other equipment with similar function, equipment for use by dyslexics.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of computers, personal and household goods, and motor vehicles and motorcycles",
+   "comment": "Tabel I prov. a.34 and b.1: carriages and crutches for the disabled; stand-up chairs; high-low beds. A vehicle for the disabled is defined as a means of transport that is designed to be used by a disabled person. The term can also include motor vehicles which are equipped for use by a disabled person. \r\n\r\nOnly carriages that within social standards are regarded as a vehicle for the invalid on the basis of its destination and presentation are included.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of computers, personal and household goods, and motor vehicles and motorcycles",
+   "comment": "Tabel I prov. a.36 and b.1: aids that are usually used for the subcutaneous administration of insulin, with the exception of syringes and needles that are apparently also suitable for other purposes; aids that are usually used for the self-diagnosis of blood sugar levels. \r\n\r\nOnly included are the mentioned devices specifically developed for diabetics and offered as such. Generally applicable aids such as individual injection needles and syringes are excluded.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

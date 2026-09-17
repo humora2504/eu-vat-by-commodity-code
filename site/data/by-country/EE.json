@@ -1,0 +1,1960 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "EE",
+ "country": "Estonia",
+ "rates": [
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to care beds and beds accessories: — beds; 9402 90 00  — bedtables; 9403 2080 — bed straps; 7308 90 98 — head elevators;7326 90 98.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "7308 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7326 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9402 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9403 20 80",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to toilet facilities: — toilet chairs; 9403 — toilet seat risers in plastic material; 3924 90 00 — children’s toilet seats, plastic; 3924 90 00 — toilet tissue gripping aids, plastic; 3924 90 00.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9403",
+     "description": "Other furniture and parts thereof"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to wheelchair cushions.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3926 90 97",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4016 95 00",
+     "description": "Other inflatable articles"
+    },
+    {
+     "kind": "CN",
+     "code": "9404",
+     "description": "Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to occupational therapy and movement therapy equipment: balloons (for breathing function training), mega-balls, active balls, sitting balls, balls for the therapy of seniors and functional balls for rehab. of sick or disabled person; 9506 62 00 — reflex balls and gravity balls, int. for rehab. of sick or disabled persons, 9506 69 90 —physioth. rollers, functional pillows for physiotherapy and back stretching benches; 9506 91 90 — rings for occup. th.; 9506 99 90",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9506 62 00",
+     "description": "Inflatable"
+    },
+    {
+     "kind": "CN",
+     "code": "9506 69 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9506 91 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9506 99 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to brushes made for persons with reduced mobility.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9603",
+     "description": "Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorised, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees)"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to aids for washing, bathing and showering: — bath seats: − Of metal; 7326 90 98 — of plastics; 3924 90 00 — shower chairs: − Of metal; 9401 71 00 — of plastics; 9401 80 00 — folding shower chairs; 9401 79 00, 9401 80 00 —bath steps of a plastic material; 3924 90 00 — ring brushes; 9603 29 80 —baths for head washing for a person lying down, plastic; 3924 90 00.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7326 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9401 71 00",
+     "description": "Upholstered"
+    },
+    {
+     "kind": "CN",
+     "code": "9401 79 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9401 80 00",
+     "description": "Other seats"
+    },
+    {
+     "kind": "CN",
+     "code": "9603 29 80",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to ostomy care products  (part 2): Additional products for ostomy care: — pastes, powders, protective creams; 3304 — protection of the area around the ostomy (ostomy ring with skin protective fluids) and glue residue remover  for the skin (skin cleansing pads, skin cleansing solution as an aerosol); 3401 11 00, 3401 30 00, 3402 20 90, 3005 90 99, 9018 90 84 —ostomy odor neutralizing agents; 3307 90 00.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3005 90 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3304",
+     "description": "Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or suntan preparations; manicure or pedicure preparations"
+    },
+    {
+     "kind": "CN",
+     "code": "3307 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3401 11 00",
+     "description": "For toilet use (including medicated products)"
+    },
+    {
+     "kind": "CN",
+     "code": "3401 30 00",
+     "description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap"
+    },
+    {
+     "kind": "CN",
+     "code": "3402 20 90",
+     "description": "Washing preparations and cleaning preparations"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 84",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to ostomy care products (part 3): —Tracheostomy care products : — filters for tracheostomy, neck bands for tracheostomy, speaking and swallowing valves; 9019 20 00, 9021 90 90, 6307 —foam dressings and patches for tracheostomy; 3005 10 00 — skin cleansing patches for tracheostomy; 3401 19 00 — protective layer for the skin surrounding tracheostomy; 3401 — tracheostomy protectors; 9018 90 84 — aspiration probes ; 9018 39 00 — tracheal cannulas ; 9018 39 00.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3005 10 00",
+     "description": "Adhesive dressings and other articles having an adhesive layer"
+    },
+    {
+     "kind": "CN",
+     "code": "3401",
+     "description": "Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent"
+    },
+    {
+     "kind": "CN",
+     "code": "3401 19 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6307",
+     "description": "Other made-up articles, including dress patterns"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 84",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9019 20 00",
+     "description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "9021 90 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to chronic ulcers and pressure sores (part 1):\r\n— gels, hydrocolloidal gels, hydrocolloidal pastes, rinsing solutions for chronic ulcers containing undecylenamidepropylbetanine; 3003 90 00, 3004 90 00, 3005 90 99, 3401 30 00, 3808 94 90\r\n— Hydrogel wound pads; 3005 90 99\r\n— wound poultices, with salt crystals; 3005 90 50\r\n— alginate dressings, calcium alginate dressings; 3005 90 50, 3005 90 99 \r\n— Hydrofibre wound dressings; 3005 90 50",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3003 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3004 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3005 90 50",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3005 90 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3401 30 00",
+     "description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 94 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to eye baths, enema jugs and –nozzles, fecal -, secretion – and urine collection containers.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "39",
+     "description": "CHAPTER 39 - PLASTICS AND ARTICLES THEREOF"
+    },
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7017 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7324 90 00",
+     "description": "Other, including parts"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to incontinence products: — mattress protection sheets: — thin film; 3921 90 10  — absorbent; 4818 90, 9619 00 79 — special netting pants for fixing diapers; 6108 22 00 — incontinence pads and diapers (other than baby diapers); 9619 — gel implants and ribbons that are injected into the body to prevent urinary incontinence ; 3006 10 10 bladder neck inclination’s correction products to prevent urinary incontinence 9018 39 00.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3006 10 10",
+     "description": "Sterile surgical catgut"
+    },
+    {
+     "kind": "CN",
+     "code": "3921 90 10",
+     "description": "Of polyesters"
+    },
+    {
+     "kind": "CN",
+     "code": "4818 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6108 22 00",
+     "description": "Of man-made fibres"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00",
+     "description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 79",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to special equipment for eating and drinking for persons with disabilities: —drinking cups , plastic;3924 10 00 — knives; 8211 91 00 — forks, spoons; 8215 99 10 — cutlery handles of plastics; 3926 90 97 — cutters; 8210 00 00 — holders (including glass holders), of plastics; 3926 90 97 —jar and bottle openers, plate edges, of plastics; 3924 90 00.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 10 00",
+     "description": "Tableware and kitchenware"
+    },
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3926 90 97",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8210 00 00",
+     "description": "Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink"
+    },
+    {
+     "kind": "CN",
+     "code": "8211 91 00",
+     "description": "Table knives having fixed blades"
+    },
+    {
+     "kind": "CN",
+     "code": "8215 99 10",
+     "description": "Of stainless steel"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to household appliances: — grabs, of aluminium; 7616 99 90 — buttoners; 7326 90 98 — stocking ais,  of plastics; 3924 90 00 — special scissors; 8213 00 00 — pencil-holders, of plastics; 3924 90 00.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7326 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7616 99 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8213 00 00",
+     "description": "Scissors, tailors' shears and similar shears, and blades therefor"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to equipment for removal and positioning: — rotating plates, of plastics; 3924 90 00 —  sliding tables, of wood; 4421 99 99 — straps; 6307 90 98 — positioning pillows, plastics; 3924 90 00 — lifting straps; 6307 90 98.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4421 99 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6307 90 98",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to support aids: — armrests, support handles and handrails for toilet facilities; — of plastics; 3925 90 80 — of wood; 4421 99 99.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3925 90 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4421 99 99",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This rate applies only to parts and accessories for the adaptation of cars and other motor vehicles for the disabled: engine handling adjustments; adj. for handling the handbrake; adj. for handling the steering mechanism; specially designed car seats and cushions; adaptation for use of secondary functions, including adj. mirrors, central lockings, windscreen wipers, indicators and lights; car lifts for lifting a person into a car; wheelchair lifting equipment and securing devices.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3926",
+     "description": "Other articles of plastics and articles of other materials of headings 3901 to 3914"
+    },
+    {
+     "kind": "CN",
+     "code": "72",
+     "description": "CHAPTER 72 - IRON AND STEEL"
+    },
+    {
+     "kind": "CN",
+     "code": "8301",
+     "description": "Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal"
+    },
+    {
+     "kind": "CN",
+     "code": "8306 29 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8428",
+     "description": "Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics)"
+    },
+    {
+     "kind": "CN",
+     "code": "8512",
+     "description": "Electrical lighting or signalling equipment (excluding articles of heading 8539), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles"
+    },
+    {
+     "kind": "CN",
+     "code": "8708",
+     "description": "Parts and accessories of the motor vehicles of headings 8701 to 8705"
+    },
+    {
+     "kind": "CN",
+     "code": "8714",
+     "description": "Parts and accessories of vehicles of headings 8711 to 8713"
+    },
+    {
+     "kind": "CN",
+     "code": "9401 20 00",
+     "description": "Seats of a kind used for motor vehicles"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to contraceptives.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3926 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 84",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to rubber enema balloons, -nozzles, -jugs, bedpans, rubber rings, mattresses and seat cushions to prevent pressure sores.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3926 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 90 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3002",
+     "description": "Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; cell cultures, whether or not modified"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 90 30",
+     "description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 60 00",
+     "description": "Chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 10 00",
+     "description": "Sheath contraceptives"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 41",
+     "description": "Vaccines for human medicine"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 42 00",
+     "description": "Vaccines for veterinary medicine"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to ostomy care products (part 1): — ostomy bags (including fasteners); 3006 91 00 — baseplates; 3005 10 00, 3006 91 00 — external catheters for men; 4014 90 00 — single use bladder catheters; 9018 39 00 — belts for ostomy bag; 6307 90 98.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3005 10 00",
+     "description": "Adhesive dressings and other articles having an adhesive layer"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 91 00",
+     "description": "Appliances identifiable for ostomy use"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6307 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 39 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to Braille paper in sheets.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4802",
+     "description": "Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non-perforated punchcards and punch-tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 4801 or 4803; handmade paper and paperboard"
+    },
+    {
+     "kind": "CN",
+     "code": "4805",
+     "description": "Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in note 3 to this chapter"
+    },
+    {
+     "kind": "CN",
+     "code": "4823",
+     "description": "Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Books and educational literature, both on a physical medium and electronically.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905 91 00",
+     "description": "In book form"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to learning materials in Braille.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "Press publications, both on a physical medium and electronically, excluding publications containing mainly advertising or private advertisements or mainly with erotic or pornographic content or video or music content.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to children’s picture books in Braille.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to music notes in Braille.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to other printed material, including printed reproductions and photographs in relief for blind and visually impaired persons.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4911",
+     "description": "Other printed matter, including printed pictures and photographs"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to reproductions of works of art, graphic sheets and photographs in relief for the blind and visually impaired persons.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4911 91 00",
+     "description": "Pictures, designs and photographs"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to pressure clothing for the treatment of lymphodema and pressure clothing, head covering masks and face covering masks for the patient with burns.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "61",
+     "description": "CHAPTER 61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED"
+    },
+    {
+     "kind": "CN",
+     "code": "62",
+     "description": "CHAPTER 62 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED"
+    },
+    {
+     "kind": "CN",
+     "code": "6307 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6504 00 00",
+     "description": "Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed"
+    },
+    {
+     "kind": "CN",
+     "code": "6505 00 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to radiculitis belts, support bandages, suspensoriums, joint and muscle support bandages.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "6212 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6307 90 10",
+     "description": "Knitted or crocheted"
+    },
+    {
+     "kind": "CN",
+     "code": "6307 90 98",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to aids for the deaf, blind and visually impaired persons (part 1):\r\n— monuculars, binocular glasses; 9004 90 90\r\n— magnifying glasses; 9013 80 00\r\n— magnifying video systems and reading monitors; 8528 and 8543\r\n— White canes; 6602 00 00\r\n— handles and knobs of a white cane; 6603 90 10\r\n— parts and accessories for white cane; 6603 90 90 —\r\nAlarm clocks for deaf and blind persons (tactile, speaking, vibrating); 9105 11 00 and 9105 19 00",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "6602 00 00",
+     "description": "Walking sticks, seat-sticks, whips, riding-crops and the like"
+    },
+    {
+     "kind": "CN",
+     "code": "6603 90 10",
+     "description": "Handles and knobs"
+    },
+    {
+     "kind": "CN",
+     "code": "6603 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8528",
+     "description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "8543",
+     "description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter"
+    },
+    {
+     "kind": "CN",
+     "code": "9004 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9105 11 00",
+     "description": "Electrically operated"
+    },
+    {
+     "kind": "CN",
+     "code": "9105 19 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9013 80 00",
+     "description": "Other devices, appliances and instruments"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to walking aids and parts thereof, handled by one hand: — walking sticks, three and four legged walking sticks; 6602 00 00 — Rubber nozzles; 6603 90 90 – cane tips for ice; 6603 90 90.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "6602 00 00",
+     "description": "Walking sticks, seat-sticks, whips, riding-crops and the like"
+    },
+    {
+     "kind": "CN",
+     "code": "6603 90 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "7015 10 00",
+     "description": "Glasses for corrective spectacles"
+    },
+    {
+     "kind": "CN",
+     "code": "7308 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8713",
+     "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled"
+    },
+    {
+     "kind": "CN",
+     "code": "8714 20 00",
+     "description": "Of carriages for disabled persons"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 41",
+     "description": "Single focal"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 49",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 41",
+     "description": "Single focal"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 49",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9003 11 00",
+     "description": "Of plastics"
+    },
+    {
+     "kind": "CN",
+     "code": "9021",
+     "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to ramps for mobility equipment for people with disabilities: — of steel; 7308 90 98 — of aluminium; 7610 90 90.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "7308 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7610 90 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to food for special medical purposes within the meaning of the Food Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1901 10 00",
+     "description": "Preparations suitable for infants or young children, put up for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "1901 20 00",
+     "description": "Mixes and doughs for the preparation of bakers' wares of heading 1905"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 90 30",
+     "description": "Bread, not containing added honey, eggs, cheese or fruit, and containing by weight in the dry matter state not more than 5 % of sugars and not more than 5 % of fat"
+    },
+    {
+     "kind": "CN",
+     "code": "2106 10",
+     "description": "Protein concentrates and textured protein substances"
+    },
+    {
+     "kind": "CN",
+     "code": "2106 90 92",
+     "description": "Containing no milkfats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milkfat, 5 % sucrose or isoglucose, 5 % glucose or starch"
+    },
+    {
+     "kind": "CN",
+     "code": "2106 90 98",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to medicinal products within the meaning of Medicinal Products Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2205 10 10",
+     "description": "Of an actual alcoholic strength by volume of 18 % vol or less"
+    },
+    {
+     "kind": "CN",
+     "code": "2208 90 69",
+     "description": "Other spirituous beverages"
+    },
+    {
+     "kind": "CN",
+     "code": "3003",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3004",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 30 00",
+     "description": "Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient"
+    },
+    {
+     "kind": "CN",
+     "code": "3304 30 00",
+     "description": "Manicure or pedicure preparations"
+    },
+    {
+     "kind": "CN",
+     "code": "3305 10 00",
+     "description": "Shampoos"
+    },
+    {
+     "kind": "CN",
+     "code": "3305 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3306 90 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to oxygen for medical inhalation.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2804 40 00",
+     "description": "Oxygen"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to aids for the deaf, blind and visually impaired persons (part 2): — wristwatches for deaf and blind (tactile, speaking); 9102\r\n— weight scales with sound output for the blind and visually impaired persons 8423 10 10, 8423 10 90\r\n— liquid meters with sound output for the blind and visually impaired persons 9026 10",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8423 10 10",
+     "description": "Household scales"
+    },
+    {
+     "kind": "CN",
+     "code": "8423 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9026 10",
+     "description": "For measuring or checking the flow or level of liquids"
+    },
+    {
+     "kind": "CN",
+     "code": "9102",
+     "description": "Wristwatches, pocket-watches and other watches, including stopwatches, other than those of heading 9101"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to lifts for people with disabilities (including bath lifts and swimming pool lifts, vertical and sloping ground lift platforms for wheelchairs,  stair lifts).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8428 90 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to radioactive chemical elements and isotopes and their compounds used for the treatment and diagnosis of diseases on importation by a person authorised to provide health care or on sale to that person.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2844",
+     "description": "Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to toxins and other vaccines, toxins, and products similar to those in the presence of microorganisms (humans, animals and plant viruses and antiviruses, bacteriophages).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3002",
+     "description": "Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; cell cultures, whether or not modified"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 51 00",
+     "description": "Cell therapy products"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 59 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to antisera prepared from animal blood.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3002 12 00",
+     "description": "Antisera and other blood fractions"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "This reduced rate applies only to modified immunological products, including those obtained by means of biotechnological processes.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3002 13 00",
+     "description": "Immunological products, unmixed, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 14 00",
+     "description": "Immunological products, mixed, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 15 00",
+     "description": "Immunological products, put up in measured doses or in forms or packings for retail sale"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to computer units, accessories and special equipment for the blind and visually impaired persons: touch screen monitors; keyboards; devices contr. by hand, foot, head; switching devices; special attachments (keyboard frame); voice-contr. computer components; Braille monitor, printer; touch monitor, voice controlled systems, screen reading systems, equipment for the production of Braille and recorded material; hearing aids customised for computer.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8443 31 00",
+     "description": "Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network"
+    },
+    {
+     "kind": "CN",
+     "code": "8443 32",
+     "description": "Other, capable of connecting to an automatic data-processing machine or to a network"
+    },
+    {
+     "kind": "CN",
+     "code": "8443 32 10",
+     "description": "Printers"
+    },
+    {
+     "kind": "CN",
+     "code": "8471",
+     "description": "Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "8473",
+     "description": "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472"
+    },
+    {
+     "kind": "CN",
+     "code": "8518 21 00",
+     "description": "Single loudspeakers, mounted in their enclosures"
+    },
+    {
+     "kind": "CN",
+     "code": "8518 22 00",
+     "description": "Multiple loudspeakers, mounted in the same enclosure"
+    },
+    {
+     "kind": "CN",
+     "code": "8528",
+     "description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "8535",
+     "description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1000 V"
+    },
+    {
+     "kind": "CN",
+     "code": "8536",
+     "description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp holders and other connectors, junction boxes), for a voltage not exceeding 1000 V; connectors for optical fibres, optical fibre bundles or cables"
+    },
+    {
+     "kind": "CN",
+     "code": "8543",
+     "description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter"
+    },
+    {
+     "kind": "CN",
+     "code": "8518 10 00",
+     "description": "Microphones and stands therefor"
+    },
+    {
+     "kind": "CN",
+     "code": "8518 29 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to aids for the deaf, blind and visually impaired persons (part 3):\r\n— Measuring instruments with sound output or special marking, including measuring tapes, levels and other such items; 9017 80 10,  9017 80 90, 9031\r\n—thermometers with sound output ; 9025 19 00 — barometers with sound output; 9025 80 20 — calculators with sound output; 9017 20 90, 8470",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8470",
+     "description": "Calculating machines and pocket-size data-recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers"
+    },
+    {
+     "kind": "CN",
+     "code": "9017 20 90",
+     "description": "Mathematical calculating instruments (including slide rules, disc calculators and the like)"
+    },
+    {
+     "kind": "CN",
+     "code": "9017 80 10",
+     "description": "Measuring rods and tapes and divided scales"
+    },
+    {
+     "kind": "CN",
+     "code": "9017 80 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9025 80 20",
+     "description": "Barometers, not combined with other instruments"
+    },
+    {
+     "kind": "CN",
+     "code": "9031",
+     "description": "Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this chapter; profile projectors"
+    },
+    {
+     "kind": "CN",
+     "code": "9025 19 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to typhlo-technical aids:\r\n— data casting machines, voice synthesisers; 8471 80 00\r\n— voice synthesisers, unrecorded; 8543 70 90\r\n— electronic notebook with voice synthesisers, 8470 10 00",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8470 10 00",
+     "description": "Electronic calculators capable of operation without an external source of electric power and pocket-size data-recording, reproducing and displaying machines with calculating functions"
+    },
+    {
+     "kind": "CN",
+     "code": "8471 80 00",
+     "description": "Other units of automatic data-processing machines"
+    },
+    {
+     "kind": "CN",
+     "code": "8543 70 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to typewriters with memory and reproduction device, specially adapted for use by the blind and visually impaired persons, 8472 90 80.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8472 90 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to chronic ulcers and pressure sores (part 2): — ointment dressings; 3005 90 31, 3005 90 99\r\n— wound dressings with collagen; 3005 90 99\r\n— Soft silicone wound dressings; 3005 10 00\r\n— bioactive wound dressings; 3005 90 50\r\n— foam wound pads; 3005 90 99\r\n— wound dressings with silver (incl hydrofiber); 3005 90 50, 3005 90 99 — hydrocolloid wound pads and wound plasters; 3005 90 99, 3005 10 00\r\n— wound dressings activated with a Ringer’s solution; 3005 90 50",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3005 10 00",
+     "description": "Adhesive dressings and other articles having an adhesive layer"
+    },
+    {
+     "kind": "CN",
+     "code": "3005 90 31",
+     "description": "Gauze and articles of gauze"
+    },
+    {
+     "kind": "CN",
+     "code": "3005 90 50",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3005 90 99",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to aids for the deaf, blind and visually impaired persons (part 4): \r\nnavigation equipment, including compasses and other orienteering aids with sound output; 9014 80 00, 9014 10 00, 8526\r\n— alarm systems with light or vibration output for the deaf (telephone, baby`s crying, doorbell, smoke alarm and other such); 8517, 8531 10 30, 8531 10 95",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8517",
+     "description": "Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528"
+    },
+    {
+     "kind": "CN",
+     "code": "8526",
+     "description": "Radar apparatus, radio navigational aid apparatus and radio remote control apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "8531 10 30",
+     "description": "Of a kind used for buildings"
+    },
+    {
+     "kind": "CN",
+     "code": "8531 10 95",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9014 10 00",
+     "description": "Direction finding compasses"
+    },
+    {
+     "kind": "CN",
+     "code": "9014 80 00",
+     "description": "Other instruments and appliances"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to customised software for people with disabilities: — special software to simplify activities that require fine coordination (replacement of key combinations, macros and others); — special software for visualisation of sounds; — software to enlarge text  (Zoom text); — screen reading software ; — special programming software.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8523",
+     "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to tricycles produced for persons with disabilities, in the form of pedals or hand driven cycles.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8712 00 70",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to contact lenses for the adjustment of vision.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9001 30 00",
+     "description": "Contact lenses"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to spectacle frames and parts thereof \r\n− Of base metal or of other materials (excluding of precious metal); 9003 19 00\r\n— Parts of frames; 9003 90 00",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9003 19 00",
+     "description": "Of other materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9003 90 00",
+     "description": "Parts"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to sunglasses with optically treated lenses, and a filter clip-on.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9004 10 10",
+     "description": "With lenses optically worked"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to spectacles with vision corrective function (excluding spectacles with spectacle frames of precious metal).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9004 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to glycometer and parts thereof.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9018",
+     "description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electromedical apparatus and sight-testing instruments"
+    },
+    {
+     "kind": "CN",
+     "code": "9027",
+     "description": "Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes"
+    },
+    {
+     "kind": "CN",
+     "code": "9033 00",
+     "description": "Parts and accessories (not specified or included elsewhere in this chapter) for machines, appliances, instruments or apparatus of Chapter 90"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to insulin pumps, insulin syringes, and accessories thereof.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9018 31",
+     "description": "Syringes, with or without needles"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 32",
+     "description": "Tubular metal needles and needles for sutures"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 84",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9021 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9033 00",
+     "description": "Parts and accessories (not specified or included elsewhere in this chapter) for machines, appliances, instruments or apparatus of Chapter 90"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to combs adapted to persons with reduced mobility.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9615",
+     "description": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to a dot machine adapted for the blind and visually impaired persons (a typing machine for printing letters on a special paper) 8472 90 80.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8472 90 80",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to lancets and lancet devices.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9018 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 84",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to running, power and balance training devices for disabled persons: — pedal exercise machines; 9019 10 90 — stand up tables; 9019 10.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9019 10",
+     "description": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "9019 10 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to walking aids handled by two hands: — support frames on wheels and without wheels.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9019 10 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to test strips for glycometer.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3822",
+     "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits, other than those of heading 3006; certified reference materials"
+    },
+    {
+     "kind": "CN",
+     "code": "3822 19 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3822 90 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "Accommodation services or accommodation services with breakfast, excluding any goods or services accompanying such services.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55",
+     "description": "Accommodation services"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "24.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to devices for ozone therapy, oxygen therapy, aerosol therapy and treatment of apnoea.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9019 20 00",
+     "description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus"
+    }
+   ]
+  },
+  {
+   "member_state": "EE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies only to seats for persons with disabilities: — special seats.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9401 30 00",
+     "description": "Swivel seats with variable height adjustment"
+    }
+   ]
+  }
+ ]
+}

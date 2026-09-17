@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "01.62",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production",
+   "comment": "Royal Decree N° 20, Table A, category XXIV - agricultural services, excluding services related to animals not listed in Royal Decree N° 20, Table A, category I (75.00.11) and construction and maintenance of gardens (81.30.11)\r\n\r\nThe reduced rate only applies for services in 01.61, 01.62, 01.64, 75.00.12 in that context\r\n\r\nThe goods supplied with the agricultural services are subject to the VAT rate applicable to the goods as if delivered separately, e.g.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "ES",
+   "country": "Spain",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "code_kind": "CPA",
+   "code_description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production",
+   "comment": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings, excluding leasing and renting of agricultural and forestry machinery and utensils, transport of agricultural and forestry products and felling and logging of trees",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "code_kind": "CPA",
+   "code_description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production",
+   "comment": "Services excluded : leasing and renting of agricultural and forestry machinery and utensils; transport of agricultural and forestry products; felling and logging of trees",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PT",
+   "country": "Portugal",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production",
+   "comment": "Some products are taxed at 13%. \r\nThe tax rate on animals applies only to live stock, agricultural labor and reproductive.",
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production",
+   "comment": "Crop production services, crop preparation services, seed treatment services, livestock services, forestry services except forestry consultancy, forest cultivation and protection services, and logging services, services for fisheries and aquaculture, veterinary services for fattening animals",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9018 31 10",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Of plastics",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, N° 2 - dentures, etc. … (2)\r\nRR only applies for:\r\n- sterile hypodermic syringes for single use, intended for the injection of insulin solutions and graduated for this purpose in international units of insulin; disposable sterile needles for insulin injector pens + apparatus to be worn on the person and allowing continuous or intermittent injection of medicaments by means of a hypodermic needle supplied by an electronically controlled pump: 9018 3110-3190",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Of plastics",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, n° 7 to 8 \r\nThe reduced rate only applies to:\r\n- sterile hypodermic syringes for single use, intended for the injection of insulin solutions and graduated for this purpose in international units of insulin; disposable sterile needles for insulin injector pens: 9018 3110 \r\n- puncture device, needles, test strips, specially designed for the use of the glucometer: 9018 3190\r\n8017",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Of plastics",
+   "comment": "Blood glucose meters and continuous glucose meters, parts and accessories; diagnostic strips meters; sensors  transmitters for glucose meters; test strips with reagent ; mechanical injectors; needles for injector; trigger device with attached lancet; device for inserting sensors; disposable syringe, needles; diagnostic scanning tapes and tests; lancet; insulin pump, reservoir pump; infusion set for insulin pump; threaded push rod; puncture set; pumps as part of an insulin dosing device",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "41.00.48",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "code_kind": "CPA",
+   "code_description": "Construction works in public entertainment, education, hospital, institutional care or religious buildings",
+   "comment": "Services dependent on procurement contracts relating to the construction of 1ry&amp;2ry urbanization works metropolitan tramway transport lines and other fixed  lines;production plants and heat-energy and electricity distribution networks from solar-photovoltaic-wind sources;purification plants to be connected to sewer networks including intermunicipal ones and to the relative adduction manifolds;school buildings barracks hospital nursing home orphanages.\r\nThe CPA code 41.00.48 is also included.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

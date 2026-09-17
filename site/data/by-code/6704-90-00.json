@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "6704 90 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Of other materials",
+   "comment": "Royal Decree N° 20, Table A, category  XXIII, N° 13 - hair prosthetics: \r\nThe reduced rate only applies to hair prosthetics prescribed by a doctor or dermatologist and used for the alleviation of the consequences of a chronic illness, a long-term illness or a disability in: \r\n- 6704 11 00, 6704 19 00, 6704 20 00, 6704 90 00",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

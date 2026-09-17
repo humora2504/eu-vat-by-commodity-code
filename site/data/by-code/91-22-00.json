@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "91.22.00",
+ "entries": [
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Historical site and monument services",
+   "comment": "The reduced VAT rate is applied for the services consisting in allowing access to castles, museums, memorial houses, historical monuments, architectural and archaeological monuments, zoological and botanical gardens. See art. 291 para. (2) letter h) of the Fiscal Code.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

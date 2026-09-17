@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3924 10 00",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Tableware and kitchenware",
+   "comment": "This reduced rate applies only to special equipment for eating and drinking for persons with disabilities: —drinking cups , plastic;3924 10 00 — knives; 8211 91 00 — forks, spoons; 8215 99 10 — cutlery handles of plastics; 3926 90 97 — cutters; 8210 00 00 — holders (including glass holders), of plastics; 3926 90 97 —jar and bottle openers, plate edges, of plastics; 3924 90 00.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

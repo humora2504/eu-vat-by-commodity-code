@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1207 40 90",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Linseed and castor seeds; other oily seeds and fruits not intended for de-oiling, excluding crushed ones.\r\nThe CN code 1207 992090 is included.\r\n1205 1090, 1205 90, 1206 0091, 1206 0099, 1207 10, 1207 29, 1207 4090, 1207 5090, 1207 60, 1207 70, 1207 9190, 1207 992090, 1207 9991, 1207 9996 excluding those intended for oil extraction and those crushed.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Oily seeds and fruits intended for oil extraction, excluding flax and castor seeds and crushed ones.\r\nIf intended for oil extraction.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Tabel I prov. a.1: foodstuff for human consumption, products used for preparation of human foodstuff that are wholly/partially incorporated in these foodstuff, supplements/substitutes for human foodstuff;\r\nExcluded: living animals, except if consumed raw.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "The reduced rate is applied only if the supplier can prove that the goods, except foods with added sugar, whose total sugar content is at least 10g/100g product, are used as food for human or animal consumption. When those goods are imported from a third territory or a third country, the application of the reduced rate is conditioned by the submission of the Commitment Declaration regarding the destination of the goods. Point 37 para.(5)-(9) of Norms.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "- Foodstuffs referred to in article 2 in regulation EC no 178/2002 are subject to reduced VAT rate, with the exception for tap water and certain alcoholic beverages, see chapter 9 section 3 in the Swedish VAT Act.\r\n- Goods with CN code 2203 can be subject to reduced VAT rate provided that the alcohol content is maximum 3.5 volume percent. Goods with CN code 28-29, 3201-3206, 3301-3302, 3501-3505, 3507 can be subject to reduced VAT rate if they constitute food additives.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Except: 0301 11 00 &amp; 0301 19 00; 0106: only live rabbits, frogs, roe deer, partridges, pheasants, and other wild fowl; 1207 99 96: only pumpkin seed; 1208 90 00: only crumbled or ground poppy seed; 2501 00 10: only salt; 2501 00 91: only salt; 2530 90 70: only sepiolite; 2923 20 00: only lecithin; 2934 99 90: only acesulfame; 3824 99 96: only dietetic salt; 2106: ex. sugar syrups and prep. for making bev. (2106 90 30-59, 2106 90 98); 2202: ex. bev. cont. added sugar or sweeteners",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

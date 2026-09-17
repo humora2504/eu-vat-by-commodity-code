@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "94.99.13",
+ "entries": [
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Special group protection services",
+   "comment": "The supply of services by old people’s homes etc in the framework of social wellbeing, in so far as they are not exempt pursuant to Article 27 of the Greek VAT Code",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Special group protection services",
+   "comment": "The services referred to in Nos 18), 19), 20), 21) and 27-ter) of Article 10, paragraph 1, rendered in favour of the persons indicated in No 27-ter) by social cooperatives and their consortia; [health services, hospitalization and care services, educational services for children and youth and instruction, services of children's homes, orphanages, kindergartens, retirement homes for the elderly and the like; social and health services, home or outpatient care, community and similar services].",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

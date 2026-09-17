@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0101 21 00",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "LIVE_EQUINES",
+   "category_description": "Live equines and the supply services related to live equines",
+   "code_kind": "CN",
+   "code_description": "Pure-bred breeding animals",
+   "comment": "DL 113/2024 -live horses intended for purposes other than food for sales that take place by 31 December of the year following the year of birth",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "code_kind": "CN",
+   "code_description": "Pure-bred breeding animals",
+   "comment": "Supply of goods and services of a kind normally intended for use in agricultural production:\r\n- Draft horses\r\n- Ova of animals used in agricultural production\r\n- Rhubarb rhizomes; Asparagus crowns; Chicory plants and roots other than roots of heading 1212",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "code_kind": "CN",
+   "code_description": "Pure-bred breeding animals",
+   "comment": "Draft horses",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

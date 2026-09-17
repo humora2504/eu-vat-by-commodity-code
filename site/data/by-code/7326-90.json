@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "7326 90",
+ "entries": [
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "This reduced rate applies to the following items (and CN codes) for the exclusive use of the disabled (part 1):\r\n- raised toilet seats (3924 90 00);\r\n- pressure relief cushions (4014 90, 8714 20 00 and 9404 90);\r\n- padded/inflatable toilet seats (4016 95 00 and 4016 99 98);\r\n- pressure relief mattresses (6306 41 00, 6306 49 00, 9404 21 and 9404 29);\r\n- white sticks (6602 00 00);\r\n- walking sticks and ferrules (6603 90 00);\r\n- gutter frames (7325 10, 7325 99, 7326 19, 7326 90 and 7907 00);",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

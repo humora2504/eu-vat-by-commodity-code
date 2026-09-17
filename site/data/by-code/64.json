@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "64",
+ "entries": [
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",
+   "comment": "Children clothing, if clearly intended for children of a max. age of thirteen; - Children footwear; for boys up to and included size 40; for girls up to and included size 35.5 (35 if half sizes not available) for pumps, and up to and included size 38.5 (38 if half sizes not available) for any other shoe type unless heel hight, sole hight included, exceeds 4 cm",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "CHILD_WEAR",
+   "category_description": "Clothing, headgear, scarves, gloves and shoes for children under 14 years of age",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",
+   "comment": "- Children clothing, if clearly intended for children of a max. age of thirteen \r\n- Children footwear; for boys up to and included size 40; for girls up to and included size 35.5 (35 if half sizes not available) for pumps, and up to and included size 38.5 (38 if half sizes not available) for any other shoe type unless heel hight, sole hight included, exceeds 4 cm",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",
+   "comment": "Custom-made orthopaedic shoes and temporary shoes intended for use after major operations on the feet",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

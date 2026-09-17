@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "33.20.70",
+ "entries": [
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "SOLAR_PANELS",
+   "category_description": "Supply and installation of solar panels on and adjacent to private dwellings, housing and public and other buildings used for activities in the public interest",
+   "code_kind": "CPA",
+   "code_description": "Installation services of plastic pipe systems in industrial plants",
+   "comment": "Tabel II prov. a.10: A zero rate is applicable for the supply and installation of solar panels [panels that have the function of generating electricity from sunlight with photovoltaic cells (also known as PV cells or solar cells)] on and adjacent to private dwellings. An important condition for the 0% rate is that the panels are installed on or near a home.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

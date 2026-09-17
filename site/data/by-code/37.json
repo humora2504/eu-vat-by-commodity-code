@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "37",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "code_kind": "CPA",
+   "code_description": "Sewerage services; sewage sludge",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "code_kind": "CPA",
+   "code_description": "Sewerage services; sewage sludge",
+   "comment": "Drinking water.\r\nTreatment and distribution services of water through mains. Collection and treatment of wastewater and sewage.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "ES",
+   "country": "Spain",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "code_kind": "CPA",
+   "code_description": "Sewerage services; sewage sludge",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "code_kind": "CPA",
+   "code_description": "Sewerage services; sewage sludge",
+   "comment": "Management, storage and temporary storage services of urban waste and special waste (waste deriving from the recovery and disposal of waste, of sludge produced by potabilization and from other water treatments and from the purification of waste water and smoke abatement), as well as management services for sewage and purification systems.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "code_kind": "CPA",
+   "code_description": "Sewerage services; sewage sludge",
+   "comment": "As regards CPA code 37 (only sewage disposal services; sewage purification)",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

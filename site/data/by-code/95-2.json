@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "95.2",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "CLOTHING_REPAIR",
+   "category_description": "Minor repairs of clothing and household linen (including mending and alteration)",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of personal and household goods",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "CLOTHING_REPAIR",
+   "category_description": "Minor repairs of clothing and household linen (including mending and alteration)",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of personal and household goods",
+   "comment": "Reduced rate applies to the minor repairing of clothing and household linen (including mending and alteration).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of personal and household goods",
+   "comment": "Reduced rate applies to the minor repairing of shoes and leather goods.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "81.30.11",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "code_kind": "CPA",
+   "code_description": "Home garden maintenance",
+   "comment": "Supply, renovation and leasing of building used for school and supervision of schoolchildren - under the conditions provided for in Royal Decree N° 20, Table A, category XL and which do not fall under the mentioned exceptions (such as cleaning services (81.22.11), …). Garden maintenance (81.30.11) is not excluded contrary to what is mentioned above. The reduced rate only applies to 41.00.1, 41.00.3, 43.2, 43.3, 43.9 in that context",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

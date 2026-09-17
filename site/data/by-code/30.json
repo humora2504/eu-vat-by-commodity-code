@@ -1,0 +1,102 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "30",
+ "entries": [
+  {
+   "member_state": "AT",
+   "country": "Austria",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS",
+   "comment": "From January 1, 2026, the supply of chemical, hormonal and mechanical contraceptives and of all kinds of feminine hygiene products are zero tax rated.\n\nPlease notice that until December 31, 2025, all kinds of feminine hygiene products were subject to a reduced tax rate of 10% and the standard tax rate of 20% was applied to contraceptives.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS",
+   "comment": "The sale of in vitro products and vaccines related to virus covid 19 are liable at 0% from 13/01/2023 until 31/5/2023\r\n\r\nFrom 5/5/2023 up until 31/12/2025 until the sale of the following: baby milk (liquid or powder), baby diapers, adult diapers, products related to feminine hygiene protection are liable at the 0%\r\n\r\nFrom 1/12/23 up until 31/12/25 sale of fresh or refrigerated vegetables of all kinds for human consumption are liable at the 0% VAT",
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS",
+   "comment": "Sorbitol for diabetics, aspartame, saccharin and its salts, antibiotics, pharmaceutical products - intended for medical services, disease prevention and treatment for medical purposes only; radiopharmaceuticals, vaccines, medicaments, contrast agents for X-ray examinations, diagnostic reagents intended for administration to patients, chemical contraceptives on a hormonal basis - intended for medical and veterinary services, disease prevention and treatment for medical and veterinary purposes.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IE",
+   "country": "Ireland",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS",
+   "comment": "Human Oral Medicine, Oral and Non-oral hormone replacement therapy, Oral and Non-oral Nicotine Replacement Therapy, Oral Contraception, and sanitary products are zero-rated for VAT purposes (e. Animal Oral medicine is also zero-rated (excluding medicine for dogs, cats, cage birds or domestic pets, which is standard rated. All non-oral animal medicines are also standard rated.)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LT",
+   "country": "Lithuania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS",
+   "comment": "Applicable for medicaments, medical aids and food products for special medical purposes, fully or partially compensated by the Compulsory Health Insurance Fund (at the moment of acquisition), as well as for all non-compensated prescribed medicines (entered into the Lithuanian or EU register of prescribed medications)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LV",
+   "country": "Latvia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS",
+   "comment": "Medical products.\n(Section 42, Paragraph 1 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SK",
+   "country": "Slovakia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS",
+   "comment": "Only selected items.\r\nExhaustive list can be found in Annex 7 of Act No. 222/2004 Coll. on Value Added Tax as amended via the following link https://www.mfsr.sk/en/taxes-customs-accounting/indirect-taxes/vat/",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "84.25",
+ "entries": [
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "RESCUE_EQUIPMENT",
+   "category_description": "Tools and other equipment of a kind normally intended for use in rescue or first aid services when supplied to public bodies or non-profit-making organisations active in civil or community protection",
+   "code_kind": "CPA",
+   "code_description": "Fire brigade services",
+   "comment": "Supply of typed fire engines, special protective and rescue equipment, and tools for the performance of firefighting tasks, usually intended for use in interventions, which are supplied to public fire services or volunteer firefighting units in firefighting societies. For more information, see articles 59.f to 59.i of the Rules on the Implementation of VATA-1.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

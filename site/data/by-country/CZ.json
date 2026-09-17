@@ -1,0 +1,621 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "CZ",
+ "country": "Czechia",
+ "rates": [
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Supply, including on loan by libraries, of books, picture books, drawing or colouring books, brochures, music and maps, including audio recordings of their content (other than those where advertising exceeds 50% of their content, or those that consist wholly or mainly of video content or audible music). It also applies to electronic versions (e-books, etc.).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905",
+     "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed"
+    },
+    {
+     "kind": "CN",
+     "code": "4911",
+     "description": "Other printed matter, including printed pictures and photographs"
+    },
+    {
+     "kind": "CN",
+     "code": "8523",
+     "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37"
+    },
+    {
+     "kind": "CPA",
+     "code": "77",
+     "description": "Rental and leasing services"
+    },
+    {
+     "kind": "CPA",
+     "code": "85",
+     "description": "Education services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91",
+     "description": "Libraries, archives, museums and other cultural services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "The cross-border transport services of passengers and their luggage.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49",
+     "description": "Land transport services and transport services via pipelines"
+    },
+    {
+     "kind": "CPA",
+     "code": "50",
+     "description": "Water transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51",
+     "description": "Air transport services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Foodstuffs for human and animal consumption, live animals, seeds, plants, additives normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs. Excl. beverages and water, this does not apply to selected drinks (milk and liquid milk products, plant-based milk alternatives, even if they contain added sugar or other sweetener, additive or other food, provided they retain the essential character of such beverages).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "01",
+     "description": "CHAPTER 1 - LIVE ANIMALS"
+    },
+    {
+     "kind": "CN",
+     "code": "02",
+     "description": "CHAPTER 2 - MEAT AND EDIBLE MEAT OFFAL"
+    },
+    {
+     "kind": "CN",
+     "code": "03",
+     "description": "CHAPTER 3 - FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES"
+    },
+    {
+     "kind": "CN",
+     "code": "04",
+     "description": "CHAPTER 4 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "05",
+     "description": "CHAPTER 5 - PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "08",
+     "description": "CHAPTER 8 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+     "kind": "CN",
+     "code": "09",
+     "description": "CHAPTER 9 - COFFEE, TEA, MATÉ AND SPICES"
+    },
+    {
+     "kind": "CN",
+     "code": "10",
+     "description": "CHAPTER 10 - CEREALS"
+    },
+    {
+     "kind": "CN",
+     "code": "11",
+     "description": "CHAPTER 11 - PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "13",
+     "description": "CHAPTER 13 - LAC; GUMS, RESINS AND OTHER VEGETABLE SAPS AND EXTRACTS"
+    },
+    {
+     "kind": "CN",
+     "code": "14",
+     "description": "CHAPTER 14 - VEGETABLE PLAITING MATERIALS; VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "15",
+     "description": "CHAPTER 15 - ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES"
+    },
+    {
+     "kind": "CN",
+     "code": "16",
+     "description": "CHAPTER 16 - PREPARATIONS OF MEAT, OF FISH, OF CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES, OR OF INSECTS"
+    },
+    {
+     "kind": "CN",
+     "code": "17",
+     "description": "CHAPTER 17 - SUGARS AND SUGAR CONFECTIONERY"
+    },
+    {
+     "kind": "CN",
+     "code": "18",
+     "description": "CHAPTER 18 - COCOA AND COCOA PREPARATIONS"
+    },
+    {
+     "kind": "CN",
+     "code": "19",
+     "description": "CHAPTER 19 - PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS' PRODUCTS"
+    },
+    {
+     "kind": "CN",
+     "code": "20",
+     "description": "CHAPTER 20 - PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS"
+    },
+    {
+     "kind": "CN",
+     "code": "21",
+     "description": "CHAPTER 21 - MISCELLANEOUS EDIBLE PREPARATIONS"
+    },
+    {
+     "kind": "CN",
+     "code": "22",
+     "description": "CHAPTER 22 - BEVERAGES, SPIRITS AND VINEGAR"
+    },
+    {
+     "kind": "CN",
+     "code": "23",
+     "description": "CHAPTER 23 - RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "25",
+     "description": "CHAPTER 25 - SALT; SULPHUR; EARTHS AND STONE; PLASTERING MATERIALS, LIME AND CEMENT"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PLANT",
+   "category_description": "Live plants and other floricultural products, including bulbs, cotton, roots and the like, cut flowers and ornamental foliage",
+   "comment": "Live trees and other plants; bulbs, roots and the like. Plants and seeds.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0601",
+     "description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 1212"
+    },
+    {
+     "kind": "CN",
+     "code": "0602",
+     "description": "Other live plants (including their roots), cuttings and slips; mushroom spawn"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "08",
+     "description": "CHAPTER 8 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+     "kind": "CN",
+     "code": "09",
+     "description": "CHAPTER 9 - COFFEE, TEA, MATÉ AND SPICES"
+    },
+    {
+     "kind": "CN",
+     "code": "10",
+     "description": "CHAPTER 10 - CEREALS"
+    },
+    {
+     "kind": "CN",
+     "code": "11",
+     "description": "CHAPTER 11 - PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "comment": "Drinking water.\r\nTreatment and distribution services of water through mains. Collection and treatment of wastewater and sewage.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2201",
+     "description": "Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow"
+    },
+    {
+     "kind": "CPA",
+     "code": "36.00.2",
+     "description": "Treatment and distribution services of water"
+    },
+    {
+     "kind": "CPA",
+     "code": "37",
+     "description": "Sewerage services; sewage sludge"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Sorbitol for diabetics, aspartame, saccharin and its salts, antibiotics, pharmaceutical products - intended for medical services, disease prevention and treatment for medical purposes only; radiopharmaceuticals, vaccines, medicaments, contrast agents for X-ray examinations, diagnostic reagents intended for administration to patients, chemical contraceptives on a hormonal basis - intended for medical and veterinary services, disease prevention and treatment for medical and veterinary purposes.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "28",
+     "description": "CHAPTER 28 - INORGANIC CHEMICALS; ORGANIC OR INORGANIC COMPOUNDS OF PRECIOUS METALS, OF RARE-EARTH METALS, OF RADIOACTIVE ELEMENTS OR OF ISOTOPES"
+    },
+    {
+     "kind": "CN",
+     "code": "29",
+     "description": "CHAPTER 29 - ORGANIC CHEMICALS"
+    },
+    {
+     "kind": "CN",
+     "code": "30",
+     "description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "Supply, including on loan by libraries, of newspapers, magazines and periodicals, including audio recordings of their content (other than those where advertising exceeds 50% of their content, or those that consist wholly or mainly of video content or audible music). It also applies to electronic versions.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "8523",
+     "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CHILDREN_CAR_SEATS",
+   "category_description": "Supply of children’s car seats",
+   "comment": "Children’s car seats.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "94",
+     "description": "CHAPTER 94 - FURNITURE; BEDDING, MATTRESSES, MATTRESS SUPPORTS, CUSHIONS AND SIMILAR STUFFED FURNISHINGS; LUMINAIRES AND LIGHTING FITTINGS, NOT ELSEWHERE SPECIFIED OR INCLUDED; ILLUMINATED SIGNS, ILLUMINATED NAMEPLATES AND THE LIKE; PREFABRICATED BUILDINGS"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Mass land and waterway transport services of passengers and their luggage and passenger transport services by ski lifts.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49",
+     "description": "Land transport services and transport services via pipelines"
+    },
+    {
+     "kind": "CPA",
+     "code": "50",
+     "description": "Water transport services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "Accommodation services.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55",
+     "description": "Accommodation services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "RESTAURANT",
+   "category_description": "Restaurant and catering services, it being possible to exclude the supply of (alcoholic and/or non-alcoholic) beverages",
+   "comment": "Restaurant and catering services except serving beverages other than drinking water and selected drinks; serving drinking water and selected drinks. \r\nSelected drinks (non-alcoholic beverage) are milk and liquid milk products, plant-based milk alternatives (CN 2202 99 11 and 2202 99 15), even if they contain added sugar or other sweetening matter, additive or other food, provided they retain the essential character of such beverages.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56",
+     "description": "Food and beverage serving services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "Admission to shows, theatres, circuses, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities, botanical gardens, nature reserves and national parks.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "59.14",
+     "description": "Motion picture projection services"
+    },
+    {
+     "kind": "CPA",
+     "code": "90",
+     "description": "Arts creation and performing arts services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91",
+     "description": "Libraries, archives, museums and other cultural services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93",
+     "description": "Sporting services and amusement and recreation services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "comment": "Medical care, in so far as those transactions are not exempt.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "86",
+     "description": "Human health services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "comment": "Social care, in so far as those transactions are not exempt.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "87",
+     "description": "Residential care services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "DOMESTIC_CARE",
+   "category_description": "Domestic care services such as home help and care of the young, elderly, sick or disabled",
+   "comment": "Domestic care of the young, elderly, sick or disabled.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "88.10",
+     "description": "Social work services without accommodation for older persons or persons with disabilities"
+    },
+    {
+     "kind": "CPA",
+     "code": "88.91",
+     "description": "Child day-care services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "comment": "Admission to sporting events; use of indoor and outdoor sports facilities for sports activities; services related to the operation of recreational parks and beaches; operation of ski slopes.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93.11",
+     "description": "Sports facility operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.12",
+     "description": "Services of sports clubs"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.13",
+     "description": "Services of fitness centres"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.29.11",
+     "description": "Recreation parks and beach services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.29.19",
+     "description": "Other recreational services n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "UNDERTAKERS_SERVICES",
+   "category_description": "Supply of services by undertakers and cremation services, and the supply of goods related thereto",
+   "comment": "Funerals and related services, except for funeral services for animals.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.03",
+     "description": "Funeral and related services"
+    }
+   ]
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Selected medical devices and their accessories according to the Regulation of the European Parliament and the Council on medical devices and in vitro diagnostic medical devices and their accessories according to the Regulation of the European Parliament and the Council on in vitro diagnostic medical devices (e.g. they can be classified in table no. 1 of section C of Annex no. 3 or Annex No. 4 of the Act on Public Health Insurance). Repair or modification of such medical equipment.",
+   "codes": []
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "The construction, renovation, alteration and transfer of residential property provided as a part of a social policy (apartments of up to 120 m2 of the floor area and family houses of up to 350 m2 of the floor area, other social buildings designed for living).",
+   "codes": []
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "comment": "The renovation and repairing of residential property.",
+   "codes": []
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "comment": "Heat and cold supply.",
+   "codes": []
+  },
+  {
+   "member_state": "CZ",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "21.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": "&lt;p&gt;Art. 47 of the VAT Act.&lt;/p&gt;",
+   "codes": []
+  }
+ ]
+}

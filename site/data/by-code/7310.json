@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "7310",
+ "entries": [
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "13.0",
+   "category_id": "AGRICULTURAL_EQUIPMENT",
+   "category_description": "Certain agricultural tools and equipment",
+   "code_kind": "CN",
+   "code_description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",
+   "comment": "Reduced rate applies only on water storage tanks that can be used to store water for irrigation or drainage or firefighting or fish farming of tariff headings 3925, 3926, 6810, 6811, 7309, 7310, 7611, 7612",
+   "situation_on": "2025-01-01"
+  }
+ ]
+}

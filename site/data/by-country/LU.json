@@ -1,0 +1,3655 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "LU",
+ "country": "Luxembourg",
+ "rates": [
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings, excluding leasing and renting of agricultural and forestry machinery and utensils, transport of agricultural and forestry products and felling and logging of trees",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0101 30 00",
+     "description": "Asses"
+    },
+    {
+     "kind": "CN",
+     "code": "0101 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0102",
+     "description": "Live bovine animals"
+    },
+    {
+     "kind": "CN",
+     "code": "0103",
+     "description": "Live swine"
+    },
+    {
+     "kind": "CN",
+     "code": "0104",
+     "description": "Live sheep and goats"
+    },
+    {
+     "kind": "CN",
+     "code": "0105",
+     "description": "Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls"
+    },
+    {
+     "kind": "CN",
+     "code": "0106 14 10",
+     "description": "Domestic rabbits"
+    },
+    {
+     "kind": "CN",
+     "code": "0106 14 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0106 41 00",
+     "description": "Bees"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 10 00",
+     "description": "Bovine semen"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 10 10",
+     "description": "Of vines"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 20",
+     "description": "Trees, shrubs and bushes, grafted or not, of kinds which bear edible fruit or nuts"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 10",
+     "description": "Mushroom spawn"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 30",
+     "description": "Vegetable and strawberry plants"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 41",
+     "description": "Forest trees"
+    },
+    {
+     "kind": "CN",
+     "code": "10",
+     "description": "CHAPTER 10 - CEREALS"
+    },
+    {
+     "kind": "CN",
+     "code": "1201",
+     "description": "Soya beans, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1202",
+     "description": "Groundnuts, not roasted or otherwise cooked, whether or not shelled or broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1203 00 00",
+     "description": "Copra"
+    },
+    {
+     "kind": "CN",
+     "code": "1204 00",
+     "description": "Linseed, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1205",
+     "description": "Rape or colza seeds, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1206 00",
+     "description": "Sunflower seeds, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1207",
+     "description": "Other oil seeds and oleaginous fruits, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1208",
+     "description": "Flours and meals of oil seeds or oleaginous fruits, other than those of mustard"
+    },
+    {
+     "kind": "CN",
+     "code": "1209",
+     "description": "Seeds, fruit and spores, of a kind used for sowing"
+    },
+    {
+     "kind": "CN",
+     "code": "1212 91",
+     "description": "Sugar beet"
+    },
+    {
+     "kind": "CN",
+     "code": "1212 93 00",
+     "description": "Sugar cane"
+    },
+    {
+     "kind": "CN",
+     "code": "1213 00 00",
+     "description": "Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets"
+    },
+    {
+     "kind": "CN",
+     "code": "2522 10 00",
+     "description": "Quicklime"
+    },
+    {
+     "kind": "CN",
+     "code": "2522 20 00",
+     "description": "Slaked lime"
+    },
+    {
+     "kind": "CN",
+     "code": "2703 00 00",
+     "description": "Peat (including peat litter), whether or not agglomerated"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.62",
+     "description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.63",
+     "description": "Post-harvest crop services and seed processing services of propagation; services of preparing plant silages for energy production"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.64",
+     "description": "Seed processing services for propagation"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "comment": "Services excluded : leasing and renting of agricultural and forestry machinery and utensils; transport of agricultural and forestry products; felling and logging of trees",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0101 30 00",
+     "description": "Asses"
+    },
+    {
+     "kind": "CN",
+     "code": "0102",
+     "description": "Live bovine animals"
+    },
+    {
+     "kind": "CN",
+     "code": "0103",
+     "description": "Live swine"
+    },
+    {
+     "kind": "CN",
+     "code": "0104",
+     "description": "Live sheep and goats"
+    },
+    {
+     "kind": "CN",
+     "code": "0105",
+     "description": "Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls"
+    },
+    {
+     "kind": "CN",
+     "code": "0106 14 10",
+     "description": "Domestic rabbits"
+    },
+    {
+     "kind": "CN",
+     "code": "0106 41 00",
+     "description": "Bees"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 10 00",
+     "description": "Bovine semen"
+    },
+    {
+     "kind": "CN",
+     "code": "0601 20 10",
+     "description": "Chicory plants and roots"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 10 10",
+     "description": "Of vines"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 20",
+     "description": "Trees, shrubs and bushes, grafted or not, of kinds which bear edible fruit or nuts"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 10",
+     "description": "Mushroom spawn"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 30",
+     "description": "Vegetable and strawberry plants"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 41",
+     "description": "Forest trees"
+    },
+    {
+     "kind": "CN",
+     "code": "1001 11 00",
+     "description": "Seed"
+    },
+    {
+     "kind": "CN",
+     "code": "1001 19 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1001 91",
+     "description": "Seed"
+    },
+    {
+     "kind": "CN",
+     "code": "1001 99 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1002",
+     "description": "Rye"
+    },
+    {
+     "kind": "CN",
+     "code": "1003",
+     "description": "Barley"
+    },
+    {
+     "kind": "CN",
+     "code": "1004",
+     "description": "Oats"
+    },
+    {
+     "kind": "CN",
+     "code": "1005 10",
+     "description": "Seed"
+    },
+    {
+     "kind": "CN",
+     "code": "1005 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1006 10",
+     "description": "Rice in the husk (paddy or rough)"
+    },
+    {
+     "kind": "CN",
+     "code": "1006 10 30",
+     "description": "Round grain"
+    },
+    {
+     "kind": "CN",
+     "code": "1006 20",
+     "description": "Husked (brown) rice"
+    },
+    {
+     "kind": "CN",
+     "code": "1006 40 00",
+     "description": "Broken rice"
+    },
+    {
+     "kind": "CN",
+     "code": "1007 10",
+     "description": "Seed"
+    },
+    {
+     "kind": "CN",
+     "code": "1007 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1008",
+     "description": "Buckwheat, millet and canary seed; other cereals"
+    },
+    {
+     "kind": "CN",
+     "code": "1201",
+     "description": "Soya beans, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1202",
+     "description": "Groundnuts, not roasted or otherwise cooked, whether or not shelled or broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1204 00",
+     "description": "Linseed, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1205",
+     "description": "Rape or colza seeds, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1206 00",
+     "description": "Sunflower seeds, whether or not broken"
+    },
+    {
+     "kind": "CN",
+     "code": "1207 29 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1207 40",
+     "description": "Sesamum seeds"
+    },
+    {
+     "kind": "CN",
+     "code": "1207 50",
+     "description": "Mustard seeds"
+    },
+    {
+     "kind": "CN",
+     "code": "1207 60 00",
+     "description": "Safflower (Carthamus tinctorius) seeds"
+    },
+    {
+     "kind": "CN",
+     "code": "1207 70 00",
+     "description": "Melon seeds"
+    },
+    {
+     "kind": "CN",
+     "code": "1207 91",
+     "description": "Poppy seeds"
+    },
+    {
+     "kind": "CN",
+     "code": "1207 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1208",
+     "description": "Flours and meals of oil seeds or oleaginous fruits, other than those of mustard"
+    },
+    {
+     "kind": "CN",
+     "code": "1209",
+     "description": "Seeds, fruit and spores, of a kind used for sowing"
+    },
+    {
+     "kind": "CN",
+     "code": "1212 91",
+     "description": "Sugar beet"
+    },
+    {
+     "kind": "CN",
+     "code": "1212 93 00",
+     "description": "Sugar cane"
+    },
+    {
+     "kind": "CN",
+     "code": "1213 00 00",
+     "description": "Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets"
+    },
+    {
+     "kind": "CN",
+     "code": "2522 10 00",
+     "description": "Quicklime"
+    },
+    {
+     "kind": "CN",
+     "code": "2522 20 00",
+     "description": "Slaked lime"
+    },
+    {
+     "kind": "CN",
+     "code": "2703 00 00",
+     "description": "Peat (including peat litter), whether or not agglomerated"
+    },
+    {
+     "kind": "CN",
+     "code": "31",
+     "description": "CHAPTER 31 - FERTILISERS"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.61",
+     "description": "Support services to crop production"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.62",
+     "description": "Support services to animal production; services of preparing farmyard manure and slurry for energy production"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.63",
+     "description": "Post-harvest crop services and seed processing services of propagation; services of preparing plant silages for energy production"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.64",
+     "description": "Seed processing services for propagation"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0201",
+     "description": "Meat of bovine animals, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0202",
+     "description": "Meat of bovine animals, frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0203",
+     "description": "Meat of swine, fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0204",
+     "description": "Meat of sheep or goats, fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0205 00",
+     "description": "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0206",
+     "description": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0207",
+     "description": "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0208",
+     "description": "Other meat and edible meat offal, fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0209",
+     "description": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked"
+    },
+    {
+     "kind": "CN",
+     "code": "0210",
+     "description": "Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal"
+    },
+    {
+     "kind": "CN",
+     "code": "0302",
+     "description": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304"
+    },
+    {
+     "kind": "CN",
+     "code": "0303",
+     "description": "Fish, frozen, excluding fish fillets and other fish meat of heading 0304"
+    },
+    {
+     "kind": "CN",
+     "code": "0304",
+     "description": "Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0305",
+     "description": "Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process"
+    },
+    {
+     "kind": "CN",
+     "code": "0306",
+     "description": "Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine"
+    },
+    {
+     "kind": "CN",
+     "code": "0307",
+     "description": "Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process"
+    },
+    {
+     "kind": "CN",
+     "code": "0401",
+     "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "0402",
+     "description": "Milk and cream, concentrated or containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "0403",
+     "description": "Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa"
+    },
+    {
+     "kind": "CN",
+     "code": "0404",
+     "description": "Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "0405",
+     "description": "Butter and other fats and oils derived from milk; dairy spreads"
+    },
+    {
+     "kind": "CN",
+     "code": "0406",
+     "description": "Cheese and curd"
+    },
+    {
+     "kind": "CN",
+     "code": "0407",
+     "description": "Birds' eggs, in shell, fresh, preserved or cooked"
+    },
+    {
+     "kind": "CN",
+     "code": "0408 11 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0408 19 81",
+     "description": "Liquid"
+    },
+    {
+     "kind": "CN",
+     "code": "0408 19 89",
+     "description": "Other, including frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0408 91 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0408 99 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0409 00 00",
+     "description": "Natural honey"
+    },
+    {
+     "kind": "CN",
+     "code": "0701",
+     "description": "Potatoes, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0702 00 00",
+     "description": "Tomatoes, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0703",
+     "description": "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0704",
+     "description": "Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0705",
+     "description": "Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0706",
+     "description": "Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0707 00",
+     "description": "Cucumbers and gherkins, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0708",
+     "description": "Leguminous vegetables, shelled or unshelled, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0709",
+     "description": "Other vegetables, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0710",
+     "description": "Vegetables (uncooked or cooked by steaming or boiling in water), frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0711",
+     "description": "Vegetables provisionally preserved, but unsuitable in that state for immediate consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "0712",
+     "description": "Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared"
+    },
+    {
+     "kind": "CN",
+     "code": "0713",
+     "description": "Dried leguminous vegetables, shelled, whether or not skinned or split"
+    },
+    {
+     "kind": "CN",
+     "code": "0714",
+     "description": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith"
+    },
+    {
+     "kind": "CN",
+     "code": "0801",
+     "description": "Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled"
+    },
+    {
+     "kind": "CN",
+     "code": "0802",
+     "description": "Other nuts, fresh or dried, whether or not shelled or peeled"
+    },
+    {
+     "kind": "CN",
+     "code": "0803",
+     "description": "Bananas, including plantains, fresh or dried"
+    },
+    {
+     "kind": "CN",
+     "code": "0804",
+     "description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried"
+    },
+    {
+     "kind": "CN",
+     "code": "0805",
+     "description": "Citrus fruit, fresh or dried"
+    },
+    {
+     "kind": "CN",
+     "code": "0806",
+     "description": "Grapes, fresh or dried"
+    },
+    {
+     "kind": "CN",
+     "code": "0807",
+     "description": "Melons (including watermelons) and papaws (papayas), fresh"
+    },
+    {
+     "kind": "CN",
+     "code": "0808",
+     "description": "Apples, pears and quinces, fresh"
+    },
+    {
+     "kind": "CN",
+     "code": "0809",
+     "description": "Apricots, cherries, peaches (including nectarines), plums and sloes, fresh"
+    },
+    {
+     "kind": "CN",
+     "code": "0810",
+     "description": "Other fruit, fresh"
+    },
+    {
+     "kind": "CN",
+     "code": "0811",
+     "description": "Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "0812",
+     "description": "Fruit and nuts provisionally preserved, but unsuitable in that state for immediate consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "0813",
+     "description": "Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits of this chapter"
+    },
+    {
+     "kind": "CN",
+     "code": "0814 00 00",
+     "description": "Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions"
+    },
+    {
+     "kind": "CN",
+     "code": "0901",
+     "description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion"
+    },
+    {
+     "kind": "CN",
+     "code": "0902",
+     "description": "Tea, whether or not flavoured"
+    },
+    {
+     "kind": "CN",
+     "code": "0903 00 00",
+     "description": "Maté"
+    },
+    {
+     "kind": "CN",
+     "code": "0904",
+     "description": "Pepper of the genus Piper; dried or crushed or ground fruit of the genus Capsicum or of the genus Pimenta"
+    },
+    {
+     "kind": "CN",
+     "code": "0905",
+     "description": "Vanilla"
+    },
+    {
+     "kind": "CN",
+     "code": "0906",
+     "description": "Cinnamon and cinnamon-tree flowers"
+    },
+    {
+     "kind": "CN",
+     "code": "0907",
+     "description": "Cloves (whole fruit, cloves and stems)"
+    },
+    {
+     "kind": "CN",
+     "code": "0908",
+     "description": "Nutmeg, mace and cardamoms"
+    },
+    {
+     "kind": "CN",
+     "code": "0909",
+     "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries"
+    },
+    {
+     "kind": "CN",
+     "code": "0910",
+     "description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices"
+    },
+    {
+     "kind": "CN",
+     "code": "1101 00",
+     "description": "Wheat or meslin flour"
+    },
+    {
+     "kind": "CN",
+     "code": "1102",
+     "description": "Cereal flours other than of wheat or meslin"
+    },
+    {
+     "kind": "CN",
+     "code": "1103",
+     "description": "Cereal groats, meal and pellets"
+    },
+    {
+     "kind": "CN",
+     "code": "1104",
+     "description": "Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled, flaked or ground"
+    },
+    {
+     "kind": "CN",
+     "code": "1105",
+     "description": "Flour, meal, powder, flakes, granules and pellets of potatoes"
+    },
+    {
+     "kind": "CN",
+     "code": "1106",
+     "description": "Flour, meal and powder of the dried leguminous vegetables of heading 0713, of sago or of roots or tubers of heading 0714 or of the products of Chapter 8"
+    },
+    {
+     "kind": "CN",
+     "code": "1107",
+     "description": "Malt, whether or not roasted"
+    },
+    {
+     "kind": "CN",
+     "code": "1108",
+     "description": "Starches; inulin"
+    },
+    {
+     "kind": "CN",
+     "code": "1109 00 00",
+     "description": "Wheat gluten, whether or not dried"
+    },
+    {
+     "kind": "CN",
+     "code": "1212 94 00",
+     "description": "Chicory roots"
+    },
+    {
+     "kind": "CN",
+     "code": "1214",
+     "description": "Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets"
+    },
+    {
+     "kind": "CN",
+     "code": "1517",
+     "description": "Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils or their fractions of heading 1516"
+    },
+    {
+     "kind": "CN",
+     "code": "1601 00",
+     "description": "Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products"
+    },
+    {
+     "kind": "CN",
+     "code": "1602",
+     "description": "Other prepared or preserved meat, meat offal, blood or insects"
+    },
+    {
+     "kind": "CN",
+     "code": "1603 00",
+     "description": "Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates"
+    },
+    {
+     "kind": "CN",
+     "code": "1604",
+     "description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs"
+    },
+    {
+     "kind": "CN",
+     "code": "1605",
+     "description": "Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved"
+    },
+    {
+     "kind": "CN",
+     "code": "1701 12 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1701 13 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1701 14 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1701 91 00",
+     "description": "Containing added flavouring or colouring matter"
+    },
+    {
+     "kind": "CN",
+     "code": "1701 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1702 30",
+     "description": "Glucose and glucose syrup, not containing fructose or containing in the dry state less than 20 % by weight of fructose"
+    },
+    {
+     "kind": "CN",
+     "code": "1703",
+     "description": "Molasses resulting from the extraction or refining of sugar"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 10 10",
+     "description": "Containing less than 60 % by weight of sucrose (including invert sugar expressed as sucrose)"
+    },
+    {
+     "kind": "CN",
+     "code": "1801 00 00",
+     "description": "Cocoa beans, whole or broken, raw or roasted"
+    },
+    {
+     "kind": "CN",
+     "code": "1802 00 00",
+     "description": "Cocoa shells, husks, skins and other cocoa waste"
+    },
+    {
+     "kind": "CN",
+     "code": "1803",
+     "description": "Cocoa paste, whether or not defatted"
+    },
+    {
+     "kind": "CN",
+     "code": "1804 00 00",
+     "description": "Cocoa butter, fat and oil"
+    },
+    {
+     "kind": "CN",
+     "code": "1805 00 00",
+     "description": "Cocoa powder, not containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "1806 20",
+     "description": "Other preparations in blocks, slabs or bars weighing more than 2 kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1901",
+     "description": "Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404, not containing cocoa or containing less than 5 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "1902 20 10",
+     "description": "Containing more than 20 % by weight of fish, crustaceans, molluscs or other aquatic invertebrates"
+    },
+    {
+     "kind": "CN",
+     "code": "1903 00 00",
+     "description": "Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or similar forms"
+    },
+    {
+     "kind": "CN",
+     "code": "1904",
+     "description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked or otherwise prepared, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 10 00",
+     "description": "Crispbread"
+    },
+    {
+     "kind": "CN",
+     "code": "2001 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2002 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2003 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2004 10",
+     "description": "Potatoes"
+    },
+    {
+     "kind": "CN",
+     "code": "2005 10 00",
+     "description": "Homogenised vegetables"
+    },
+    {
+     "kind": "CN",
+     "code": "2006 00",
+     "description": "Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised)"
+    },
+    {
+     "kind": "CN",
+     "code": "2007",
+     "description": "Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "2008",
+     "description": "Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "2009",
+     "description": "Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "2101",
+     "description": "Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "2102",
+     "description": "Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 3002); prepared baking powders"
+    },
+    {
+     "kind": "CN",
+     "code": "2103",
+     "description": "Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard"
+    },
+    {
+     "kind": "CN",
+     "code": "2104",
+     "description": "Soups and broths and preparations therefor; homogenised composite food preparations"
+    },
+    {
+     "kind": "CN",
+     "code": "2105 00",
+     "description": "Ice cream and other edible ice, whether or not containing cocoa"
+    },
+    {
+     "kind": "CN",
+     "code": "2106",
+     "description": "Food preparations not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "2202",
+     "description": "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other non-alcoholic beverages, not including fruit, nut or vegetable juices of heading 2009"
+    },
+    {
+     "kind": "CN",
+     "code": "2209 00",
+     "description": "Vinegar and substitutes for vinegar obtained from acetic acid"
+    },
+    {
+     "kind": "CN",
+     "code": "2301",
+     "description": "Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves"
+    },
+    {
+     "kind": "CN",
+     "code": "2302",
+     "description": "Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants"
+    },
+    {
+     "kind": "CN",
+     "code": "2303",
+     "description": "Residues of starch manufacture and similar residues, beet-pulp, bagasse and other waste of sugar manufacture, brewing or distilling dregs and waste, whether or not in the form of pellets"
+    },
+    {
+     "kind": "CN",
+     "code": "2304 00 00",
+     "description": "Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil"
+    },
+    {
+     "kind": "CN",
+     "code": "2305 00 00",
+     "description": "Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil"
+    },
+    {
+     "kind": "CN",
+     "code": "2306",
+     "description": "Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable or microbial fats or oils, other than those of heading 2304 or 2305"
+    },
+    {
+     "kind": "CN",
+     "code": "2307 00",
+     "description": "Wine lees; argol"
+    },
+    {
+     "kind": "CN",
+     "code": "2308 00",
+     "description": "Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "2309",
+     "description": "Preparations of a kind used in animal feeding"
+    },
+    {
+     "kind": "CN",
+     "code": "2501 00 91",
+     "description": "Salt suitable for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "0410",
+     "description": "Insects and other edible products of animal origin, not elsewhere specified or included"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Animal or vegetable fats and oils for human and animal consumption or  normally intended for use in the preparation of foodstuffs",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1501 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1501 20 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1501 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1502 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1502 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1503 00 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1503 00 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1504",
+     "description": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1506 00 00",
+     "description": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1507 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1507 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1508 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1508 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1509",
+     "description": "Olive oil and its fractions, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1510 00",
+     "description": "Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 1509"
+    },
+    {
+     "kind": "CN",
+     "code": "1511 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1511 90 11",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1511 90 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1511 90 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1512 11 91",
+     "description": "Sunflower-seed oil"
+    },
+    {
+     "kind": "CN",
+     "code": "1512 11 99",
+     "description": "Safflower oil"
+    },
+    {
+     "kind": "CN",
+     "code": "1512 19 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1512 21 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1512 29 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 11 91",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 11 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 19 11",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 19 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 19 91",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 19 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 21 30",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 21 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 29 11",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 29 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 29 50",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1513 29 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1514 11 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1514 19 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1514 91 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1514 99 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 11 00",
+     "description": "Crude oil"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 19 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 21 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 29 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 50 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 50 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 90 29",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 90 39",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 90 51",
+     "description": "Solid, in immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 90 59",
+     "description": "Solid, other; fluid"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 90 91",
+     "description": "Solid, in immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 90 99",
+     "description": "Solid, other; fluid"
+    },
+    {
+     "kind": "CN",
+     "code": "1516 10",
+     "description": "Animal fats and oils and their fractions"
+    },
+    {
+     "kind": "CN",
+     "code": "1516 20 91",
+     "description": "In immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1516 20 96",
+     "description": "Groundnut, cotton-seed, soya-bean or sunflower-seed oils; other oils containing less than 50 % by weight of free fatty acids and excluding palm kernel, illipe, coconut, colza, rapeseed or copaiba oils"
+    },
+    {
+     "kind": "CN",
+     "code": "1516 20 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 60 51",
+     "description": "Solid, in immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 60 59",
+     "description": "Solid, other; fluid"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 60 91",
+     "description": "Solid, in immediate packings of a net content not exceeding 1 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 60 99",
+     "description": "Solid, other; fluid"
+    },
+    {
+     "kind": "CN",
+     "code": "1516 30",
+     "description": "Microbial fats and oils and their fractions"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Excluding materials with predominately adult content",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905",
+     "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.30",
+     "description": "On-line books"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.13.20",
+     "description": "Online journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.14.20",
+     "description": "On-line journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.01.11",
+     "description": "Library services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Services provided by writers, composers and performers and the royalties due to them",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "58.11.60",
+     "description": "Licensing services for books"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.14.40",
+     "description": "Licensing services for journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "59.20.40",
+     "description": "Licensing services of the right to use acoustic originals"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.01",
+     "description": "Services of performing artists"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.03.11",
+     "description": "Services provided by authors, composers, sculptors and other artists, except performing artists"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ROYALTIES",
+   "category_description": "Services provided by writers, composers and performers and the royalties due to them",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "58.11.60",
+     "description": "Licensing services for books"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.14.40",
+     "description": "Licensing services for journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "59.20.40",
+     "description": "Licensing services of the right to use acoustic originals"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.01",
+     "description": "Services of performing artists"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.03.11",
+     "description": "Services provided by authors, composers, sculptors and other artists, except performing artists"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Reception of certain radio and television broadcasting services, excluding reception of adult content",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "60.10.1",
+     "description": "Radio broadcasting services; broadcast originals"
+    },
+    {
+     "kind": "CPA",
+     "code": "60.20.1",
+     "description": "Television programming and broadcasting services"
+    },
+    {
+     "kind": "CPA",
+     "code": "60.20.2",
+     "description": "Television broadcasting originals"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CERTAIN_BROADCASTING_SERVICES",
+   "category_description": "Reception of certain radio and television broadcasting services",
+   "comment": "Excluding reception of adult content",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "60.10.1",
+     "description": "Radio broadcasting services; broadcast originals"
+    },
+    {
+     "kind": "CPA",
+     "code": "60.20.1",
+     "description": "Television programming and broadcasting services"
+    },
+    {
+     "kind": "CPA",
+     "code": "60.20.2",
+     "description": "Television broadcasting originals"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Granting the right of access to and use of sports facilities, excluding the supply of sport or physical exercise classes when live-streamed",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93.11.10",
+     "description": "Sports facility operation services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SPORTING_FACILITY_ACCESS",
+   "category_description": "Granting the right of access to and use of sports facilities",
+   "comment": "Excluding the supply of sport or physical exercise classes when live-streamed",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93.11.10",
+     "description": "Sports facility operation services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Services provided by undertakers and cremators",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.03",
+     "description": "Funeral and related services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FUNERAL",
+   "category_description": "Services provided by undertakers and cremators",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.03",
+     "description": "Funeral and related services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Article 371 of 2006/112/EC\r\n\r\nTransport within the national territory where the point of departure or/and point of arrival is/are not within the national territory",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.1",
+     "description": "Passenger rail transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.32.11",
+     "description": "Taxi services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.34",
+     "description": "Non-scheduled long distance bus and coach charter services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "comment": "Wines of fresh grapes with 13% vol. or less (fortified wines, sparkling wines and so-called liqueur wines excluded)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2204",
+     "description": "Wine of fresh grapes, including fortified wines; grape must other than that of heading 2009"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WINE_FRESH_GRAPE",
+   "category_description": "Wine of fresh grapes containing 13° or less of alcohol, with the exception of fortified wines, sparkling wines and liqueur wines",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2204",
+     "description": "Wine of fresh grapes, including fortified wines; grape must other than that of heading 2009"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FUEL_MINERAL_OIL",
+   "category_description": "Solid mineral fuels; mineral oils and wood for use as fuel",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2701",
+     "description": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal"
+    },
+    {
+     "kind": "CN",
+     "code": "2702 20 00",
+     "description": "Agglomerated lignite"
+    },
+    {
+     "kind": "CN",
+     "code": "2704 00 10",
+     "description": "Coke and semi-coke of coal"
+    },
+    {
+     "kind": "CN",
+     "code": "2704 00 30",
+     "description": "Coke and semi-coke of lignite"
+    },
+    {
+     "kind": "CN",
+     "code": "2708 20 00",
+     "description": "Pitch coke"
+    },
+    {
+     "kind": "CN",
+     "code": "2710 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2710 20",
+     "description": "Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, containing biodiesel, other than waste oils"
+    },
+    {
+     "kind": "CN",
+     "code": "2713 11 00",
+     "description": "Not calcined"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "comment": "Fuels: solid mineral fuels; mineral oils; wood other than for use as firewood",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2701 20 00",
+     "description": "Briquettes, ovoids and similar solid fuels manufactured from coal"
+    },
+    {
+     "kind": "CN",
+     "code": "2702 20 00",
+     "description": "Agglomerated lignite"
+    },
+    {
+     "kind": "CN",
+     "code": "2703 00 00",
+     "description": "Peat (including peat litter), whether or not agglomerated"
+    },
+    {
+     "kind": "CN",
+     "code": "2710 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4403",
+     "description": "Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CLEANING_PRODUCT",
+   "category_description": "Washing and cleaning preparations",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3402",
+     "description": "Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 3401"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "comment": "Preparations for washing and cleaning",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3402 20 90",
+     "description": "Washing preparations and cleaning preparations"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FUEL_MINERAL_OIL",
+   "category_description": "Solid mineral fuels; mineral oils and wood for use as fuel",
+   "comment": "Wood other than used as firewood",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4401 31 00",
+     "description": "Wood pellets"
+    },
+    {
+     "kind": "CN",
+     "code": "4401 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4403",
+     "description": "Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared"
+    },
+    {
+     "kind": "CN",
+     "code": "4401 32 00",
+     "description": "Wood briquettes"
+    },
+    {
+     "kind": "CN",
+     "code": "4401 41 00",
+     "description": "Sawdust"
+    },
+    {
+     "kind": "CN",
+     "code": "4401 49 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "comment": "Trade advertising material; commercial catalogues and the like; tourist publicity",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4911 10",
+     "description": "Trade advertising material, commercial catalogues and the like"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PRINTED_ADVERTISING_MATERIAL",
+   "category_description": "Printed advertising material, trade catalogues and the like; tourist propaganda publications",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4911 10",
+     "description": "Trade advertising material, commercial catalogues and the like"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "comment": "Supply of heat other than supply of district heating; supply of air conditioning",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "35.3",
+     "description": "Steam and air conditioning supply services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HEAT_COOLING_STEAM",
+   "category_description": "Heat, cooling and steam, except heat supplied by means of certain heating networks",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "35.3",
+     "description": "Steam and air conditioning supply services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CREDIT_MANAGEMENT",
+   "category_description": "Management of credits and credit guarantees by a person or body other than those who granted the credits",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "64.92.1",
+     "description": "Other credit granting services, other than by monetary institutions"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SECURITY_MANAGEMENT",
+   "category_description": "Custody and management of securities",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "66.19",
+     "description": "Other services auxiliary to financial services, except insurance and pension funding"
+    },
+    {
+     "kind": "CPA",
+     "code": "66.30",
+     "description": "Fund management services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "comment": "Management and safekeeping of securities; management of credit and credit guarantees by a person other than the person who granted the credits",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "66.19.32",
+     "description": "Custody services"
+    },
+    {
+     "kind": "CPA",
+     "code": "66.19.99",
+     "description": "Other miscellaneous services auxiliary to financial services, except insurance and pension funding, n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "66.30.11",
+     "description": "Portfolio management services, except pension funds"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PLANT",
+   "category_description": "Live plants and other floricultural products, including bulbs, cotton, roots and the like, cut flowers and ornamental foliage",
+   "comment": "- Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant\r\n- Other ornamental live plants (including their roots), cuttings and slips\r\n- Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh or dried\r\n- Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh or dried",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0601 10",
+     "description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant"
+    },
+    {
+     "kind": "CN",
+     "code": "0601 20 30",
+     "description": "Orchids, hyacinths, narcissi and tulips"
+    },
+    {
+     "kind": "CN",
+     "code": "0601 20 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 30 00",
+     "description": "Rhododendrons and azaleas, grafted or not"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 40 00",
+     "description": "Roses, grafted or not"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 20",
+     "description": "Pineapple plants"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 45",
+     "description": "Rooted cuttings and young plants"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 46",
+     "description": "With bare roots"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 47",
+     "description": "Conifers and evergreens"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 48",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 50",
+     "description": "Other outdoor plants"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 70",
+     "description": "Rooted cuttings and young plants, excluding cacti"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 91",
+     "description": "Flowering plants with buds or flowers, excluding cacti"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0603",
+     "description": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared"
+    },
+    {
+     "kind": "CN",
+     "code": "0604",
+     "description": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, \r\nmuseums, zoos, cinemas, exhibitions, conferences and similar cultural events and \r\nfacilities, excluding access to the live-streaming of those events or visits or both",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "- Application of new buildings and construction work on new buildings (dwelling used as a principal residence by the owner of the dwelling); \r\n- Renovation and repairs : substantial works on housing used as principal residence and (i) constructed more than 10 years prior to the start of the works (ii) newly acquired, the works to be completed in the five years following the acquisition",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EVENT_ACCESS",
+   "category_description": "Granting of access to certain events and premises",
+   "comment": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions, conferences and similar cultural events and facilities, excluding live-streaming of those events or visits or both",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "RESIDENTIAL_RENOVATION",
+   "category_description": "Certain creation and renovation work carried out for the benefit of a dwelling used as a principal residence by the owner of the dwelling",
+   "comment": "- Application of new buildings and construction work on new buildings ; \r\n- Renovation and repairs : substantial works on housing used as principal dwelling and (i) constructed more than 10 years prior to the start of the works (ii) newly acquired, the works to be completed in the five years following the acquisition",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NON_OWNED_RESIDENCY_RENOVATION",
+   "category_description": "Certain renovation work carried out for the benefit of a dwelling used as a principal residence by a person other than the owner of the dwelling",
+   "comment": "Renovation and repairs : substantial works on housing used as principal dwelling and (i) constructed more than 10 years prior to the start of the works (ii) newly acquired, the works to be completed in the five years following the acquisition",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TEMPORARY_EXEMPTION_RATE",
+   "category_description": "Temporary Exemptions, super-reduced or reduced rates (Article 105a(2) of the VAT Directive)",
+   "comment": "Petroleum gases and other gaseous hydrocarbons (other than natural gas), liquefied, for use as a power or heating fuel (e.g. LPG)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2711",
+     "description": "Petroleum gases and other gaseous hydrocarbons"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "17.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": "&lt;p&gt;Art. 39(3) of VAT law&lt;/p&gt;",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_GAS",
+   "category_description": "Supply of natural gas",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2705 00 00",
+     "description": "Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons"
+    },
+    {
+     "kind": "CN",
+     "code": "2711 11 00",
+     "description": "Natural gas"
+    },
+    {
+     "kind": "CN",
+     "code": "2711 21 00",
+     "description": "Natural gas"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOSSIL_FUEL",
+   "category_description": "Until 1 January 2030: Fossil fuels",
+   "comment": "Natural gas",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2705 00 00",
+     "description": "Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons"
+    },
+    {
+     "kind": "CN",
+     "code": "2711 11 00",
+     "description": "Natural gas"
+    },
+    {
+     "kind": "CN",
+     "code": "2711 21 00",
+     "description": "Natural gas"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOSSIL_FUEL",
+   "category_description": "Until 1 January 2030: Fossil fuels",
+   "comment": "Petroleum gases and other gaseous hydrocarbons (other than natural gas), liquefied, for use as a power or heating fuel (e.g. LPG)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2711",
+     "description": "Petroleum gases and other gaseous hydrocarbons"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_ELECTRICITY",
+   "category_description": "Supply of electricity",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2716 00 00",
+     "description": "Electrical energy"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": "Plant protection products authorised by the administration of technical services for agriculture (Administration des services techniques de l'agriculture ASTA) for organic agriculture where the requirements laid down in modified regulation (EC) 834/2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91 are met",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3808 91",
+     "description": "Insecticides"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 92",
+     "description": "Fungicides"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 93",
+     "description": "Herbicides, anti-sprouting products and plant-growth regulators"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 94",
+     "description": "Disinfectants"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CHEMICAL_PESTICIDES_ENVIRONMENT",
+   "category_description": "Until 1 January 2032: Chemical pesticides",
+   "comment": "Plant protection products authorised by the administration of technical services for agriculture (Administration des services techniques de l'agriculture ASTA) for organic agriculture where the requirements laid down in modified regulation (EC) 834/2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91 are met",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3808 91",
+     "description": "Insecticides"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 92",
+     "description": "Fungicides"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 93",
+     "description": "Herbicides, anti-sprouting products and plant-growth regulators"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 94",
+     "description": "Disinfectants"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2201 10 11",
+     "description": "Not carbonated"
+    },
+    {
+     "kind": "CN",
+     "code": "2201 10 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2201 10 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2201 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CPA",
+     "code": "36.00.11",
+     "description": "Drinking water"
+    },
+    {
+     "kind": "CPA",
+     "code": "36.00.30",
+     "description": "Trade services of water through mains"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WOOD_ARTICLE98",
+   "category_description": "Wood used as firewood (until 1 January 2030)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4401",
+     "description": "Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WOOD",
+   "category_description": "Until 1 January 2030: Wood used as firewood",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4401",
+     "description": "Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Tapestries made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "5805 00 00",
+     "description": "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Wall textiles made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "6304 91 00",
+     "description": "Knitted or crocheted"
+    },
+    {
+     "kind": "CN",
+     "code": "6304 92 00",
+     "description": "Not knitted or crocheted, of cotton"
+    },
+    {
+     "kind": "CN",
+     "code": "6304 93 00",
+     "description": "Not knitted or crocheted, of synthetic fibres"
+    },
+    {
+     "kind": "CN",
+     "code": "6304 99 00",
+     "description": "Not knitted or crocheted, of other textile materials"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "BICYCLES_ELECTRIC",
+   "category_description": "Bicycles, including electric bicycles",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8711 60 10",
+     "description": "Bicycles, tricycles and quadricycles, with pedal assistance, with an auxiliary electric motor with a continuous rated power not exceeding 250 watts"
+    },
+    {
+     "kind": "CN",
+     "code": "8712 00",
+     "description": "Bicycles and other cycles (including delivery tricycles), not motorised"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Postage or revenue stamps, postmarks, first-day covers, pre-stamped stationery and the like, used, or if unused not current and not intended to be current",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9704 00 00",
+     "description": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Pictures, collages and similar decorative plaques, paintings and drawings, executed entirely by hand by the artist, other than plans and drawings for architectural, engineering, industrial, commercial, topographical or similar \r\npurposes, hand-decorated manufactured articles, theatrical scenery, studio back cloths or the like of painted canvas",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9701 21 00",
+     "description": "Paintings, drawings and pastels"
+    },
+    {
+     "kind": "CN",
+     "code": "9701 29 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9701 91 00",
+     "description": "Paintings, drawing and pastels"
+    },
+    {
+     "kind": "CN",
+     "code": "9701 99 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Original engravings, prints and lithographs, being impressions produced in limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9702",
+     "description": "Original engravings, prints and lithographs"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Original sculptures and statuary, in any material, provided that they are executed entirely by the artist; sculpture casts the production of which is limited to eight copies and supervised by the artist or his successors in title",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9703",
+     "description": "Original sculpture and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, paleontological, ethnographic or numismatic interest",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9705",
+     "description": "Collections and collectors’ pieces of archaeological, ethnographic, historical, zoological, botanical, mineralogical, anatomical, paleontological or numismatic interest"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Goods, other than works of art or collectors' items, which are more than 100 years old",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9706",
+     "description": "Antiques of an age exceeding 100 years"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "comment": "District heating",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "35.30.12",
+     "description": "Steam and hot water supply services through mains"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "BICYCLES_RENTAL",
+   "category_description": "Rental and repair of bicycles",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "77.21.10",
+     "description": "Rental and leasing services of recreational and sports goods"
+    },
+    {
+     "kind": "CPA",
+     "code": "95.29.12",
+     "description": "Repair services of bicycles"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WINDOW_CLEANING",
+   "category_description": "Window cleaning and cleaning in private households",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "81.21.10",
+     "description": "General cleaning services of buildings"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSEHOLD",
+   "category_description": "Household appliances",
+   "comment": "Repairing services",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.22.10",
+     "description": "Repair services of household appliances and home and garden equipment"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "comment": "Repairing services",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.23.10",
+     "description": "Repair services of footwear and leather goods"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CLOTHING_REPAIR",
+   "category_description": "Minor repairs of clothing and household linen (including mending and alteration)",
+   "comment": "Repairing services (including mending and alteration)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.29.11",
+     "description": "Repair and alteration services of garment and household textile articles"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.02.11",
+     "description": "Hairdressing services for women and girls"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.12",
+     "description": "Hairdressing and barbers' services for men and boys"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Individual pieces of ceramics executed entirely by the artist and signed by him",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Enamels on copper, executed entirely by hand, limited to eight numbered copies bearing the signature of the artist or the studio, excluding articles of jewellery and goldsmiths' and silversmiths' wares",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "Photographs taken by the artist, printed by him or under his supervision, signed and numbered and limited to 30 copies, all sizes and mounts included, provided that they denote the intention on the part of their author to produce a work that has exclusively an artistic function (in particular, identity photographs, portrait photographs and photographs taken on the occasion of family celebrations or other events are excluded)",
+   "codes": []
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "14.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOSSIL_FUEL",
+   "category_description": "Until 1 January 2030: Fossil fuels",
+   "comment": "Parking rate\r\nSolid mineral fuels; mineral oils; wood other than for use as firewood",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2701",
+     "description": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal"
+    },
+    {
+     "kind": "CN",
+     "code": "2702",
+     "description": "Lignite, whether or not agglomerated, excluding jet"
+    },
+    {
+     "kind": "CN",
+     "code": "2704 00 10",
+     "description": "Coke and semi-coke of coal"
+    },
+    {
+     "kind": "CN",
+     "code": "2704 00 30",
+     "description": "Coke and semi-coke of lignite"
+    },
+    {
+     "kind": "CN",
+     "code": "2708 20 00",
+     "description": "Pitch coke"
+    },
+    {
+     "kind": "CN",
+     "code": "2710 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2710 20",
+     "description": "Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, containing biodiesel, other than waste oils"
+    },
+    {
+     "kind": "CN",
+     "code": "2713 11 00",
+     "description": "Not calcined"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Agricultural salt, salt lick",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2501 00 99",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Supply of goods and services of a kind normally intended for use in agricultural production:\r\n- Draft horses\r\n- Ova of animals used in agricultural production\r\n- Rhubarb rhizomes; Asparagus crowns; Chicory plants and roots other than roots of heading 1212",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0101 21 00",
+     "description": "Pure-bred breeding animals"
+    },
+    {
+     "kind": "CN",
+     "code": "0101 29 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 99 85",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0601",
+     "description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 1212"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "comment": "Draft horses",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0101 21 00",
+     "description": "Pure-bred breeding animals"
+    },
+    {
+     "kind": "CN",
+     "code": "0101 29 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "comment": "Live mules and hinnies",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0101 90 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Plants and part of plants, seeds and grains, used for preparing infusions or teas",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1211",
+     "description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered"
+    },
+    {
+     "kind": "CN",
+     "code": "3003",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3004",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3005",
+     "description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 10",
+     "description": "Sterile surgical catgut, similar sterile suture materials (including sterile absorbable surgical or dental yarns) and sterile tissue adhesives for surgical wound closure; sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental haemostatics; sterile surgical or dental adhesion barriers, whether or not absorbable"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 20 00",
+     "description": "Blood-grouping reagents"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 30 00",
+     "description": "Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 40 00",
+     "description": "Dental cements and other dental fillings; bone reconstruction cements"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 50 00",
+     "description": "First-aid boxes and kits"
+    },
+    {
+     "kind": "CN",
+     "code": "6115 10",
+     "description": "Graduated compression hosiery (for example, stockings for varicose veins)"
+    },
+    {
+     "kind": "CN",
+     "code": "8713",
+     "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 30 00",
+     "description": "Contact lenses"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 41",
+     "description": "Single focal"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 49",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 41",
+     "description": "Single focal"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 49",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9003 11 00",
+     "description": "Of plastics"
+    },
+    {
+     "kind": "CN",
+     "code": "9003 19 00",
+     "description": "Of other materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9004 10 10",
+     "description": "With lenses optically worked"
+    },
+    {
+     "kind": "CN",
+     "code": "9004 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9021",
+     "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability"
+    },
+    {
+     "kind": "CN",
+     "code": "3822 13 00",
+     "description": "For blood-grouping"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CHEMICAL_FERTILISERS",
+   "category_description": "Until 1 January 2032: Chemical fertilisers",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3101 00 00",
+     "description": "Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products"
+    },
+    {
+     "kind": "CN",
+     "code": "3102",
+     "description": "Mineral or chemical fertilisers, nitrogenous"
+    },
+    {
+     "kind": "CN",
+     "code": "3103",
+     "description": "Mineral or chemical fertilisers, phosphatic"
+    },
+    {
+     "kind": "CN",
+     "code": "3104",
+     "description": "Mineral or chemical fertilisers, potassic"
+    },
+    {
+     "kind": "CN",
+     "code": "3105",
+     "description": "Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Products used for sanitary protection: sanitary towels (pads), tampons, panty liners, period panties, menstrual cups, menstrual sponges and similar feminine hygiene products; Sheath contraceptives",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0511 99 31",
+     "description": "Raw"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 99 39",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 10 00",
+     "description": "Sheath contraceptives"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 30",
+     "description": "Of wadding of textile materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 40",
+     "description": "Sanitary towels (pads), tampons and similar articles"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 71",
+     "description": "Sanitary towels (pads)"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Sheath contraceptives",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4014 10 00",
+     "description": "Sheath contraceptives"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Children clothing, if clearly intended for children of a max. age of thirteen; - Children footwear; for boys up to and included size 40; for girls up to and included size 35.5 (35 if half sizes not available) for pumps, and up to and included size 38.5 (38 if half sizes not available) for any other shoe type unless heel hight, sole hight included, exceeds 4 cm",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "61",
+     "description": "CHAPTER 61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED"
+    },
+    {
+     "kind": "CN",
+     "code": "62",
+     "description": "CHAPTER 62 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED"
+    },
+    {
+     "kind": "CN",
+     "code": "64",
+     "description": "CHAPTER 64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES"
+    },
+    {
+     "kind": "CN",
+     "code": "65",
+     "description": "CHAPTER 65 - HEADGEAR AND PARTS THEREOF"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Live Fish, for human and animal consumption or  normally intended for use in the preparation of foodstuffs",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0301 91",
+     "description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)"
+    },
+    {
+     "kind": "CN",
+     "code": "0301 92",
+     "description": "Eels (Anguilla spp.)"
+    },
+    {
+     "kind": "CN",
+     "code": "0301 93 00",
+     "description": "Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CHILD_WEAR",
+   "category_description": "Clothing, headgear, scarves, gloves and shoes for children under 14 years of age",
+   "comment": "- Children clothing, if clearly intended for children of a max. age of thirteen \r\n- Children footwear; for boys up to and included size 40; for girls up to and included size 35.5 (35 if half sizes not available) for pumps, and up to and included size 38.5 (38 if half sizes not available) for any other shoe type unless heel hight, sole hight included, exceeds 4 cm",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "61",
+     "description": "CHAPTER 61 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED"
+    },
+    {
+     "kind": "CN",
+     "code": "62",
+     "description": "CHAPTER 62 - ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED"
+    },
+    {
+     "kind": "CN",
+     "code": "64",
+     "description": "CHAPTER 64 - FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES"
+    },
+    {
+     "kind": "CN",
+     "code": "65",
+     "description": "CHAPTER 65 - HEADGEAR AND PARTS THEREOF"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "- Proprietary medicinal products, ready-made medicinal products and medicinal products, as defined in Article 1 of the law of 11 April 1983 regulating the publicity and marketing of pharmaceutical products\r\n- Veterinary medical products as defined in Article 1 of the law of 18 December 1985 concerning veterinary medical products \r\n- Pharmaceutical preparations\r\n- Products used for contraception, other than those classifiable in 4014 10 00.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "21.20.1",
+     "description": "Medicaments"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Sewage disposal and treatment and emptying of septic tanks and industrial tanks",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "37.00.1",
+     "description": "Sewerage services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WASTE_TREATMENT",
+   "category_description": "Sewage disposal and treatment and emptying of septic tanks and industrial tanks",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "37.00.1",
+     "description": "Sewerage services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Refuse collection and waste treatment",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "38.11.11",
+     "description": "Collection services of non-hazardous recyclable waste, municipal"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.19",
+     "description": "Collection services of non-hazardous recyclable waste n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.21",
+     "description": "Collection services of non-hazardous non-recyclable waste, municipal"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.29",
+     "description": "Collection services of non-hazardous non-recyclable waste n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WASTE_TREATMENT_REFUSAL",
+   "category_description": "Refuse collection and waste treatment",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "38.11.11",
+     "description": "Collection services of non-hazardous recyclable waste, municipal"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.19",
+     "description": "Collection services of non-hazardous recyclable waste n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.21",
+     "description": "Collection services of non-hazardous non-recyclable waste, municipal"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.29",
+     "description": "Collection services of non-hazardous non-recyclable waste n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "comment": "Semen (other than 0511 10 00) and ova of animals used in agricultural production",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0511 99 85",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "comment": "Rhubarb rhizomes; Asparagus crowns",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0601 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0601 20 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SOLAR_PANELS",
+   "category_description": "Supply and installation of solar panels on and adjacent to private dwellings, housing and public and other buildings used for activities in the public interest",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "43.21.10",
+     "description": "Electrical installation works"
+    },
+    {
+     "kind": "CPA",
+     "code": "43.22.12",
+     "description": "Heating, ventilation and air conditioning installation works"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Point of departure and point of arrival and transport within the national territory",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.1",
+     "description": "Passenger rail transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.31",
+     "description": "Scheduled passenger transport services by road"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.32.11",
+     "description": "Taxi services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.1",
+     "description": "Interurban and special-purpose scheduled passenger land transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.12",
+     "description": "Interurban special-purpose scheduled road transport services of passengers"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.2",
+     "description": "Passenger transport services by funiculars, teleferics and ski-lifts"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.33",
+     "description": "Non-scheduled local bus and coach charter services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.34",
+     "description": "Non-scheduled long distance bus and coach charter services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55.10",
+     "description": "Hotel and similar accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20",
+     "description": "Holiday and other short-stay accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.30",
+     "description": "Camping grounds and recreational vehicle parks services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOLIDAY_ACCOMMODATION",
+   "category_description": "Transient accommodation of persons and the letting of holiday camps or camping sites",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55.10",
+     "description": "Hotel and similar accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20",
+     "description": "Holiday and other short-stay accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.30",
+     "description": "Camping grounds and recreational vehicle parks services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "comment": "Restaurant and catering services, excluding services involving alcoholic beverages",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56.1",
+     "description": "Restaurant and mobile food serving services"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.2",
+     "description": "Event catering, contract catering services and other food serving services"
+    }
+   ]
+  },
+  {
+   "member_state": "LU",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOOD_SERVICE",
+   "category_description": "Restaurant and catering services, excluding services involving alcoholic beverages",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56.1",
+     "description": "Restaurant and mobile food serving services"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.2",
+     "description": "Event catering, contract catering services and other food serving services"
+    }
+   ]
+  }
+ ]
+}

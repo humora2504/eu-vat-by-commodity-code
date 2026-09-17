@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "55.30.11",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping ground services",
+   "comment": "Royal Decree N° 20, Table B, category IV",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BG",
+   "country": "Bulgaria",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping ground services",
+   "comment": "The supply of accommodation services provided in hotels and similar establishments, including the provision of holiday accommodation and the rental of places for camping or caravans, with a place of supply in the territory of the country.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HU",
+   "country": "Hungary",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping ground services",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PT",
+   "country": "Portugal",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping ground services",
+   "comment": "The reduced rate applies only to accommodation including breakfast, if not separately invoiced, being equivalent to half of the full board price, or ¾ of the half board price.",
+   "situation_on": "2026-01-01"
+  }
+ ]
+}

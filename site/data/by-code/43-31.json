@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "43.31",
+ "entries": [
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "code_kind": "CPA",
+   "code_description": "Plastering works",
+   "comment": "Tabel I prov. b.8: Painting and plastering of private dwellings (i.m. intended for permanent residence by individuals) more than two years after first use. \r\n\r\nPainting: processing and application of paint or painting system (whole of activities associated with the pre-treatment of a specific surface and subsequent finishing of that surface with specific paint products.)\r\n\r\nPlastering: preparation and pre-treatment work a plasterer performs before proceeding to actual plastering;  plastering.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

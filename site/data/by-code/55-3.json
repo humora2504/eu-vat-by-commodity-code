@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "55.3",
+ "entries": [
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping grounds and recreational vehicle parks services",
+   "comment": "In this category, also the short-term accommodation (airbnb type) is included, only in the case where the lessor is (a) a legal entity or (b) natural person, who shall supply at least 3 immovable properties (e.g. house, flat, rooms in a flat etc) in order to be included. In ALL other cases of short-term accommodation (i.e. NATURAL persons that supply 1 or 2 immovable properties) this service is VAT exempted.",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping grounds and recreational vehicle parks services",
+   "comment": "The reduced rate is limited to accommodation required to be licensed in virtue of the Malta Travel and Tourism Services Act (or any Act substituted therefor).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping grounds and recreational vehicle parks services",
+   "comment": "Tabel I prov. b.10: providing the opportunity to camp within the context of a camping and holiday business to persons who only stay there for a short period. The term \"camp and holiday business\" should be interpreted according to parlance. It is not required that the lessor provides the additional services that camping sites normally provide. 'providing the opportunity to camp' must also be interpreted according to parlance.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "code_kind": "CPA",
+   "code_description": "Camping grounds and recreational vehicle parks services",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1302 12 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Of liquorice",
+   "comment": "Royal Decree N° 20, Table A, cat. X, excluded beers with an actual alcoholic strength by volume &gt; 0.5% vol. and other drinks with an actual alcoholic strength by volume &gt; 1.2% vol. \r\nThe reduced rate only applies for: \r\n- certain products not classified as beverages within the meaning of the exc. in 1302 1100 up to and including 1302 1970 \r\n- pectic substances for the manufacture of jams and jellies in 1302 2010 15, 1302 2010 69, 1302 2010 79, 1302 2090 20, 1302 2090 69, 1302 2090 99",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Of liquorice",
+   "comment": "Excluding live animals and tap water. As a main rule, regarding groups 07, 10, 12 and 15, products used for sowing are excluded. Regarding group 15 products used for industrial uses other than the manufacture of foodstuffs for human or animal consumption are excluded.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

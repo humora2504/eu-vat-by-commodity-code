@@ -1,0 +1,102 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "86",
+ "entries": [
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Human health services",
+   "comment": null,
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "code_kind": "CPA",
+   "code_description": "Human health services",
+   "comment": null,
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "code_kind": "CPA",
+   "code_description": "Human health services",
+   "comment": "Medical care, in so far as those transactions are not exempt.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Human health services",
+   "comment": "The services referred to in Nos 18), 19), 20), 21) and 27-ter) of Article 10, paragraph 1, rendered in favour of the persons indicated in No 27-ter) by social cooperatives and their consortia; [health services, hospitalization and care services, educational services for children and youth and instruction, services of children's homes, orphanages, kindergartens, retirement homes for the elderly and the like; social and health services, home or outpatient care, community and similar services].",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LV",
+   "country": "Latvia",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "code_kind": "CPA",
+   "code_description": "Human health services",
+   "comment": "Certain medical and dental services.\n(Section 52, Paragraph 1, Clauses 3, 4, 5, and 7 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "code_kind": "CPA",
+   "code_description": "Human health services",
+   "comment": "Exemption is limited to the provision of medical care by persons in the exercise of any profession regulated by the Health Care Professions Act, the Psychology Profession Act, the Counselling Profession Act, the Psychotherapy Profession Act (or any Acts which may substitute them), the provision of care or medical/surgical treatment in a government hospital/institution approved by the Minister.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "code_kind": "CPA",
+   "code_description": "Human health services",
+   "comment": "With effect from 01/01/2025 medical care provided by counsellors and psychotherapists are exempt (without credit). The same exemption has been extended to the supply of services by dental technicians in their professional capacity and to the supply of dental prostheses by dentists and dental technicians.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

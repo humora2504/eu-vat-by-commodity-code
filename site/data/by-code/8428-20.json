@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8428 20",
+ "entries": [
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Pneumatic elevators and conveyors",
+   "comment": "This reduced rate applies to the following items (and CN codes) for the exclusive use of the disabled (part 2):\r\n- hoists (8425 11 90 and 8425 19 91);\r\n- platform lift/swimming pool lifters (8428 10 91 and 8428 20 99);\r\n- chairlifts (8428 60 00);\r\n- bath tub lifters (8428 90 98);\r\n- lifts to get wheelchair into a car (8428 90 98);\r\n- braille typewriters (8469 12 00, 8469 20 00 and 8469 30 00);",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

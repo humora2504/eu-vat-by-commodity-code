@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9018 90",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other instruments and appliances",
+   "comment": "Pulmonary ventilators for intensive and sub-intensive care; multi-parameter monitor also for transport; infusion pumps for drugs and peristaltic pumps for enteral feeding; endotracheal tubes; helmets for continuous positive pressure ventilation; non-invasive ventilation masks; suction systems; humidifiers; laryngoscopes; vascular access instrumentation; electric vacuum cleaner; monitoring center for intensive care; portable ultrasound scan; electrocardiograph; computerized tomograph.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Other instruments and appliances",
+   "comment": "Instrumentation for in vitro diagnostics for COVID-19: 1.1) COVID-19 diagnostic and reactive kits based on immunologic reactions; 1.2) Kit for COVID-19 diagnosis consisting of: vial containing a culture medium for the maintenance of a viral sample and a swab with a cotton tip to collect the sample; 1.3) Instrumentation for sampling. \r\nThe CN code 3822 19 00 10 is also included.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other instruments and appliances",
+   "comment": "Tabel I prov. a.36 and b.1: aids that are usually used for the subcutaneous administration of insulin, with the exception of syringes and needles that are apparently also suitable for other purposes; aids that are usually used for the self-diagnosis of blood sugar levels. \r\n\r\nOnly included are the mentioned devices specifically developed for diabetics and offered as such. Generally applicable aids such as individual injection needles and syringes are excluded.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other instruments and appliances",
+   "comment": "Tabel I prov. a.37 and b.1: measuring equipment and accessories for self-diagnosis of the coagulation time of blood; drug nebulizers; catheters; urine bags; allergen-free covers; anti-decubitus mattresses; portable infusion pumps; oxygen concentrates and accessories, and carrying straps or bags specially designed for personal mobile use for an oxygen cylinder or oxygen container; computer mouse software, whether or not supplied by electronic means, specially developed for users with tremor.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

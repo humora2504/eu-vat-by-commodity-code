@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "68.20.11",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "code_kind": "CPA",
+   "code_description": "Rental and operating services of own or leased residential real estate",
+   "comment": "Leases of residential buildings by their construction companies or by the companies that have carried out the recovery projects for the building heritage, referred to in Article 3, paragraph 1, letters c), d) and f), of the Consolidated Building Act referred to in Presidential Decree No 380 of 6 June 2001, and leases of residential buildings intended for social housing as defined by the Decree of the Minister of Infrastructure of 22 April 2008",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

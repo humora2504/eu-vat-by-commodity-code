@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "97",
+ "entries": [
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "ZOOLOGICAL",
+   "category_description": "Importation of collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, paleontological, ethnographic or numismatic interest (CN code 9705 00 00)",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 97 - WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES",
+   "comment": null,
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "100_YEARS_OLD",
+   "category_description": "Goods, other than works of art or collector’s items, which are more than 100 years old (CN code 9706 00 00)",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 97 - WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES",
+   "comment": "only the importation of archeological goods under tariff code 9706 00 00 - is liable at the reduced vat rate 5%",
+   "situation_on": "2026-01-01"
+  }
+ ]
+}

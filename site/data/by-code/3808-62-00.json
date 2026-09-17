@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3808 62 00",
+ "entries": [
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "In packings of a net weight content exceeding 300 g but not exceeding 7,5 kg",
+   "comment": "The reduced VAT rate shall be applied for the supply of chemical fertilizers and chemical pesticides used in agriculture, corresponding to the CN codes mentioned below. For details see art. 291 para. (2) letter f) of the Fiscal Code and art. 1 para. (2) of the Order no. 4634/2022. The provisions shall apply until 31st of December 2031.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

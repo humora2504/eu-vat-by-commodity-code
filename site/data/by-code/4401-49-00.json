@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "4401 49 00",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "WOOD",
+   "category_description": "Until 1 January 2030: Wood used as firewood",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Firewood in logs, stumps, twigs or faggots; wood waste, including sawdust but excluding pellets (CN code 4401 31 00).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "category_id": "FUEL_MINERAL_OIL",
+   "category_description": "Solid mineral fuels; mineral oils and wood for use as fuel",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Wood other than used as firewood",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "WOOD_ARTICLE98",
+   "category_description": "Wood used as firewood (until 1 January 2030)",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "The supply for the use as heating fuel of sawdust, waste and non-agglomerated wood scraps, carried out to final beneficiaries, on the basis of a statement of liability made available to the supplier. See art. 291 para. (2) letters i), j) of the Fiscal Code.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

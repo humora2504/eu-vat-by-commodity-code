@@ -1,0 +1,43 @@
+name: rebuild
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull from the Commission's database
+        run: python3 scripts/fetch.py
+
+      - name: Build JSON and pages
+        run: python3 scripts/build.py
+
+      - name: Diff against the last build
+        run: python3 scripts/changefeed.py
+
+      - name: Check the numbers before publishing them
+        run: python3 scripts/test.py
+
+      - name: Commit only if something actually changed
+        run: |
+          git config user.name "rebuild"
+          git config user.email "noreply@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing changed today"
+          else
+            CHANGES=$(python3 -c "import json;d=json.load(open('site/data/changes.json'));print(d.get('change_count',0))")
+            git commit -m "data: rebuild, ${CHANGES} change(s)"
+            git push
+          fi

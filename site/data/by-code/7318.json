@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "7318",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, N° 2 - part of orthopedic appliances etc. (part 2)\r\nThe reduced rate only applies for:\r\n- screws, washers or the like for the treatment of fractures in the bone in 7318 1410 90, 7318 1535 90, 7318 1552 90, 7318 1562 90, 7318 1575 90, 7318 1595 90, 7318 1631 90, 7318 1900 90, 7318 2100 91-95-98, 7318 2200 91-95-98, 7318 2900 90, 8108 9090 99",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8506",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Primary cells and primary batteries",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, N° 2 - dentures, artificial teeth, eyes,  limbs and the like, hearing aids and other aids for remedying or alleviating defects or ailments, which are held by the patient or are otherwise worn or implanted (1)\r\nThe reduced rate only applies for:\r\n- batteries whose packaging clearly indicates that they are offered for sale for a specific use in hearing aids in 8506 10, 8506 30, 8506 40, 8506 5010, 8506 5090 10, 8506 5090 30, 8506 5090 90, 8506 60, 8506 80",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Primary cells and primary batteries",
+   "comment": "Applies to medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled people, prescribed by an act of general application on orthopaedic and other aids.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

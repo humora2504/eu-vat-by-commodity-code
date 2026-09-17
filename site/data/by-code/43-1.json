@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "43.1",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "EXEMPTION_SUPERREDUCED",
+   "category_description": "Exemptions and super-reduced rates (Article 105a(1) of the VAT Directive)",
+   "code_kind": "CPA",
+   "code_description": "Demolition and site preparation works",
+   "comment": "Provision of services on procurement contracts relating to the construction of buildings referred to in Article 13 of Law N 408/1949, and subsequent amendments, rendered to persons carrying out the construction of buildings for their subsequent sale, including building cooperatives and their consortia, even if under undivided ownership, or persons for which the conditions referred to in No 21) are met, as well as the construction of rural buildings referred to in No 21-bis)  “first home”",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "code_kind": "CPA",
+   "code_description": "Demolition and site preparation works",
+   "comment": "Services dependent on procurement contracts relating to the construction of non-luxury homes other than \"first homes\" and of buildings mainly for residential use and the implementation of the recovery projects referred to in Article 31 of Law No 457 of 5 August 1978, excluding those referred to in letters a) and b) of paragraph 1 of that Article",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

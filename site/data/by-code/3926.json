@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3926",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other articles of plastics and articles of other materials of headings 3901 to 3914",
+   "comment": "This rate applies only to parts and accessories for the adaptation of cars and other motor vehicles for the disabled: engine handling adjustments; adj. for handling the handbrake; adj. for handling the steering mechanism; specially designed car seats and cushions; adaptation for use of secondary functions, including adj. mirrors, central lockings, windscreen wipers, indicators and lights; car lifts for lifting a person into a car; wheelchair lifting equipment and securing devices.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other articles of plastics and articles of other materials of headings 3901 to 3914",
+   "comment": "For tariff headings of goods intended to service people with vision disabilities the reduced rate applies only on white sticks (6602) Braille typewriters  (8472), on computer programs (jaws, supernova, hall, loudspeaker, fine reader, cellphone programs in Greek and foreign version-mobile speak, speaking phone) (8523), on  Braille printers (8443)  writing frames for people with reduced abilities vision (Braille) (3926)",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Other articles of plastics and articles of other materials of headings 3901 to 3914",
+   "comment": "For tariff headings 3926, 4015, 4818, 6307, reduced rate applies only on protective masks and gloves for medicine (for protection against viruses and prevention of disease transmission for hospital and private use)",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other articles of plastics and articles of other materials of headings 3901 to 3914",
+   "comment": "•For tariff headings of goods intended for the service of persons with disabilities needs, the reduced rate applies only on filter bags for liquid filtration collection (3926),Y connectors, venipuncture kit during dialysis (9018), bicarbonate cartridges (2836), titanium binder (9018, 8108)",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other articles of plastics and articles of other materials of headings 3901 to 3914",
+   "comment": "•For tariff headings of goods intended for the service of persons with disabilities needs,the reduced rate applies only on connection and drainage line, drainage bags (3926), coupling cartridges, clamp (claws) (9018), peritoneal suitcase SMART PD CASE (9018, 4202), consumables for colostomies (3006)",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "13.0",
+   "category_id": "AGRICULTURAL_EQUIPMENT",
+   "category_description": "Certain agricultural tools and equipment",
+   "code_kind": "CN",
+   "code_description": "Other articles of plastics and articles of other materials of headings 3901 to 3914",
+   "comment": "Reduced rate applies only on water storage tanks that can be used to store water for irrigation or drainage or firefighting or fish farming of tariff headings 3925, 3926, 6810, 6811, 7309, 7310, 7611, 7612",
+   "situation_on": "2025-01-01"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3401 30 00",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
+   "comment": "This reduced rate applies only to ostomy care products  (part 2): Additional products for ostomy care: — pastes, powders, protective creams; 3304 — protection of the area around the ostomy (ostomy ring with skin protective fluids) and glue residue remover  for the skin (skin cleansing pads, skin cleansing solution as an aerosol); 3401 11 00, 3401 30 00, 3402 20 90, 3005 90 99, 9018 90 84 —ostomy odor neutralizing agents; 3307 90 00.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
+   "comment": "This reduced rate applies only to chronic ulcers and pressure sores (part 1):\r\n— gels, hydrocolloidal gels, hydrocolloidal pastes, rinsing solutions for chronic ulcers containing undecylenamidepropylbetanine; 3003 90 00, 3004 90 00, 3005 90 99, 3401 30 00, 3808 94 90\r\n— Hydrogel wound pads; 3005 90 99\r\n— wound poultices, with salt crystals; 3005 90 50\r\n— alginate dressings, calcium alginate dressings; 3005 90 50, 3005 90 99 \r\n— Hydrofibre wound dressings; 3005 90 50",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap",
+   "comment": "Articles of protective clothing for health purposes such as latex, vinyl and nitrile gloves, protective goggles and visors, protective suits, footwear and overshoes, caps, waterproof gowns, surgical gowns; thermometers; disinfectant hand cleaners; wall dispenser for disinfectants; hydroalcoholic solution in liters; 3 percent peroxide in liters; emergency trolleys; RNA extractors;",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

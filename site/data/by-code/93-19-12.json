@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "93.19.12",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "code_kind": "CPA",
+   "code_description": "Services of athletes",
+   "comment": "Performing artists exempted if their services are rendered directly to the organisors according to article 44, §2, 8° of the Belgian VAT Code. The exemption only applies to:\r\n- artists (actors, conductors, musicians and other artists for the performance of theatrical, choreographic, cinematographic or musical works or those of circus shows,music halls or artistic cabaret)\r\n- speakers in meeting on educational topics for the participants\r\n- sport professionals.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "code_kind": "CPA",
+   "code_description": "Services of athletes",
+   "comment": "Including services by athletes. Supply of services by performing artists, and royalties due to them from are taxed with the reduced rate the beginning of April 2019.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

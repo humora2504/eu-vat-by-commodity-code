@@ -1,0 +1,33 @@
+:root{--bg:#fff;--ink:#16191d;--ink-2:#5a6472;--line:#e3e7ec;--accent:#1d4ed8;--code:#f6f8fa}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--ink:#e6edf3;--ink-2:#9198a1;--line:#242a31;--accent:#6ea8ff;--code:#161b22}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-text-size-adjust:100%}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line)}
+header .wrap{display:flex;justify-content:space-between;align-items:center;height:56px;gap:16px;flex-wrap:wrap}
+.logo{font-weight:640;color:var(--ink);text-decoration:none;font-size:15px}
+nav a{color:var(--ink-2);text-decoration:none;margin-left:16px;font-size:14px}
+nav a:hover{color:var(--ink)}
+a{color:var(--accent)}
+h1{font-size:clamp(22px,4vw,31px);line-height:1.2;letter-spacing:-.02em;margin:28px 0 12px;font-weight:640}
+h2{font-size:19px;margin:32px 0 10px;font-weight:640}
+.lede{font-size:17px;color:var(--ink-2);margin:0 0 22px}
+table{width:100%;border-collapse:collapse;margin:18px 0;font-size:15px;display:block;overflow-x:auto}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-size:13px;color:var(--ink-2);font-weight:620}
+td:last-child,th:last-child{white-space:normal}
+dl{margin:14px 0}dt{font-weight:620;margin-top:12px;font-size:14px}
+dd{margin:2px 0 0;color:var(--ink-2);font-size:14.5px}
+pre,code{background:var(--code);border:1px solid var(--line);border-radius:6px}
+code{padding:1px 5px;font-size:13.5px}
+pre{padding:12px 14px;overflow-x:auto;font-size:13.5px;line-height:1.55}
+pre code{background:none;border:0;padding:0}
+footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 40px;color:var(--ink-2);font-size:13.5px}
+.small{font-size:12.5px}
+ul.plain{list-style:none;padding:0}
+ul.plain li{padding:7px 0;border-bottom:1px solid var(--line)}
+.grid{display:grid;gap:10px;margin:18px 0}
+@media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
+.card{border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.card h3{margin:0 0 6px;font-size:15px}
+.card p{margin:0;font-size:14px;color:var(--ink-2)}

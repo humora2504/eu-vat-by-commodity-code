@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "90.04",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Institutions who are recognised by the government and whose revenues are only used to cover their operational costs according to article 44, § 2, 7° and 9° of the Belgian VAT Code\r\n\r\nThe exemption only applies to 90.02.11, 90.04, 91.02.10, 91.03.10, 91.04.11 in that context.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Admission to and use of cultural and entertainment facilities according to Royal Decree N° 20, Table A, category XXVIII with the exception of the \r\n- right to use automatic entertainment devices\r\n- putting at disposal of movable goods.\r\n\r\nIf the VAT exemption does not apply and provided that the services are covered by said category XXVIII, the reduced rate applies to 90.04, 91.02.10, 91.03.10, 91.04.11, 93.2",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Including entrance fees for rides in amusement parks. Usually exempted or out of the scope of VAT if organized by non-profit making organizations or public bodies.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Theatrical performances of any kind, including operas, ballet, prose, operetta, musical comedy, magazine; vocal and instrumental concerts; circus and traveling show activities, puppet shows, marionettes and masks, including masked and costumed parades, held everywhere;",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Tabel I prov. b.14 to b.15: granting (physical) access to circusses; zoos; public museums or collections (including closely related supplies of goods, such as catalogs, photographs); music and stage performances, including lectures (excluding peep shows/other performances primarily aimed at erotic entertainment); cinemas; amusement parks, playgrounds and gardens, other facilities primarily and permanently furnished to entertainment and day recreation.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

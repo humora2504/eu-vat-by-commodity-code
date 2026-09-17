@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "57",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 57 - CARPETS AND OTHER TEXTILE FLOOR COVERINGS",
+   "comment": "RD N° 20, Table A, category XXI; For CN codes 9701 90 00, 9706 00 00 and 4911 91 00: excl. utensils and for CN code (9706 00 00): excl. articles composed of dried or preserved plants, animals or parts thereof, presented in such a way (e.g. in blocks of plastic, behind glass or between two sheets of glass stuck together) that because of their decorative appearance they are intended to decorate houses -stuffed animals and parts of stuffed animals made in large quantities from the same species",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

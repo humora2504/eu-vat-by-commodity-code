@@ -1,0 +1,2102 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "FR",
+ "country": "France",
+ "rates": [
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Foodstuffs for animal consumption (article 278-0 bis A. 1°-00 bis of the general tax code). Excepted foodstuffs intended for pet food (2309 10)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0505",
+     "description": "Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers"
+    },
+    {
+     "kind": "CN",
+     "code": "0506 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0507",
+     "description": "Ivory, tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products"
+    },
+    {
+     "kind": "CN",
+     "code": "0511",
+     "description": "Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "0714",
+     "description": "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith"
+    },
+    {
+     "kind": "CN",
+     "code": "1006",
+     "description": "Rice"
+    },
+    {
+     "kind": "CN",
+     "code": "1211 50 00",
+     "description": "Ephedra"
+    },
+    {
+     "kind": "CN",
+     "code": "1211 90 86",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1212 21 00",
+     "description": "Fit for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "1212 29 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "15",
+     "description": "CHAPTER 15 - ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES"
+    },
+    {
+     "kind": "CN",
+     "code": "1703",
+     "description": "Molasses resulting from the extraction or refining of sugar"
+    },
+    {
+     "kind": "CN",
+     "code": "1802 00 00",
+     "description": "Cocoa shells, husks, skins and other cocoa waste"
+    },
+    {
+     "kind": "CN",
+     "code": "1904",
+     "description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked or otherwise prepared, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "2102 20 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2102 20 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "23",
+     "description": "CHAPTER 23 - RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "2501 00 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2509 00 00",
+     "description": "Chalk"
+    },
+    {
+     "kind": "CN",
+     "code": "2510",
+     "description": "Natural calcium phosphates, natural aluminium calcium phosphates and phosphatic chalk"
+    },
+    {
+     "kind": "CN",
+     "code": "2519 90 30",
+     "description": "Dead-burned (sintered) magnesia"
+    },
+    {
+     "kind": "CN",
+     "code": "2801 20 00",
+     "description": "Iodine"
+    },
+    {
+     "kind": "CN",
+     "code": "2817 00 00",
+     "description": "Zinc oxide; zinc peroxide"
+    },
+    {
+     "kind": "CN",
+     "code": "2833 21 00",
+     "description": "Of magnesium"
+    },
+    {
+     "kind": "CN",
+     "code": "2833 25 00",
+     "description": "Of copper"
+    },
+    {
+     "kind": "CN",
+     "code": "2833 29 20",
+     "description": "Of cadmium; of chromium; of zinc"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 24 00",
+     "description": "Of potassium"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 25 00",
+     "description": "Calcium hydrogenorthophosphate (dicalcium phosphate)"
+    },
+    {
+     "kind": "CN",
+     "code": "2903 39 11",
+     "description": "Bromomethane (methyl bromide)"
+    },
+    {
+     "kind": "CN",
+     "code": "2912 41 00",
+     "description": "Vanillin (4-hydroxy-3-methoxybenzaldehyde)"
+    },
+    {
+     "kind": "CN",
+     "code": "2914 71 00",
+     "description": "Chlordecone (ISO)"
+    },
+    {
+     "kind": "CN",
+     "code": "2914 79 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2915 29 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2918 12 00",
+     "description": "Tartaric acid"
+    },
+    {
+     "kind": "CN",
+     "code": "2918 15 00",
+     "description": "Salts and esters of citric acid"
+    },
+    {
+     "kind": "CN",
+     "code": "2922 41 00",
+     "description": "Lysine and its esters; salts thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "2922 50 00",
+     "description": "Amino-alcohol-phenols, amino-acid-phenols and other amino-compounds with oxygen function"
+    },
+    {
+     "kind": "CN",
+     "code": "2923 10 00",
+     "description": "Choline and its salts"
+    },
+    {
+     "kind": "CN",
+     "code": "2923 20 00",
+     "description": "Lecithins and other phosphoaminolipids"
+    },
+    {
+     "kind": "CN",
+     "code": "2930",
+     "description": "Organo-sulphur compounds"
+    },
+    {
+     "kind": "CN",
+     "code": "2936",
+     "description": "Provitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent"
+    },
+    {
+     "kind": "CN",
+     "code": "2942 00 00",
+     "description": "Other organic compounds"
+    },
+    {
+     "kind": "CN",
+     "code": "3501 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3501 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 11 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 19 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 20 91",
+     "description": "Dried (for example, in sheets, scales, flakes, powder)"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 20 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 90 70",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 90 90",
+     "description": "Albuminates and other albumin derivatives"
+    },
+    {
+     "kind": "CN",
+     "code": "3504 00",
+     "description": "Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed"
+    },
+    {
+     "kind": "CN",
+     "code": "3505 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3804 00 00",
+     "description": "Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding tall oil of heading 3803"
+    },
+    {
+     "kind": "CN",
+     "code": "0508 00",
+     "description": "Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Confectionery products, certain composite products containing chocolate or cocoa, margarines and vegetable fats, caviar are taxed at the normal rate (article 278-0 bis A. 1° of the general tax code). Excepted 1604 31 00, 1604 32 00, 1517 10, 1704, 1803, 1805 00 00, 1806 10, 1806 90",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "02",
+     "description": "CHAPTER 2 - MEAT AND EDIBLE MEAT OFFAL"
+    },
+    {
+     "kind": "CN",
+     "code": "03",
+     "description": "CHAPTER 3 - FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES"
+    },
+    {
+     "kind": "CN",
+     "code": "04",
+     "description": "CHAPTER 4 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "0504 00 00",
+     "description": "Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "08",
+     "description": "CHAPTER 8 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+     "kind": "CN",
+     "code": "11",
+     "description": "CHAPTER 11 - PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+    },
+    {
+     "kind": "CN",
+     "code": "1302",
+     "description": "Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products"
+    },
+    {
+     "kind": "CN",
+     "code": "15",
+     "description": "CHAPTER 15 - ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES"
+    },
+    {
+     "kind": "CN",
+     "code": "16",
+     "description": "CHAPTER 16 - PREPARATIONS OF MEAT, OF FISH, OF CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES, OR OF INSECTS"
+    },
+    {
+     "kind": "CN",
+     "code": "17",
+     "description": "CHAPTER 17 - SUGARS AND SUGAR CONFECTIONERY"
+    },
+    {
+     "kind": "CN",
+     "code": "18",
+     "description": "CHAPTER 18 - COCOA AND COCOA PREPARATIONS"
+    },
+    {
+     "kind": "CN",
+     "code": "19",
+     "description": "CHAPTER 19 - PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS' PRODUCTS"
+    },
+    {
+     "kind": "CN",
+     "code": "20",
+     "description": "CHAPTER 20 - PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS"
+    },
+    {
+     "kind": "CN",
+     "code": "21",
+     "description": "CHAPTER 21 - MISCELLANEOUS EDIBLE PREPARATIONS"
+    },
+    {
+     "kind": "CN",
+     "code": "22",
+     "description": "CHAPTER 22 - BEVERAGES, SPIRITS AND VINEGAR"
+    },
+    {
+     "kind": "CN",
+     "code": "2307 00",
+     "description": "Wine lees; argol"
+    },
+    {
+     "kind": "CN",
+     "code": "2501 00 91",
+     "description": "Salt suitable for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "2912 41 00",
+     "description": "Vanillin (4-hydroxy-3-methoxybenzaldehyde)"
+    },
+    {
+     "kind": "CN",
+     "code": "2923 20 00",
+     "description": "Lecithins and other phosphoaminolipids"
+    },
+    {
+     "kind": "CN",
+     "code": "2936",
+     "description": "Provitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent"
+    },
+    {
+     "kind": "CN",
+     "code": "2938 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3204 12 00",
+     "description": "Acid dyes, whether or not premetallised, and preparations based thereon; mordant dyes and preparations based thereon"
+    },
+    {
+     "kind": "CN",
+     "code": "3301 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3501 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3501 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 11 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 19 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 20 91",
+     "description": "Dried (for example, in sheets, scales, flakes, powder)"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 20 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 90 70",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3502 90 90",
+     "description": "Albuminates and other albumin derivatives"
+    },
+    {
+     "kind": "CN",
+     "code": "3503 00 10",
+     "description": "Gelatin and derivatives thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "3504 00",
+     "description": "Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed"
+    },
+    {
+     "kind": "CN",
+     "code": "3505 10 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Comments Products of agricultural, fishery, fish and poultry origin which have not undergone any processing and which are normally intended for use in agricultural production (article 278-0 bis A. 1°-0 bis of the general tax code).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "01",
+     "description": "CHAPTER 1 - LIVE ANIMALS"
+    },
+    {
+     "kind": "CN",
+     "code": "03",
+     "description": "CHAPTER 3 - FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES"
+    },
+    {
+     "kind": "CN",
+     "code": "04",
+     "description": "CHAPTER 4 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "05",
+     "description": "CHAPTER 5 - PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "10",
+     "description": "CHAPTER 10 - CEREALS"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "1301",
+     "description": "Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams)"
+    },
+    {
+     "kind": "CN",
+     "code": "1404 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "17",
+     "description": "CHAPTER 17 - SUGARS AND SUGAR CONFECTIONERY"
+    },
+    {
+     "kind": "CN",
+     "code": "2308 00 40",
+     "description": "Acorns and horse-chestnuts; pomace or marc of fruit, other than grapes"
+    },
+    {
+     "kind": "CN",
+     "code": "4403",
+     "description": "Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared"
+    },
+    {
+     "kind": "CN",
+     "code": "5102",
+     "description": "Fine or coarse animal hair, not carded or combed"
+    },
+    {
+     "kind": "CN",
+     "code": "5305 00 00",
+     "description": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Article 278-0 bis A 2° of the general tax code",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3006 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 10 00",
+     "description": "Sheath contraceptives"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 10 10",
+     "description": "Used"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 20 00",
+     "description": "Of cotton"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 32 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 90 00",
+     "description": "Of other textile materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 31",
+     "description": "Syringes, with or without needles"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 39 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "DOMESTIC_CARE",
+   "category_description": "Domestic care services such as home help and care of the young, elderly, sick or disabled",
+   "comment": "Article 278-0 bis D of the general tax code",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.32.1",
+     "description": "Taxi operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "53.20.12",
+     "description": "Food home delivery services"
+    },
+    {
+     "kind": "CPA",
+     "code": "53.20.19",
+     "description": "Other postal and courier services n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "56.21.1",
+     "description": "Event catering services"
+    },
+    {
+     "kind": "CPA",
+     "code": "74.30.12",
+     "description": "Interpretation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "81.21.10",
+     "description": "General cleaning services of buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "85.59.19",
+     "description": "Education services n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "88.10.1",
+     "description": "Social work services without accommodation for the elderly and disabled"
+    },
+    {
+     "kind": "CPA",
+     "code": "88.91.11",
+     "description": "Child day-care services excluding day-care services for the disabled"
+    },
+    {
+     "kind": "CPA",
+     "code": "88.91.12",
+     "description": "Day-care services for disabled children and young people"
+    },
+    {
+     "kind": "CPA",
+     "code": "88.91.13",
+     "description": "Baby-sitting services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.01.19",
+     "description": "Other textile cleaning services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.13",
+     "description": "Cosmetic treatment, manicuring and pedicuring services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.19",
+     "description": "Other beauty treatment services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.09.11",
+     "description": "Pet care services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.09.19",
+     "description": "Other miscellaneous services n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.5",
+   "situation_on": "2026-07-01",
+   "category_id": "REGION",
+   "category_description": "Special reduced rate for specific regions (including articles 104, 105 and 120 of the VAT Directive)",
+   "comment": "The standard VAT rate in Martinique, Guadeloupe and Réunion is 8.5%. The reduced rate is 2.1%. There is also a zero VAT rate in Martinique, Guadeloupe and La Reunion, particularly for essential goods and air and see transport.",
+   "codes": []
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": "article 278 bis 5° b e of the general tax code. Excepted 2501 00 10 and 2827 39 10",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "02",
+     "description": "CHAPTER 2 - MEAT AND EDIBLE MEAT OFFAL"
+    },
+    {
+     "kind": "CN",
+     "code": "1514 19 10",
+     "description": "For technical or industrial uses other than the manufacture of foodstuffs for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "1514 19 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1516 20 95",
+     "description": "Colza, linseed, rapeseed, sunflower-seed, illipe, karite, makore, touloucouna or babassu oils, for technical or industrial uses other than the manufacture of foodstuffs for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "1518 00",
+     "description": "Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "1521 90 91",
+     "description": "Raw"
+    },
+    {
+     "kind": "CN",
+     "code": "1521 90 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2102 20 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2501 00",
+     "description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water"
+    },
+    {
+     "kind": "CN",
+     "code": "2802 00 00",
+     "description": "Sulphur, sublimed or precipitated; colloidal sulphur"
+    },
+    {
+     "kind": "CN",
+     "code": "2820 10 00",
+     "description": "Manganese dioxide"
+    },
+    {
+     "kind": "CN",
+     "code": "2820 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2821 10 00",
+     "description": "Iron oxides and hydroxides"
+    },
+    {
+     "kind": "CN",
+     "code": "2825 50 00",
+     "description": "Copper oxides and hydroxides"
+    },
+    {
+     "kind": "CN",
+     "code": "2825 90 85",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2827 39",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2827 41 00",
+     "description": "Of copper"
+    },
+    {
+     "kind": "CN",
+     "code": "2827 60 00",
+     "description": "Iodides and iodide oxides"
+    },
+    {
+     "kind": "CN",
+     "code": "2829 90 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2833 25 00",
+     "description": "Of copper"
+    },
+    {
+     "kind": "CN",
+     "code": "2833 29 30",
+     "description": "Of cobalt; of titanium"
+    },
+    {
+     "kind": "CN",
+     "code": "2833 29 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2834 29 20",
+     "description": "Of barium; of beryllium; of cadmium; of cobalt; of nickel; of lead"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 22 00",
+     "description": "Of mono- or disodium"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 26 00",
+     "description": "Other phosphates of calcium"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 29",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 29 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 31 00",
+     "description": "Sodium triphosphate (sodium tripolyphosphate)"
+    },
+    {
+     "kind": "CN",
+     "code": "2835 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2836 30 00",
+     "description": "Sodium hydrogencarbonate (sodium bicarbonate)"
+    },
+    {
+     "kind": "CN",
+     "code": "2836 50 00",
+     "description": "Calcium carbonate"
+    },
+    {
+     "kind": "CN",
+     "code": "2836 99 11",
+     "description": "Of magnesium; of copper"
+    },
+    {
+     "kind": "CN",
+     "code": "2836 99 17",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2841 70 00",
+     "description": "Molybdates"
+    },
+    {
+     "kind": "CN",
+     "code": "2842 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 90 50",
+     "description": "Cultures of micro-organisms"
+    },
+    {
+     "kind": "CN",
+     "code": "3301 12",
+     "description": "Of orange"
+    },
+    {
+     "kind": "CN",
+     "code": "3302 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3504 00 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3804 00 00",
+     "description": "Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding tall oil of heading 3803"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 69 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 91",
+     "description": "Insecticides"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 92",
+     "description": "Fungicides"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 93",
+     "description": "Herbicides, anti-sprouting products and plant-growth regulators"
+    },
+    {
+     "kind": "CN",
+     "code": "3808 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CPA",
+     "code": "01",
+     "description": "Products of agriculture, hunting and related services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "For non reimbursed pharmaceutical products (article 278 quater of the general tax code)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2804 40 00",
+     "description": "Oxygen"
+    },
+    {
+     "kind": "CN",
+     "code": "2811 29 30",
+     "description": "Nitrogen oxides"
+    },
+    {
+     "kind": "CN",
+     "code": "2941",
+     "description": "Antibiotics"
+    },
+    {
+     "kind": "CN",
+     "code": "3001 20 10",
+     "description": "Of human origin"
+    },
+    {
+     "kind": "CN",
+     "code": "3001 90 20",
+     "description": "Of human origin"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 12 00",
+     "description": "Antisera and other blood fractions"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 20",
+     "description": "Vaccines for human medicine"
+    },
+    {
+     "kind": "CN",
+     "code": "3004",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3005",
+     "description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 30 00",
+     "description": "Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 60 00",
+     "description": "Chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 70 00",
+     "description": "Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 92 00",
+     "description": "Waste pharmaceuticals"
+    },
+    {
+     "kind": "CN",
+     "code": "3301 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3306 10 00",
+     "description": "Dentifrices"
+    },
+    {
+     "kind": "CN",
+     "code": "3401 11 00",
+     "description": "For toilet use (including medicated products)"
+    },
+    {
+     "kind": "CN",
+     "code": "3503 00 10",
+     "description": "Gelatin and derivatives thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "3926 90 97",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 10 10",
+     "description": "Used"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 20 00",
+     "description": "Of cotton"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 90 00",
+     "description": "Of other textile materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 50",
+     "description": "Transfusion and infusion apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "9602 00 00",
+     "description": "Worked vegetable or mineral carving material and articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes, and other moulded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 3503) and articles of unhardened gelatin"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Article 278-0 bis A 3° of the general tax code",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3704 00 10",
+     "description": "Plates and film"
+    },
+    {
+     "kind": "CN",
+     "code": "3705 00",
+     "description": "Photographic plates and film, exposed and developed, other than cinematographic film"
+    },
+    {
+     "kind": "CN",
+     "code": "4820 30 00",
+     "description": "Binders (other than book covers), folders and file covers"
+    },
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905 91 00",
+     "description": "In book form"
+    },
+    {
+     "kind": "CN",
+     "code": "4905 99 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4906 00 00",
+     "description": "Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; handwritten texts; photographic reproductions on sensitised paper and carbon copies of the foregoing"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 10 10",
+     "description": "Commercial catalogues"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 91 00",
+     "description": "Pictures, designs and photographs"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 99 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8442 50 00",
+     "description": "Plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished)"
+    },
+    {
+     "kind": "CN",
+     "code": "8523 29 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8523 49 10",
+     "description": "Digital versatile discs (DVD)"
+    },
+    {
+     "kind": "CN",
+     "code": "8523 49 20",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8523 51 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9503 00 70",
+     "description": "Other toys, put up in sets or outfits"
+    },
+    {
+     "kind": "CPA",
+     "code": "46.49.21",
+     "description": "Wholesale trade services of books"
+    },
+    {
+     "kind": "CPA",
+     "code": "46.49.22",
+     "description": "Wholesale trade services of magazines and newspapers"
+    },
+    {
+     "kind": "CPA",
+     "code": "47.00.61",
+     "description": "Retail trade services of books"
+    },
+    {
+     "kind": "CPA",
+     "code": "47.00.62",
+     "description": "Retail trade services of newspapers and magazines"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.1",
+     "description": "Printed books, brochures, leaflets and the like"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.20",
+     "description": "E-books"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.30",
+     "description": "On-line books"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.12.10",
+     "description": "Printed newspapers"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.12.20",
+     "description": "Online newspapers"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.13.10",
+     "description": "Printed newspapers"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.13.20",
+     "description": "Online journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.14.1",
+     "description": "Printed journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.14.20",
+     "description": "On-line journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "59.20.31",
+     "description": "Sheet music"
+    },
+    {
+     "kind": "CPA",
+     "code": "77.29.19",
+     "description": "Rental and leasing services of other personal and household goods n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "91.01.11",
+     "description": "Library services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "For sanitary protection for women (article 278-0 bis A 1° bis of the general tax code), and condoms (article 278-0 bis A, 1° ter of the general tax code)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 10 00",
+     "description": "Sheath contraceptives"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00",
+     "description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "The reduced rate do not apply to supplies of such items to which the profit margin scheme is being applied - Article 278-0 bis I of the general tax code",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4911 91 00",
+     "description": "Pictures, designs and photographs"
+    },
+    {
+     "kind": "CN",
+     "code": "5805 00 00",
+     "description": "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up"
+    },
+    {
+     "kind": "CN",
+     "code": "9701",
+     "description": "Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufactured articles; collages, mosaics and similar decorative plaques"
+    },
+    {
+     "kind": "CN",
+     "code": "9702 00 00",
+     "description": "Original engravings, prints and lithographs"
+    },
+    {
+     "kind": "CN",
+     "code": "9703 00 00",
+     "description": "Original sculptures and statuary, in any material"
+    },
+    {
+     "kind": "CN",
+     "code": "9704 00 00",
+     "description": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907"
+    },
+    {
+     "kind": "CN",
+     "code": "9705 00 00",
+     "description": "Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, palaeontological, ethnographic or numismatic interest"
+    },
+    {
+     "kind": "CN",
+     "code": "9706 00 00",
+     "description": "Antiques of an age exceeding 100 years"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "comment": "Article 279 b 2° of the general tax code",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "36.00.20",
+     "description": "Treatment and distribution services of water through mains"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "The rest of the social housing works (article 279-0 bis A of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.3",
+     "description": "Construction works for residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "43",
+     "description": "Specialised construction works"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "comment": "The rest of the renovation works in more than two years old housings is taxed at 10% (article 279-0 bis of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.3",
+     "description": "Construction works for residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "43",
+     "description": "Specialised construction works"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Article 279 b quater of the general tax code",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.10.1",
+     "description": "Passenger rail transport services, interurban"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.3",
+     "description": "Other passenger land transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "50.10",
+     "description": "Sea and coastal passenger water transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "50.30",
+     "description": "Inland passenger water transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51.10",
+     "description": "Passenger air transport services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "article 279 a of the general tax code",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55",
+     "description": "Accommodation services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "RESTAURANT",
+   "category_description": "Restaurant and catering services, it being possible to exclude the supply of (alcoholic and/or non-alcoholic) beverages",
+   "comment": "Article 279 m of the general tax code (alcoholic beverages excluded)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56.10",
+     "description": "Restaurant and mobile food serving services"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.2",
+     "description": "Event catering, contract catering services and other food serving services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "comment": "Television broadcasting services (article 279 b octies of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "60.20.1",
+     "description": "Television programming and broadcasting services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "Admission to exhibitions, sites and installations of a cultural, recreational, educational or professional nature (article 279 b nonies of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "82.30.1",
+     "description": "Convention and trade show organisation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.04.10",
+     "description": "Arts facility operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.02.10",
+     "description": "Museum operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.03.10",
+     "description": "Operation services of historical sites and buildings and similar visitor attractions"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.04.1",
+     "description": "Botanical and zoological garden services and nature reserve services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.11.10",
+     "description": "Sports facility operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.21.10",
+     "description": "Amusement park and theme park services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.29.1",
+     "description": "Other recreational services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.29.21",
+     "description": "Firework and light and sound shows services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.29.29",
+     "description": "Other entertainment services n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "comment": "Royalties (article 279 g of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "90.01.10",
+     "description": "Services of performing artists"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.03.11",
+     "description": "Services provided by authors, composers, sculptors and other artists, except performing artists"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "SOLAR_PANELS",
+   "category_description": "Supply and installation of solar panels on and adjacent to private dwellings, housing and public and other buildings used for activities in the public interest",
+   "comment": "From 1 October 2025 - Article 278-0 bis, P of the general tax code",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8419 12 00",
+     "description": "Solar water heaters"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "comment": "Subscriptions to deliveries of heat energy distributed by networks, as well as the supply of heat when produced at least 50% from biomass, geothermal, solar thermal energy, waste and recovered energy, and delivery of chilled energy distributed by networks (article 278-0 bis B and B bis of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "35.30.12",
+     "description": "Steam and hot water supply services through mains"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "comment": "Household waste and similar waste collection and treatment services (article 278-0 bis M of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "38.11.11",
+     "description": "Collection services of non-hazardous recyclable waste, municipal"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.21",
+     "description": "Collection services of non-hazardous non-recyclable waste, municipal"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.6",
+     "description": "Worn clothing and other worn articles"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.12.13",
+     "description": "Collection services of other hazardous industrial waste"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.21.10",
+     "description": "Non-hazardous waste treatment for final disposal services"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.21.2",
+     "description": "Metal secondary raw materials"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.22.19",
+     "description": "Other hazardous waste treatment services"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.22.29",
+     "description": "Other hazardous waste disposal services"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.32.11",
+     "description": "Sanitary landfilling services of non-hazardous waste"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.32.12",
+     "description": "Other non-hazardous waste landfilling or permanent storage services"
+    },
+    {
+     "kind": "CPA",
+     "code": "81.29.12",
+     "description": "Sweeping and snow removal services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "comment": "Energetic improvement works in more than two years old housings (article 278-0 bis A of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.3",
+     "description": "Construction works for residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "43",
+     "description": "Specialised construction works"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "The building land, the construction and some works for social housing (articles 278 sexies, 278 sexies A and 278 sexies-0 A of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.3",
+     "description": "Construction works for residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "43",
+     "description": "Specialised construction works"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "situation_on": "2026-07-01",
+   "category_id": "REGION",
+   "category_description": "Special reduced rate for specific regions (including articles 104, 105 and 120 of the VAT Directive)",
+   "comment": "For Corsica: rate of 13% on oil products; 10% on construction works, sales on farm machinery, sales on eaten in products, etc.; 2.1% (reduced rate).",
+   "codes": []
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "2.1",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "For reimbursed pharmaceutical products (article 281 octies of the general tax code)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2941",
+     "description": "Antibiotics"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 11 00",
+     "description": "Malaria diagnostic test kits"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 12 00",
+     "description": "Antisera and other blood fractions"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 13 00",
+     "description": "Immunological products, unmixed, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 14 00",
+     "description": "Immunological products, mixed, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 15 00",
+     "description": "Immunological products, put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 19 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 20",
+     "description": "Vaccines for human medicine"
+    },
+    {
+     "kind": "CN",
+     "code": "3004",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3005",
+     "description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 20 00",
+     "description": "Blood-grouping reagents"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 30 00",
+     "description": "Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 60 00",
+     "description": "Chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 70 00",
+     "description": "Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 92 00",
+     "description": "Waste pharmaceuticals"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 10 10",
+     "description": "Used"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 20 00",
+     "description": "Of cotton"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 32 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 39 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6305 90 00",
+     "description": "Of other textile materials"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "Shows, theatres, circuses, concerts, cinemas, admission to zoologic parcs, teaching and practice of horseback riding, entry fees for video gaming competitions (article 278-0 bis F, G, L and O of the general tax code)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "59.14.10",
+     "description": "Motion picture projection services"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.02",
+     "description": "Support services to performing arts"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.04.10",
+     "description": "Arts facility operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.04.11",
+     "description": "Botanical and zoological garden services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "situation_on": "2026-07-01",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "comment": "Article 278-0 bis J of the general tax code",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93.11.10",
+     "description": "Sports facility operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.12.10",
+     "description": "Services of sport clubs"
+    },
+    {
+     "kind": "CPA",
+     "code": "93.19.11",
+     "description": "Sports and recreational sports event promotion services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "comment": "Article 261 4. 1° of the general tax code",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "86.10.1",
+     "description": "Hospital services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86.21.10",
+     "description": "General medical practice services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86.22.1",
+     "description": "Specialist medical practice services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86.23.1",
+     "description": "Dental practice services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86.90.11",
+     "description": "Pregnancy related services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86.90.12",
+     "description": "Nursing services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86.90.13",
+     "description": "Physiotherapeutic services"
+    },
+    {
+     "kind": "CPA",
+     "code": "86.90.18",
+     "description": "Mental health services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.04.10",
+     "description": "Physical well-being services"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "0.9",
+   "situation_on": "2026-07-01",
+   "category_id": "REGION",
+   "category_description": "Special reduced rate for specific regions (including articles 104, 105 and 120 of the VAT Directive)",
+   "comment": "For Corsica: 0.9% on sales of live animals to non-sujected to VAT entities, and on the first performances or circus.",
+   "codes": []
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "1.05",
+   "situation_on": "2026-07-01",
+   "category_id": "REGION",
+   "category_description": "Special reduced rate for specific regions (including articles 104, 105 and 120 of the VAT Directive)",
+   "comment": "The super reduced rate in Martinique, Guadeloupe and Réunion is 1.05% (for the press).",
+   "codes": []
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "2.1",
+   "situation_on": "2026-07-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "Article 298 septies of the general tax code",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901 99 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4907 00 10",
+     "description": "Postage, revenue and similar stamps"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 10 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "2.1",
+   "situation_on": "2026-07-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "Publications of general interest with a direct connection to current affairs",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901 99 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4907 00 10",
+     "description": "Postage, revenue and similar stamps"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 10 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "FR",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "20.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": "&lt;p&gt;&lt;a href=\"http://bofip.impots.gouv.fr/bofip/1379-PGP\" target=\"_blank\" rel=\"noopener noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer noopener noreferrer\"&gt;http://bofip.impots.gouv.fr/bofip/1379-PGP&lt;/a&gt;&lt;/p&gt;\r\n&lt;p&gt;Article 278 of the General Tax Code&lt;/p&gt;",
+   "codes": []
+  }
+ ]
+}

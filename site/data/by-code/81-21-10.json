@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "81.21.10",
+ "entries": [
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "category_id": "DOMESTIC_CARE",
+   "category_description": "Domestic care services such as home help and care of the young, elderly, sick or disabled",
+   "code_kind": "CPA",
+   "code_description": "General cleaning services of buildings",
+   "comment": "Article 278-0 bis D of the general tax code",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IE",
+   "country": "Ireland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "WINDOW_CLEANING",
+   "category_description": "Window cleaning and cleaning in private households",
+   "code_kind": "CPA",
+   "code_description": "General cleaning services of buildings",
+   "comment": "13.5% VAT applies to all other construction",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "WINDOW_CLEANING",
+   "category_description": "Window cleaning and cleaning in private households",
+   "code_kind": "CPA",
+   "code_description": "General cleaning services of buildings",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

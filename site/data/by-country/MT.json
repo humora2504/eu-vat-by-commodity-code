@@ -1,0 +1,1513 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "MT",
+ "country": "Malta",
+ "rates": [
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Food for human consumption, excluding food supplied for catering, is taxed at 0% (exempt with credit).  \r\n\r\nThe above exemption does not apply to items classified under the following subheadings in the First Schedule of the Import Duties Act:\r\n\r\n(1) 0101.10.10.00; 0106.11.00.00; 0106.12.00.00; 0106.19.90.00; 0106.20.00.00; 0106.31.00.00; 0106.32.00.00; 0106.39.90.00; 0106.90.00.00\r\n\r\n(2) 0206.10.10.00; 0206.29.10.00; 0206.80.10.00; 0206.90.10.00\r\n\r\n(3) 0301.10.10.00; 0301.10.90.00",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "01",
+     "description": "CHAPTER 1 - LIVE ANIMALS"
+    },
+    {
+     "kind": "CN",
+     "code": "02",
+     "description": "CHAPTER 2 - MEAT AND EDIBLE MEAT OFFAL"
+    },
+    {
+     "kind": "CN",
+     "code": "03",
+     "description": "CHAPTER 3 - FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES"
+    },
+    {
+     "kind": "CN",
+     "code": "04",
+     "description": "CHAPTER 4 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "0504 00 00",
+     "description": "Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked"
+    },
+    {
+     "kind": "CN",
+     "code": "0505 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0506 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0508 00 00",
+     "description": "Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "0510 00 00",
+     "description": "Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 10 00",
+     "description": "Bovine semen"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 91 10",
+     "description": "Fish waste"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 91 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0511 99 85",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "06",
+     "description": "CHAPTER 6 - LIVE TREES AND OTHER PLANTS; BULBS, ROOTS AND THE LIKE; CUT FLOWERS AND ORNAMENTAL FOLIAGE"
+    },
+    {
+     "kind": "CN",
+     "code": "0601 20 10",
+     "description": "Chicory plants and roots"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 10 10",
+     "description": "Of vines"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 20 10",
+     "description": "Vine slips, grafted or rooted"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 20 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 10",
+     "description": "Mushroom spawn"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 20",
+     "description": "Pineapple plants"
+    },
+    {
+     "kind": "CN",
+     "code": "0602 90 30",
+     "description": "Vegetable and strawberry plants"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "08",
+     "description": "CHAPTER 8 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+     "kind": "CN",
+     "code": "09",
+     "description": "CHAPTER 9 - COFFEE, TEA, MATÉ AND SPICES"
+    },
+    {
+     "kind": "CN",
+     "code": "10",
+     "description": "CHAPTER 10 - CEREALS"
+    },
+    {
+     "kind": "CN",
+     "code": "11",
+     "description": "CHAPTER 11 - PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Food for human consumption, excluding food supplied for catering, is taxed at 0% (exempt with credit) (part 2).  \r\n\r\nThe above exemption does not apply to items classified under the following subheadings in the First Schedule of the Import Duties Act:\r\n\r\n(1) 1207.30.90; 1207.99.91.00; 1209.30.00.00; 1209.99.10; 1209.99.91.00; 1209.99.99.00; 1211.90.30\r\n\r\n(2) 1301.10.00.00; 1302.11.00; 1302.14.00; 1302.19.05; 1302.19.30; 1302.19.91; 1302.19.98; 1302.20.10; 1302.20.90",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "13",
+     "description": "CHAPTER 13 - LAC; GUMS, RESINS AND OTHER VEGETABLE SAPS AND EXTRACTS"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies to the following items (and CN codes) for the exclusive use of the disabled (part 2):\r\n- hoists (8425 11 90 and 8425 19 91);\r\n- platform lift/swimming pool lifters (8428 10 91 and 8428 20 99);\r\n- chairlifts (8428 60 00);\r\n- bath tub lifters (8428 90 98);\r\n- lifts to get wheelchair into a car (8428 90 98);\r\n- braille typewriters (8469 12 00, 8469 20 00 and 8469 30 00);",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8425 11 00",
+     "description": "Powered by electric motor"
+    },
+    {
+     "kind": "CN",
+     "code": "8425 19 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8428 10",
+     "description": "Lifts and skip hoists"
+    },
+    {
+     "kind": "CN",
+     "code": "8428 20",
+     "description": "Pneumatic elevators and conveyors"
+    },
+    {
+     "kind": "CN",
+     "code": "8428 60 00",
+     "description": "Teleferics, chairlifts, ski-draglines; traction mechanisms for funiculars"
+    },
+    {
+     "kind": "CN",
+     "code": "8428 90",
+     "description": "Other machinery"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies to the following items (and CN codes) for the exclusive use of the disabled (part 3):\r\n- amplifiers for communication devices for people with impaired hearing (8518 40 91 and 8518 40 99);\r\n- children special walkers, prone standers, wheelchairs (manual), special seats/buggies/wheelchairs (8713 10 00);\r\n- wheelchairs (electrical) (8713 90 00)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8518 40",
+     "description": "Audio-frequency electric amplifiers"
+    },
+    {
+     "kind": "CN",
+     "code": "8713 10 00",
+     "description": "Not mechanically propelled"
+    },
+    {
+     "kind": "CN",
+     "code": "8713 90 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies to the following items (and CN codes) for the exclusive use of the disabled (part 1):\r\n- raised toilet seats (3924 90 00);\r\n- pressure relief cushions (4014 90, 8714 20 00 and 9404 90);\r\n- padded/inflatable toilet seats (4016 95 00 and 4016 99 98);\r\n- pressure relief mattresses (6306 41 00, 6306 49 00, 9404 21 and 9404 29);\r\n- white sticks (6602 00 00);\r\n- walking sticks and ferrules (6603 90 00);\r\n- gutter frames (7325 10, 7325 99, 7326 19, 7326 90 and 7907 00);",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4016 95 00",
+     "description": "Other inflatable articles"
+    },
+    {
+     "kind": "CN",
+     "code": "4016 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6306 40 00",
+     "description": "Pneumatic mattresses"
+    },
+    {
+     "kind": "CN",
+     "code": "6602 00 00",
+     "description": "Walking sticks, seat-sticks, whips, riding-crops and the like"
+    },
+    {
+     "kind": "CN",
+     "code": "6603 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7325 10 00",
+     "description": "Of non-malleable cast iron"
+    },
+    {
+     "kind": "CN",
+     "code": "7325 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7326 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7326 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7907 00 00",
+     "description": "Other articles of zinc"
+    },
+    {
+     "kind": "CN",
+     "code": "8714 20 00",
+     "description": "Of carriages for disabled persons"
+    },
+    {
+     "kind": "CN",
+     "code": "9404 21",
+     "description": "Of cellular rubber or plastics, whether or not covered"
+    },
+    {
+     "kind": "CN",
+     "code": "9404 29",
+     "description": "Of other materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9404 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "- Medical accessories: This reduced rate does not apply to medical accessories falling under CN codes 3001 and 3002 where such items are used for therapeutic or prophylactic purposes;\r\n\r\n- For code 3307 90 00, the reduced rate applies solely to solutions for contact lenses.\r\n\r\n- In May 2020, the reduced rate has been extended to protective face masks and visors, excluding diving equipment.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2905 45 00",
+     "description": "Glycerol"
+    },
+    {
+     "kind": "CN",
+     "code": "3001",
+     "description": "Glands and other organs for organo-therapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organo-therapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "3002",
+     "description": "Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; cell cultures, whether or not modified"
+    },
+    {
+     "kind": "CN",
+     "code": "3005",
+     "description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes"
+    },
+    {
+     "kind": "CN",
+     "code": "3006",
+     "description": "Pharmaceutical goods specified in note 4 to this chapter"
+    },
+    {
+     "kind": "CN",
+     "code": "3306",
+     "description": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages"
+    },
+    {
+     "kind": "CN",
+     "code": "3307 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3407 00 00",
+     "description": "Modelling pastes, including those put up for children's amusement; preparations known as dental wax or as dental impression compounds, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate)"
+    },
+    {
+     "kind": "CN",
+     "code": "3822 00 00",
+     "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 3002 or 3006; certified reference materials"
+    },
+    {
+     "kind": "CN",
+     "code": "3926 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4818 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6307 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "7015 10 00",
+     "description": "Glasses for corrective spectacles"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 30 00",
+     "description": "Contact lenses"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 41",
+     "description": "Single focal"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 49",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 40 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 41",
+     "description": "Single focal"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 49",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9001 50 80",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9004 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9004 90 10",
+     "description": "With lenses of plastics"
+    },
+    {
+     "kind": "CN",
+     "code": "9004 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9020 00 00",
+     "description": "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Food for human consumption, excluding food supplied for catering, is taxed at 0% (exempt with credit) (part 3).  \r\n\r\nThe above exemption does not apply to items classified under the following subheadings in the First Schedule of the Import Duties Act:\r\n\r\n1501.00.11.00; 1502.00.10.00; 1511.10.10.00; \r\n1511.90.91.00; 1512.11.10.00; 1512.19.10.00;   1512.21.10.00; 1512.29.10.00; 1513.11.10.00; 1513.19.30.00; 1513.21.11.00; 1513.21.19.00; 1513.29.30.00",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1501",
+     "description": "Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503"
+    },
+    {
+     "kind": "CN",
+     "code": "1502",
+     "description": "Fats of bovine animals, sheep or goats, other than those of heading 1503"
+    },
+    {
+     "kind": "CN",
+     "code": "1503 00 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1504",
+     "description": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1506 00 00",
+     "description": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1507 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1507 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1508 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1508 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1509",
+     "description": "Olive oil and its fractions, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1510 00",
+     "description": "Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 1509"
+    },
+    {
+     "kind": "CN",
+     "code": "1511",
+     "description": "Palm oil and its fractions, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1512",
+     "description": "Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified"
+    },
+    {
+     "kind": "CN",
+     "code": "1513",
+     "description": "Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "This reduced rate applies to the following items (and CN codes) for the exclusive use of the disabled (part 4):\r\n- car adaptation-handcontrols, swivel seats (9401 30 10 and 9401 30 90);\r\n- toilet frames/surrounds (9401 79 00);\r\n- special feeder chairs (9402 90 00);\r\n- mouthsticks (9608 39 90)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9401 30 00",
+     "description": "Swivel seats with variable height adjustment"
+    },
+    {
+     "kind": "CN",
+     "code": "9401 79 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9402 90 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Food for human consumption, excluding food supplied for catering, is taxed at 0% (exempt with credit) (part 4).  \r\n\r\nThe above exemption does not apply to items classified under the following subheadings in the First Schedule of the Import Duties Act:\r\n\r\n(1) 1515.90.15.00;1515.90.15.90;1515.90.21.00; 1515.90.31.00;1515.90.40.00;1515.90.60.00; 1516.20.10.00; 1517.90.93; 1521.90.10.00\r\n\r\n(2) 2006.00.10; 2009\r\n\r\n(3) 2105.00; 2106.90.20.00; 2106.90.98.33; 2106.90.98.37; 2106.90.98.39\r\n\r\n(4) 2307.00",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1515 19 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 21 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 29 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 50 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 50 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1515 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1516",
+     "description": "Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared"
+    },
+    {
+     "kind": "CN",
+     "code": "1517",
+     "description": "Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils or their fractions of heading 1516"
+    },
+    {
+     "kind": "CN",
+     "code": "1521 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1522 00 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 30",
+     "description": "White chocolate"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 51",
+     "description": "Pastes, including marzipan, in immediate packings of a net content of 1 kg or more"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "20",
+     "description": "CHAPTER 20 - PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS"
+    },
+    {
+     "kind": "CN",
+     "code": "21",
+     "description": "CHAPTER 21 - MISCELLANEOUS EDIBLE PREPARATIONS"
+    },
+    {
+     "kind": "CN",
+     "code": "2202 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2209 00",
+     "description": "Vinegar and substitutes for vinegar obtained from acetic acid"
+    },
+    {
+     "kind": "CN",
+     "code": "23",
+     "description": "CHAPTER 23 - RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "2501 00 91",
+     "description": "Salt suitable for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "3301 90 21",
+     "description": "Of liquorice and hops"
+    },
+    {
+     "kind": "CN",
+     "code": "3302 10 29",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3302 10 40",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3302 10 90",
+     "description": "Of a kind used in the food industries"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PICTURES",
+   "category_description": "Pictures, collages and similar decorative plaques, paintings and drawings, executed entirely by hand by the artist, other than plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, hand-decorated manufactured articles, theatrical scenery, studio back cloths or the like of painted canvas (CN code 9701)",
+   "comment": "Reduced rate only limited to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9701",
+     "description": "Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufactured articles; collages, mosaics and similar decorative plaques"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "IMPRESSIONS",
+   "category_description": "Original engravings, prints and lithographs, being impressions produced in the limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process (CN code 9702 00 00)",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9702 00 00",
+     "description": "Original engravings, prints and lithographs"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SCULPTURES",
+   "category_description": "Original sculptures and statuary, in any material, provided that they are executed entirely by the artists",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9703 00 00",
+     "description": "Original sculptures and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "POSTAGE",
+   "category_description": "Postage or revenue stamps, postmarks, first-day covers, pre-stamped stationery and the like, used, or if unused not current and not intended to be current (CN code 9704 00 00)",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9704 00 00",
+     "description": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ZOOLOGICAL",
+   "category_description": "Importation of collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, paleontological, ethnographic or numismatic interest (CN code 9705 00 00)",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9705 00 00",
+     "description": "Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, palaeontological, ethnographic or numismatic interest"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "100_YEARS_OLD",
+   "category_description": "Goods, other than works of art or collector’s items, which are more than 100 years old (CN code 9706 00 00)",
+   "comment": "Reduced rate only applicable to antiques as defined in the VAT Act.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9706 00 00",
+     "description": "Antiques of an age exceeding 100 years"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "DOMESTIC_CARE",
+   "category_description": "Domestic care services such as home help and care of the young, elderly, sick or disabled",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "88",
+     "description": "Social work services without accommodation"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CLOTHING_REPAIR",
+   "category_description": "Minor repairs of clothing and household linen (including mending and alteration)",
+   "comment": "Reduced rate applies to the minor repairing of clothing and household linen (including mending and alteration).",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.2",
+     "description": "Repair and maintenance services of personal and household goods"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "comment": "Reduced rate applies to the minor repairing of shoes and leather goods.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.2",
+     "description": "Repair and maintenance services of personal and household goods"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "This reduced rate does not extend to online performances and applies only to admission to museums, art exhibitions, concerts and theatres. No applicable CPA code.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SCULPTURE_CASTS",
+   "category_description": "Sculpture casts the production of which is limited to eight copies and supervised by the artist or his successors in title (CN code 9703 00 00) on an exceptional basis, in cases determined by the Member States, the limit of eight copies may be exceeded for statuary casts produced before 1 January 1989",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ENAMELS",
+   "category_description": "Enamels on copper, executed entirely by hand, limited to eight numbered copies bearing the signature of the artist or the studio, excluding articles of jewellery and goldsmith’s and silversmith’s wares",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TAPESTRIES",
+   "category_description": "Tapestries (CN code 5805 00 00) and wall textiles (CN code 6304 00 00) made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CERAMICS",
+   "category_description": "Individual pieces of ceramics executed entirely by the artist and signed by him",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHOTOGRAPHS",
+   "category_description": "Photographs taken by the artist, printed by him or under his supervision, signed and numbered and limited to 30 copies, all sizes and mounts included",
+   "comment": "Reduced rate only applicable to the importation of works of art, collector’s items and antiques as defined in the VAT Act.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "The reduced rate is limited to accommodation required to be licensed in virtue of the Malta Travel and Tourism Services Act (or any Act substituted therefor).",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55.1",
+     "description": "Hotel and similar accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.2",
+     "description": "Holiday and other short-stay accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.3",
+     "description": "Camping grounds and recreational vehicle parks services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.90.11",
+     "description": "Room or unit accommodation services for students in student residences and school dormitories"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.90.12",
+     "description": "Room or unit accommodation services for workers in workers hostels or camps"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.90.19",
+     "description": "Other accommodation services n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "18.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Supply of pharmaceutical products taxed at 0% (exempt with credit) from VAT.\r\n\r\nPharmaceutical products refers to the goods specified in the Customs Tariff contained in the First Schedule to the Import Duties Act classified under the CN codes listed.\r\n\r\nThe exemption does not apply to items falling under sub-headings 3001 and 3002 where these items are not used for therapeutic or prophylactic purposes",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3001",
+     "description": "Glands and other organs for organo-therapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organo-therapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "3002",
+     "description": "Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; cell cultures, whether or not modified"
+    },
+    {
+     "kind": "CN",
+     "code": "3003",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3004",
+     "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3301 90 30",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3507 10 00",
+     "description": "Rennet and concentrates thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "3824 99 64",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 30",
+     "description": "Of wadding of textile materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 40",
+     "description": "Sanitary towels (pads), tampons and similar articles"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 71",
+     "description": "Sanitary towels (pads)"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 75",
+     "description": "Tampons"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 79",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "With effect from 01/01/2025 the supply of medical items essential to compensate and overcome cancer in humans (mastectomy undergarments, urinary incontinence management devices, vacuum constriction devices, scalp cooling systems, absorbent incontinence care products and supportive medical undergarments).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3926 90 97",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6210 40 00",
+     "description": "Other men's or boys' garments"
+    },
+    {
+     "kind": "CN",
+     "code": "6210 50 00",
+     "description": "Other women's or girls' garments"
+    },
+    {
+     "kind": "CN",
+     "code": "6212 10 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8414 10 89",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 84",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9021 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 30",
+     "description": "Of wadding of textile materials"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 50",
+     "description": "Napkins and napkin liners and similar articles"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 89",
+     "description": "Other (for example, incontinence care articles)"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "The exemption applies to domestic public passenger transport on scheduled routes per regulation 68B, international air and sea passenger transport, scheduled inter-island sea transport by authorized carriers, regular sea passenger transport, and regular transport of students and workers to and from recognized educational establishments and workplaces.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.39",
+     "description": "Other passenger land transport services n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "50.10",
+     "description": "Sea and coastal passenger water transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51.10",
+     "description": "Passenger air transport services"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "comment": "The exemption is limited to all activities of public radio and television bodies, excluding those of a commercial nature.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "60.10.11",
+     "description": "Radio programming and broadcasting services"
+    },
+    {
+     "kind": "CPA",
+     "code": "60.10.12",
+     "description": "Radio broadcasting originals"
+    },
+    {
+     "kind": "CPA",
+     "code": "60.20.11",
+     "description": "Linear television programming and broadcasting services"
+    },
+    {
+     "kind": "CPA",
+     "code": "60.20.20",
+     "description": "Television broadcasting originals"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "comment": "Exemption is limited to the provision of medical care by persons in the exercise of any profession regulated by the Health Care Professions Act, the Psychology Profession Act, the Counselling Profession Act, the Psychotherapy Profession Act (or any Acts which may substitute them), the provision of care or medical/surgical treatment in a government hospital/institution approved by the Minister.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "86",
+     "description": "Human health services"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "comment": "With effect from 01/01/2025 medical care provided by counsellors and psychotherapists are exempt (without credit). The same exemption has been extended to the supply of services by dental technicians in their professional capacity and to the supply of dental prostheses by dentists and dental technicians.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "86",
+     "description": "Human health services"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "comment": "The exemption refers to the supply of water services by a public authority.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "comment": "Exemption is only limited to welfare services supplied by government or by any institution or organisation recognised as a non-profit making institution or approved by the Minister for this purpose. No applicable CPA code.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SECURITY_MANAGEMENT",
+   "category_description": "Custody and management of securities",
+   "comment": null,
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CREDIT_MANAGEMENT",
+   "category_description": "Management of credits and credit guarantees by a person or body other than those who granted the credits",
+   "comment": null,
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HIRING_SHORT_PERIOD",
+   "category_description": "Hiring for short period",
+   "comment": "Hiring of a pleasure boat to a person according to an agreement for any term or part of a term that, when added to the term of a previous hiring, of the same goods or of other goods of the same kind, to the said person during the previous twelve (12) months ending on the date of the beginning of the existing hiring, does not exceed five (5) weeks.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "BODY_CARE_SERVICES",
+   "category_description": "Certain services consisting of the care of the human body",
+   "comment": "Services consisting of the care of the human body required to be delivered by a person in the exercise of any profession regulated by the Health Care Professions Act (Cap.464), including services supplied in the course of a health studio business or similar business, but not including exempt supplies referred to in item 11 of Part Two of the Fifth Schedule.",
+   "codes": []
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Some confectionery &amp; similar items are taxed at the reduced rate of 5%.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1207 99 91",
+     "description": "Hemp seeds"
+    },
+    {
+     "kind": "CN",
+     "code": "1302 11 00",
+     "description": "Opium"
+    },
+    {
+     "kind": "CN",
+     "code": "1302 14 00",
+     "description": "Of ephedra"
+    },
+    {
+     "kind": "CN",
+     "code": "1302 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1302 19 05",
+     "description": "Vanilla oleoresin"
+    },
+    {
+     "kind": "CN",
+     "code": "1302 20 10",
+     "description": "Dry"
+    },
+    {
+     "kind": "CN",
+     "code": "1302 20 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1503 00 19",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1517 90 93",
+     "description": "Edible mixtures or preparations of a kind used as mould-release preparations"
+    },
+    {
+     "kind": "CN",
+     "code": "1520 00 00",
+     "description": "Glycerol, crude; glycerol waters and glycerol lyes"
+    },
+    {
+     "kind": "CN",
+     "code": "1522 00 10",
+     "description": "Degras"
+    },
+    {
+     "kind": "CN",
+     "code": "1702 90 10",
+     "description": "Chemically pure maltose"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 10",
+     "description": "Chewing gum, whether or not sugar-coated"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 10",
+     "description": "Liquorice extract containing more than 10 % by weight of sucrose but not containing other added substances"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 55",
+     "description": "Throat pastilles and cough drops"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 61",
+     "description": "Sugar-coated (panned) goods"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 65",
+     "description": "Gum confectionery and jelly confectionery, including fruit pastes in the form of sugar confectionery"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 71",
+     "description": "Boiled sweets, whether or not filled"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 75",
+     "description": "Toffees, caramels and similar sweets"
+    },
+    {
+     "kind": "CN",
+     "code": "1704 90 81",
+     "description": "Compressed tablets"
+    },
+    {
+     "kind": "CN",
+     "code": "2006 00 10",
+     "description": "Ginger"
+    },
+    {
+     "kind": "CN",
+     "code": "2009",
+     "description": "Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "2105 00 10",
+     "description": "Containing no milkfats or containing less than 3 % by weight of such fats"
+    },
+    {
+     "kind": "CN",
+     "code": "2105 00 91",
+     "description": "3 % or more but less than 7 %"
+    },
+    {
+     "kind": "CN",
+     "code": "2105 00 99",
+     "description": "7 % or more"
+    },
+    {
+     "kind": "CN",
+     "code": "2501 00 10",
+     "description": "Sea water and salt liquors"
+    },
+    {
+     "kind": "CN",
+     "code": "3302 10 21",
+     "description": "Containing no milkfats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milkfat, 5 % sucrose or isoglucose, 5 % glucose or starch"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "(i) Not applicable to library loans, and \"production of publications of non-profit-making organisations and services related to such production\".\r\n\r\n(ii) This reduced rate has been extended to also include e-books.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4820 20 00",
+     "description": "Exercise books"
+    },
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905 91 00",
+     "description": "In book form"
+    },
+    {
+     "kind": "CN",
+     "code": "4905 99 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4910 00 00",
+     "description": "Calendars of any kind, printed, including calendar blocks"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 10",
+     "description": "Trade advertising material, commercial catalogues and the like"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 99 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "This reduced rate has been extended to also include e-newspapers.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    }
+   ]
+  },
+  {
+   "member_state": "MT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "This reduced rate has been extended to also include periodicals provided electronically.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    }
+   ]
+  }
+ ]
+}

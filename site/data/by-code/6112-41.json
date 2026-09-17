@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "6112 41",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Of synthetic fibres",
+   "comment": "Royal Decree N° 20, Table A, category  XXIII, N° 14 - bras and bathing suits adapted to external breast prosthetics:\r\n\r\nThe reduced rate only applies to bras and bathings suits prescribed by a physician, when they are intended to alleviate the effects of a chronic or long-term illness or of a disability in:\r\n6112 41, 6112 49, 6211 12 00, 6212 10 90",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

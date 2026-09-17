@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1905 90",
+ "entries": [
+  {
+   "member_state": "HU",
+   "country": "Hungary",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "18.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Cereals, flour, starch or milk products\r\n(excluding the products under the rate 5%)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IE",
+   "country": "Ireland",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "The supply of bakery products, such as cakes, certain biscuits, bagels and croissants, (being flour or egg based) is liable to VAT at the reduced rate  . This applies when the products are served with meals or supplied as a cold take-away. The supply of bread that meets the ingredient definition in Irish VAT legislation is liable to the zero rate. Food Supplement Products are also subject to the reduced rate.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IE",
+   "country": "Ireland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Restaurant food, food served in canteens, and take away food is subject to the reduced rate of VAT of 9%.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

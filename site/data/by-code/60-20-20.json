@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "60.20.20",
+ "entries": [
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "code_kind": "CPA",
+   "code_description": "Television broadcasting originals",
+   "comment": "The exemption is limited to all activities of public radio and television bodies, excluding those of a commercial nature.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "code_kind": "CPA",
+   "code_description": "Television broadcasting originals",
+   "comment": "The reduced rate applies to royalties, please see chapter 9 section 16 paragraph 1 in the Swedish VAT Act (https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/mervardesskattelag-2023200_sfs-2023-200#K9). A performing artist`s (actor, musician, dancer, artist) performance of a literary or artistic work is exempt.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

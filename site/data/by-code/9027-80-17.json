@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9027 80 17",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, n° 7 to 8 \r\nThe reduced rate only applies to:\r\n- (PICC) peripheral insertion central catheters, introd. surgically + for a prolonged period into the human body for the purpose of adm. intravenous medications (chemo, parenteral nutrition, etc.) and samples frequent blood: 9018 3900\r\n- infusion pumps: 9018 9050\r\n- glucometers, whether/not accompanied by their accessories: 9027 8017",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

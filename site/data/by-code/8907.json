@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8907",
+ "entries": [
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "13.0",
+   "category_id": "AGRICULTURAL_EQUIPMENT",
+   "category_description": "Certain agricultural tools and equipment",
+   "code_kind": "CN",
+   "code_description": "Other floating structures (for example, rafts, tanks, coffer-dams, landing stages, buoys and beacons)",
+   "comment": "Reduced rate applies only on pumps for liquids, air pumps and air compressors for fish tanks, mobile silos, greenhouses, fish tanks made of glass, accumulator shells, floating fish farming structures of tariff headings 8413, 8414, 8716, 9406, 7020, 8479, 8907 which by their nature and characteristics are intended mainly or exclusively for agriculture, animal husbandry or forestry",
+   "situation_on": "2025-01-01"
+  }
+ ]
+}

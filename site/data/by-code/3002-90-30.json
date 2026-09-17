@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3002 90 30",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses",
+   "comment": "Royal Decree N° 20, Table A, category XVII\r\nThe reduced rates only applies to: -medicinal products registered as medicines/medicinal product  according to the Belgian law: 3002 1200, 3002 1900, 3002 1300, 3002 1400, 3002 1500, 3002 2000, 3002 3000, 3006 3000, 3006 7000, 3824 9958, 3002 9030, 3002 9050, 3002 9090, 3004, 3006 6000",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses",
+   "comment": "Royal Decree N° 20, Table A, category XVII\r\nThe reduced rate only applies to:\r\n- blood and platelets, plasma and white and red blood cells intended for administration to humans or animals for therapeutic or prophylactic use: 3002 1200, 3002 1900, 3002 9030, 3002 9090\r\n- blood plasma intended for transfusions: 3002 1200, 3002 1900\r\n- other than for establishing an in vitro diagnosis: 3002 9030",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FI",
+   "country": "Finland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses",
+   "comment": "Restricted to medicines in the meaning of The Medicines Act. Including herbal medicinal products and homeopathic preparations in so far they, according to the registration due to The Med. Act may be sold only at pharmacies. Also including clinical foodstuffs as well as basic creams and ointments in so far they are eligible for reimbursement in accordance with the The Health Insurance Act. Female sanitary protection and incontinence articles and napkins for babies taxed with the reduced rate.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses",
+   "comment": "Applies to medicines which have the approval of the competent authority for medicines and medical products.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Animal blood prepared for therapeutic, prophylactic or diagnostic uses",
+   "comment": "The reduced TVA rate is applied for the supply of medicines for human use. See art. 291 para. (2) letter a) of the Fiscal Code.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

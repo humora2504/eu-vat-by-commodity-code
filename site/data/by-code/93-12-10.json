@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "93.12.10",
+ "entries": [
+  {
+   "member_state": "DK",
+   "country": "Denmark",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "code_kind": "CPA",
+   "code_description": "Services of sport clubs",
+   "comment": "The exemption does not cover events with professional athletes as participants. It is a condition that the supplier is not acting for the purpose of gaining profit.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "code_kind": "CPA",
+   "code_description": "Services of sport clubs",
+   "comment": "Article 278-0 bis J of the general tax code",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Support plan — EU VAT by commodity code</title><meta name="description" content="The data is free under CC BY 4.0. What is sold is the change feed, a versioned schema and one person&#x27;s attention. Honest about what you already own.">
+<link rel="canonical" href="https://humora2504.github.io/eu-vat-by-commodity-code/commercial.html"><link rel="stylesheet" href="style.css">
+</head><body>
+<header><div class="wrap"><a class="logo" href="./">EU VAT by commodity code</a>
+<nav><a href="data/index.json">Data</a> <a href="licence.html">Licence</a> <a href="commercial.html">Support plan</a></nav></div></header>
+<main class="wrap">
+<h1>Support plan</h1>
+<p class="lede">The data is free and stays free. You already have permission to use it commercially,
+under CC BY 4.0, and nothing here changes that. What is for sale is the operational work of not having
+to watch this feed yourself.</p>
+
+<h2>Say the awkward part first</h2>
+<p>You can <code>curl</code> the JSON today, for nothing, and build on it. For most people that is the
+right answer and you should do it. Calling that a licence and charging for it would be selling you
+something you already own.</p>
+<p>What you cannot get for free is someone else carrying the operational risk: noticing the day a
+member state reclassifies 84 commodity codes, telling you which of them you actually use, and fixing
+the pipeline the day the Commission moves its endpoint. That is the product.</p>
+
+<h2>What you actually get</h2>
+<ul class="plain">
+<li><b>A change feed, not a promise.</b> <code>data/changes.json</code> lists every rate added, removed
+or changed since the last build, and every commodity code reclassified, with the count of codes
+affected. It exists now; you can read it before paying anything.</li>
+<li><b>A schema version that means something.</b> Every file carries <code>schema_version</code>. A
+breaking change gets a new major version, and the previous one keeps being published for 90 days.
+Written down here so you can hold us to it.</li>
+<li><b>Notice before it breaks.</b> Schema changes are announced at least 30 days ahead, in the feed
+itself, so a machine can see it coming rather than a person noticing after.</li>
+<li><b>A reply from a person.</b> Within two working days, from one person in the CET timezone. Not
+24/7, not a queue, not an SLA with a credit clause. Said plainly because promising more would be a lie
+that becomes obvious the first time you need it.</li>
+</ul>
+
+<h2>Plans</h2>
+<table>
+<tr><th>Plan</th><th>Per month</th><th>For</th><th>What it adds</th></tr>
+<tr><td><b>Free</b></td><td>&euro;0</td><td>Research, internal tools, anyone running their own pipeline</td><td>The complete dataset, daily rebuilds, the change feed. Everything.</td></tr>
+<tr><td><b>Production</b></td><td>&euro;29</td><td>A small product that reads this feed in production</td><td>Versioned schema commitment, 30-day breaking-change notice, email support within two working days</td></tr>
+<tr><td><b>Business</b></td><td>&euro;99</td><td>VAT, customs or compliance products that depend on it</td><td>The above, plus migration help when the schema moves and a written answer on how a specific change affects your codes</td></tr>
+</table>
+<p class="small">One person runs this. There is no Enterprise tier, because there is nobody to staff it.
+If you need contractual uptime guarantees, buy from a company that can honour them.</p>
+
+<h2>Why this is priced below the alternatives</h2>
+<p>Vatstack, VAT Sense, vatlayer and Lookuptax sell VAT rate access from roughly &euro;6 to &euro;450 a
+month. They sell a hosted API with uptime behind it. This sells files in a git repository and one
+person's attention. That is worth less, so it costs less.</p>
+<p>What none of them sells at any price is the commodity-code mapping. That part is not a discount, it
+is the reason to be here.</p>
+
+<h2>Buy</h2>
+<p>Checkout is not open yet. The honest reason: no one has asked for this plan, and switching on a
+payment page before a single person has said they want it would be building a shop for a street with
+nobody on it.</p>
+<p>If the change feed would save you work, write to
+<a href="mailto:hugo@vystral.com">hugo@vystral.com</a> and say which commodity codes you care about.
+That answer decides whether this plan exists at all, and you will get a straight reply either way.</p>
+</main>
+<footer><div class="wrap">
+<p>&copy; European Union, source: European Commission, DG TAXUD, Taxes in Europe Database.
+Licensed <a href="https://creativecommons.org/licenses/by/4.0/" rel="nofollow">CC BY 4.0</a> under
+Commission Decision 2011/833/EU. Reshaped into JSON and pages; the rates themselves are unaltered.
+Situation on 2026-09-18, fetched 2026-09-17.</p>
+<p class="small">Reference data, not tax advice. Verify against your own tax authority before relying
+on it for a filing.</p></div></footer></body></html>

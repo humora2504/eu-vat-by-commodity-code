@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "01.61.10",
+ "entries": [
+  {
+   "member_state": "IE",
+   "country": "Ireland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Support services to crop production",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Support services to crop production",
+   "comment": "Fertilization; Ploughing; Harrowing; Preparing the seedbed with combine and moulding soil; Seed sowing or planting; Land rolling; Spraying, dusting - fight diseases and pests, herbicide; Harvesting or crop dislocation; Collecting and baling the vegetal material, by pressing in bales; Hoeing crops; Pots planting for potatoes and vegetables. For details see art. 291 para. (2) lett. e) of the Fiscal Code and points 1 - 7, 9, 10, 12, 15 of the Annex to the Order no. 4634/2022.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Support services to crop production",
+   "comment": "The reduced rate shall be applied for Mowing; Raking; Digging holes for planting trees and vines; Cleaning of unwanted vegetation and destruction of heaps on pastures and hayfields; Meadow overseeding; Planting horticultural grape vines, trees; Deforestation of vineyards and orchards; Installation of support, growing and palisade system for vineyards and orchards. See art. 291 para. (2) letter e) of the Fiscal Code and points 18, 19, 23, 27, 28, 35 - 37 of the Annex to the Order no. 4634/2022.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

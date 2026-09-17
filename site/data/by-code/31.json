@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "31",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 31 - FERTILISERS",
+   "comment": "Royal Decree n° 20, Table A, category XII:\r\n- 8° fertilizers: the reduced rate only applies for: containing more than 0.01% iron by weight in 2835 2500; fertilizers in 31\r\n- 9° animal products used for reproduction in 0511 1000, 0511 9190, 0511 9985",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 31 - FERTILISERS",
+   "comment": "Fertilizers, insecticides, rodenticides, fungicides, herbicides, disinfectants (under tariff code 31)",
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "ES",
+   "country": "Spain",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 31 - FERTILISERS",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 31 - FERTILISERS",
+   "comment": "Pesticides and other agrochemical products are insecticides, rodenticides, fungicides, herbicides, anti-germination agents, plant growth regulators, disinfectants and similar products, put up in forms or packings for individual sale or as preparations or articles of CN 3808.\r\nResidues and waste from the food industry and prepared animal food from Ch. 23 excluding greaves CN 2301 10, wine lees and tartar CN 2307 and other than dog and cat food, put up in packings for individual sale CN 2309 10;",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "CERTAIN_AGRICULTURAL_INPUT",
+   "category_description": "Certain agricultural inputs",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 31 - FERTILISERS",
+   "comment": "Services excluded : leasing and renting of agricultural and forestry machinery and utensils; transport of agricultural and forestry products; felling and logging of trees",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

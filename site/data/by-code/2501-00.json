@@ -1,0 +1,102 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "2501 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",
+   "comment": "Royal Decree N° 20, Table A, cat. X (…)\r\n\r\nThe reduced rate only applies for:\r\n- nutritional supplements and preparations and additives (RD of 2/8/1999 on the trade and use of substances intended for animal nutrition) 2309 9010 up to and including 2309 1090\r\n- sodium bicarbonate offered for sale in a packaging normally reserved for domestic use + only for the preparation of ready meals, pastries or desserts, with exclusion of any other possible use in 2836 3000\r\n9000",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "DE",
+   "country": "Germany",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",
+   "comment": "VAT - Import - Annex 2 of the German VAT Act contains a list of goods falling under the reduced rate of 7% such as live animals, meat, milk and so on. For legal certainty please have a look at the German VAT Act.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "DE",
+   "country": "Germany",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",
+   "comment": "Annex 2 of the German VAT Act contains a list of goods falling under the reduced rate of 7% such as live animals, meat, milk and so on. For legal certainty please have a look at the German VAT Act.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",
+   "comment": "•For tariff heading 0101 excluded race horses.\r\n•For tariff heading 0106, reduced rate applies only on rabbits, pigeons, quail, pheasants, partridges, hares and other animals and birds, live, intended for human consumption. Animals set are reared for fur. Bees. Mites (insects used in crops instead of pesticides).\r\n•For tariff heading 0301, excluded live fish for decoration",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CN",
+   "code_description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",
+   "comment": "article 278 bis 5° b e of the general tax code. Excepted 2501 00 10 and 2827 39 10",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",
+   "comment": "Tabel I prov. a.1: foodstuff for human consumption, products used for preparation of human foodstuff that are wholly/partially incorporated in these foodstuff, supplements/substitutes for human foodstuff;\r\nExcluded: living animals, except if consumed raw.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",
+   "comment": "The reduced rate is applied only if the supplier can prove that the goods, except foods with added sugar, whose total sugar content is at least 10g/100g product, are used as food for human or animal consumption. When those goods are imported from a third territory or a third country, the application of the reduced rate is conditioned by the submission of the Commitment Declaration regarding the destination of the goods. Point 37 para.(5)-(9) of Norms.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

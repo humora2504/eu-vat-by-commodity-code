@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0709 55 00",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "4.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",
+   "comment": "Edible vegetables and plants (NO truffles, fresh, chilled) in salted or sulphured water or with the addition of other substances suitable for temporarily ensuring their conservation, not prepared for immediate consumption; dried, dehydrated or evaporated, whether or not cut, but not otherwise prepared. \r\n071220,071231,071232,071233,071239,07129005,07129030,07129050 neither\r\nground nor pulverized.\r\n0711590011,0711590019,0712909010,0712909050 neither ground nor pulverized are included. No pellets",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

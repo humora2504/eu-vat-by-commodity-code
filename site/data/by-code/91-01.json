@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "91.01",
+ "entries": [
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CPA",
+   "code_description": "Library and archive services",
+   "comment": "CPA code 91.01 (only lending of books, music scores, maps on physical means of support by libraries)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "code_kind": "CPA",
+   "code_description": "Library and archive services",
+   "comment": "Newspapers or journals supplied electronically (other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music) are subject to 8% VAT rate regardless of CPA code. As regards CN codes: 4902 (excluding regional or local periodicals), 8523 (only newspapers or journals on physical means of support), CPA code 91.01 (only lending of newspapers on physical means of support by libraries)",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "58.14.4",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "code_kind": "CPA",
+   "code_description": "Licensing services for journals and periodicals",
+   "comment": "The transfer of intellectual property rights according to Royal Decree N° 20, Table A, category XXIX, 1° with the exception of the supply of advertising services (59.11.3) and the transfer and licensing of intellectual property rights on computer programs (58.29.50). The reduced rate only applies to 58.11.6, 58.12.3, 58.14.4, 58.19.30, 59.13.11, 59.20, 60.10.12, 60.2, 74.3, 77.40.1 in that context.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

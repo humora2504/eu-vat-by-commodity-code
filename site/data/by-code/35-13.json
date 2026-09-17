@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "35.13",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "SUSTAINABLE_ENERGY",
+   "category_description": "Supply of electricity, district heating and district cooling, and biogas produced by the feedstock listed in Annex IX, Part A, to Directive (EU) 2018/2001 of the European Parliament and of the Council; supply and installation of highly efficient low emissions heating systems meeting the emission (PM) benchmarks laid down in Annex V to Commission Regulation (EU) 2015/1189 and in Annex V to Commission Regulation (EU) 2015/1185 and having been attributed an EU energy label to show that the criterion referred to in Article 7(2) of Regulation (EU) 2017/1369 of the European Parliament and of the Council is met; and, until 1 January 2030, natural gas and wood used as firewood",
+   "code_kind": "CPA",
+   "code_description": "Transmission services of electricity",
+   "comment": "Royal Decree N0 20, Table A, category XIV.\r\nThe supply of electricity, heat through heating networks and natural gas used as heating fuel under residential contracts.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "SUPPLY_ELECTRICITY",
+   "category_description": "Supply of electricity",
+   "code_kind": "CPA",
+   "code_description": "Transmission services of electricity",
+   "comment": "Royal Decree N° 20, Table A, category XIV: the supply of electricity under residential contracts within the meaning of and under the terms of article 420, §§ 5 en 5/1 of the Programme law of 27 december 2004",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

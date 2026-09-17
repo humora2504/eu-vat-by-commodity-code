@@ -1,0 +1,1132 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "PL",
+ "country": "Poland",
+ "rates": [
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "comment": "As regards CPA code 37 (only sewage disposal services; sewage purification)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "37",
+     "description": "Sewerage services; sewage sludge"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.1",
+     "description": "Collection services of non-hazardous recyclable waste"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.2",
+     "description": "Collection services of non-hazardous non-recyclable waste"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.11.6",
+     "description": "Worn clothing and other worn articles"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.12.1",
+     "description": "Hazardous waste collection services"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.12.30",
+     "description": "Operation services of transfer facilities for hazardous waste"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.21.10",
+     "description": "Non-hazardous waste treatment for final disposal services"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.21.2",
+     "description": "Metal secondary raw materials"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.22.19",
+     "description": "Other hazardous waste treatment services"
+    },
+    {
+     "kind": "CPA",
+     "code": "38.22.2",
+     "description": "Pellets of municipal waste for incineration with energy recovery"
+    },
+    {
+     "kind": "CPA",
+     "code": "39.00.1",
+     "description": "Remediation and clean-up services"
+    },
+    {
+     "kind": "CPA",
+     "code": "39.00.2",
+     "description": "Other remediation and specialised pollution control services"
+    },
+    {
+     "kind": "CPA",
+     "code": "81.29.12",
+     "description": "Sweeping and snow removal services"
+    },
+    {
+     "kind": "CPA",
+     "code": "81.29.13",
+     "description": "Other sanitation services"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.10",
+     "description": "Passenger rail transport services, interurban"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.31",
+     "description": "Scheduled passenger transport services by road"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.32",
+     "description": "Non-scheduled passenger transport services by road"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39",
+     "description": "Other passenger land transport services n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "50.10.1",
+     "description": "Sea and coastal passenger water transport services, except rental services"
+    },
+    {
+     "kind": "CPA",
+     "code": "50.30.1",
+     "description": "Inland passenger water transport services, except rental services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51.10.1",
+     "description": "Passenger air transport services, except rental services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51.10.20",
+     "description": "Rental services of passenger air transport equipment with operator"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55",
+     "description": "Accommodation services"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "RESTAURANT",
+   "category_description": "Restaurant and catering services, it being possible to exclude the supply of (alcoholic and/or non-alcoholic) beverages",
+   "comment": "CPA Code 56 (except for tea, coffee, alcoholic drinks, carbonated soft drinks, mineral water, other unprocessed products, seafood meals)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56",
+     "description": "Food and beverage serving services"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": "Fertilizers, plant protection products, feedingstuffs for livestock and petfood,potting soil (regardless of CN),soil improver, plant biostimulant, growing medium (excluding mineral growing medium), microbial fertilising products (included in the official list of microbial fertilising products) in the meaning of The Act on fertilisers and fertilising,",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0511",
+     "description": "Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption"
+    },
+    {
+     "kind": "CN",
+     "code": "0601",
+     "description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 1212"
+    },
+    {
+     "kind": "CN",
+     "code": "0602",
+     "description": "Other live plants (including their roots), cuttings and slips; mushroom spawn"
+    },
+    {
+     "kind": "CN",
+     "code": "0603",
+     "description": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared"
+    },
+    {
+     "kind": "CN",
+     "code": "09",
+     "description": "CHAPTER 9 - COFFEE, TEA, MATÉ AND SPICES"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.6",
+     "description": "Agricultural and animal husbandry services"
+    },
+    {
+     "kind": "CPA",
+     "code": "02.10.20",
+     "description": "Forest trees nursery services"
+    },
+    {
+     "kind": "CPA",
+     "code": "02.40.10",
+     "description": "Support services to forestry"
+    },
+    {
+     "kind": "CPA",
+     "code": "03.00.7",
+     "description": "Support services to fishing and aquaculture"
+    },
+    {
+     "kind": "CPA",
+     "code": "75",
+     "description": "Veterinary services"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "CPA code 91.01 (only lending of books, music scores, maps on physical means of support by libraries)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "91.01",
+     "description": "Library and archive services"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "Newspapers or journals supplied electronically (other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music) are subject to 8% VAT rate regardless of CPA code. As regards CN codes: 4902 (excluding regional or local periodicals), 8523 (only newspapers or journals on physical means of support), CPA code 91.01 (only lending of newspapers on physical means of support by libraries)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "8523",
+     "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.01",
+     "description": "Library and archive services"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.23.10",
+     "description": "Repair services of footwear and leather goods"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CLOTHING_REPAIR",
+   "category_description": "Minor repairs of clothing and household linen (including mending and alteration)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.29.11",
+     "description": "Repair and alteration services of garment and household textile articles"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "comment": "As regards CPA code 96.02.14 (only hairdressing at home).",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.02.11",
+     "description": "Hairdressing services for women and girls"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.12",
+     "description": "Hairdressing and barbers' services for men and boys"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.14",
+     "description": "Hairdressing and barbers services, cosmetic treatment, manicuring and pedicuring services, at home"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "UNDERTAKERS_SERVICES",
+   "category_description": "Supply of services by undertakers and cremation services, and the supply of goods related thereto",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.03",
+     "description": "Funeral and related services"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "The Polish VAT rules do not provide for CN codes to those products. Pursuant to Article 41(2),146ef(1)(2) item 14 of Annex 3 to Act of 11 March 2004 on Goods and Services Tax reduced rate is applied to pharmaceutical products admitted to trading in the territory of Poland in accordance with the provisions of Act of 6 September 2001-Pharmaceutical Law and those that have obtained a permit issued by the Council of the EU or the European Commission (regardless of CN).",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "The Polish VAT rules do not provide for CN codes with respect to those items. Pursuant to Article 41(2), 146ef(1)(2), item 13 of Annex 3 to Act of 11 March 2004 on Goods and Services Tax reduced rate is applied to medical devices, accessories for medical devices, systems and procedure packs within the meaning of the Regulation (EU)2017/745 of The European Parliament and of the Council of 5 April 2017 on medical devices,  admitted to trading in the territory of Poland",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "The Polish VAT rules do not provide for CPA codes with respect to those services. Pursuant to Article 41(2), 146ef(1)(2), item 64, 65, 66, 68 of Annex 3 to Act of 11 March 2004 on Goods and Services Tax reduced rate is applied to admission to (regardless of CPA codes): artistic performances,including circus performances, cultural facilities;amusement parks,theme parks, discos, dance halls; libraries, archives, museums and other cultural services; other services related to leisure.",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "comment": "The Polish VAT rules do not provide for CPA codes to those services. Pursuant to Article 41(2), 146ef(1)(2),item 48 of Annex 3 to Act of 11March 2004 on Goods and Services Tax, the 8% rate is applied to services, other than electronic services (regardless of CPA codes), consisting in enabling reception of TV and radio programmes, within the meaning of Radio and TV Broadcasting regulations,by means of reception facilities,excluding rental of films and programmes at a time chosen by the recipient.",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "comment": "The Polish VAT rules do not provide for CPA codes with respect to those services. Pursuant to Article 41(2), 146ef(1)(2) item 63 of Annex 3 to Act of 11 March 2004 on Goods and Services Tax reduced rate is applied to services of authors and performers within the meaning of the Act of 4 February 1994 on copyright and related rights remunerated in the form of fees for the transfer or licensing of copyrights or rights to artistic performance (regardless of CPA codes).",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "The Polish VAT rules do not provide for CPA codes to those services. The 8% rate is applied to services regarding building structures or parts thereof included in house-construction covered by a social housing programme within the meaning of and in line with the rules laid down in Article 41, paragraphs 12-12e of Act of 11 March 2004 on Goods and Services Tax.",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "comment": "The Polish VAT rules do not provide for CPA codes to those services. The 8% rate is applied to services regarding building structures or parts thereof included in house-construction covered by a social housing programme within the meaning of and in line with the rules laid down in Article 41, paragraphs 12-12e of Act of 11 March 2004 on Goods and Services Tax.",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "comment": "The Polish VAT rules do not provide for CPA codes with respect to those services. Pursuant to Article 41(2), 146ef(1)(2), item 67 of Annex 3 to Act of 11 March 2004 on Goods and Services Tax the VAT reduced rate is applied to admission to sporting events regardless of CPA codes.",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": "(continuation) liming material,plant biostimulant,growing medium,fertilising product blend referred to in Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations(EC)No 1069/2009 and (EC)No 1107/2009 and repealing Regulation (EC) No 2003/2003,excluding mineral growing medium and growing medium for mushrooms and inhibitors",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "CONTINUATION:(regardless of CN codes) as well as to repair of such of goods and to in vitro diagnostic medical devices and accessories for in vitro diagnostic medical devices within the meaning of the Regulation (EU) 2017/746 of the European Parliament and of the Council of 5April2017 on in vitro diagnostic medical devices and repealing Directive98/79/EC and Commission Decision 2010/227/EU admitted to trading in the territory of Poland (regardless of CN codes) as well as to repair of such goods.",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": "(continuation) As regards CN codes:0511 (semen of certain animals), 09 (seeds),12 (except for human consumption); \r\nCPA Codes: 01.6 (exc. services of farriers and services relating to running farm animal shelters), CPA 02.40.10 (exc. forest patrolling ordered by units other than forest units and advising on forest management), 03.00.7 (exc. services related to sea fishery)",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TEMPORARY_EXEMPTION_RATE",
+   "category_description": "Temporary Exemptions, super-reduced or reduced rates (Article 105a(2) of the VAT Directive)",
+   "comment": "Certain beauty treatment services (CPA codes: 96.02.13, 96.02.14. (cosmetic treatment, manicuring and pedicuring services, at home) 96.02.19 - from 1 April 2024",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.02.13",
+     "description": "Cosmetic treatment, manicuring and pedicuring services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.19",
+     "description": "Other beauty treatment services"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.14",
+     "description": "Hairdressing and barbers services, cosmetic treatment, manicuring and pedicuring services, at home"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "23.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Dietary foods for special medical purposes regardless of CN code. As regards CN codes 12: (only for human consumption), 15 (only edible products), 1601-1604 (except for products containing sea food CN 1603 00, caviar CN 1604 31 00, caviar substitutes CN 1604 32 00)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "02",
+     "description": "CHAPTER 2 - MEAT AND EDIBLE MEAT OFFAL"
+    },
+    {
+     "kind": "CN",
+     "code": "0301",
+     "description": "Live fish"
+    },
+    {
+     "kind": "CN",
+     "code": "0302",
+     "description": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304"
+    },
+    {
+     "kind": "CN",
+     "code": "0303",
+     "description": "Fish, frozen, excluding fish fillets and other fish meat of heading 0304"
+    },
+    {
+     "kind": "CN",
+     "code": "0304",
+     "description": "Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0305",
+     "description": "Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process"
+    },
+    {
+     "kind": "CN",
+     "code": "04",
+     "description": "CHAPTER 4 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "0504 00 00",
+     "description": "Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "08",
+     "description": "CHAPTER 8 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+     "kind": "CN",
+     "code": "10",
+     "description": "CHAPTER 10 - CEREALS"
+    },
+    {
+     "kind": "CN",
+     "code": "11",
+     "description": "CHAPTER 11 - PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    },
+    {
+     "kind": "CN",
+     "code": "15",
+     "description": "CHAPTER 15 - ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES"
+    },
+    {
+     "kind": "CN",
+     "code": "1601 00",
+     "description": "Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products"
+    },
+    {
+     "kind": "CN",
+     "code": "1602",
+     "description": "Other prepared or preserved meat, meat offal, blood or insects"
+    },
+    {
+     "kind": "CN",
+     "code": "1603 00",
+     "description": "Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates"
+    },
+    {
+     "kind": "CN",
+     "code": "1604",
+     "description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs"
+    },
+    {
+     "kind": "CN",
+     "code": "19",
+     "description": "CHAPTER 19 - PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS' PRODUCTS"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "CONTINUATION OF THE ABOVE INDICATION/COMMENT\r\n\r\nAs regards CN codes: 20 (excluding products with alcohol content over 1,2%), 2106 (only fats of plant and/or animal products, some kinds of cheese, infant milk and follow-on milk), 2202 (only certain yoghurt, buttermilk not falling under chapter 4 of the CN code and not containg extracts, essences and concentrates of coffee, certain non-alcoholic fruit beverages, certain milk, infant milk and follow-on milk)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "20",
+     "description": "CHAPTER 20 - PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS"
+    },
+    {
+     "kind": "CN",
+     "code": "2104",
+     "description": "Soups and broths and preparations therefor; homogenised composite food preparations"
+    },
+    {
+     "kind": "CN",
+     "code": "2105 00",
+     "description": "Ice cream and other edible ice, whether or not containing cocoa"
+    },
+    {
+     "kind": "CN",
+     "code": "2106",
+     "description": "Food preparations not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "2202",
+     "description": "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other non-alcoholic beverages, not including fruit, nut or vegetable juices of heading 2009"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Sanitary towels (pads) and tampons, napkins and napkin liners for babies, and similar articles, of any material, menstrual cups (as of 1 April 2025)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3924 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00",
+     "description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Books, music scores, maps supplied electronically (other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music) are subject to 5% VAT rate regardless of CPA code.\r\nAs regards CN codes 4901 (excluding leaflets), 8523 (only books, music scores, maps on physical means of support)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905",
+     "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed"
+    },
+    {
+     "kind": "CN",
+     "code": "8523",
+     "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "As regards CN codes: 4902 (only regional or local periodicals), 4911 (only regional or local yearbooks),  8523 (only regional or local periodicals and yearbooks on physical means of support)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "4911",
+     "description": "Other printed matter, including printed pictures and photographs"
+    },
+    {
+     "kind": "CN",
+     "code": "8523",
+     "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CHILDREN_CAR_SEATS",
+   "category_description": "Supply of children’s car seats",
+   "comment": "The Polish VAT rules do not provide for CN codes with respect to those items. Pursuant to Article 41(2a), item 23 of Annex 10 to Act of 11 March 2004 on Goods and Services Tax reduced rate is applied to car seats for children regardless of CN Code.",
+   "codes": []
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Goods listed in Annex 3 to the Polish VAT Act.\r\nFeedingstuffs for livestock and petfood (regardless of CN code): As regards CN codes: 0106 (only rabbits, ostriches, bees, silkworms, bumblebees, arthropods, trained dogs for the blind), 2101 (only roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0101",
+     "description": "Live horses, asses, mules and hinnies"
+    },
+    {
+     "kind": "CN",
+     "code": "0102",
+     "description": "Live bovine animals"
+    },
+    {
+     "kind": "CN",
+     "code": "0103",
+     "description": "Live swine"
+    },
+    {
+     "kind": "CN",
+     "code": "0104",
+     "description": "Live sheep and goats"
+    },
+    {
+     "kind": "CN",
+     "code": "0105",
+     "description": "Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls"
+    },
+    {
+     "kind": "CN",
+     "code": "0106",
+     "description": "Other live animals"
+    },
+    {
+     "kind": "CN",
+     "code": "0904",
+     "description": "Pepper of the genus Piper; dried or crushed or ground fruit of the genus Capsicum or of the genus Pimenta"
+    },
+    {
+     "kind": "CN",
+     "code": "0905",
+     "description": "Vanilla"
+    },
+    {
+     "kind": "CN",
+     "code": "0906",
+     "description": "Cinnamon and cinnamon-tree flowers"
+    },
+    {
+     "kind": "CN",
+     "code": "0907",
+     "description": "Cloves (whole fruit, cloves and stems)"
+    },
+    {
+     "kind": "CN",
+     "code": "0908",
+     "description": "Nutmeg, mace and cardamoms"
+    },
+    {
+     "kind": "CN",
+     "code": "0909",
+     "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries"
+    },
+    {
+     "kind": "CN",
+     "code": "0910",
+     "description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices"
+    },
+    {
+     "kind": "CN",
+     "code": "1701",
+     "description": "Cane or beet sugar and chemically pure sucrose, in solid form"
+    },
+    {
+     "kind": "CN",
+     "code": "1702",
+     "description": "Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel"
+    },
+    {
+     "kind": "CN",
+     "code": "1703",
+     "description": "Molasses resulting from the extraction or refining of sugar"
+    },
+    {
+     "kind": "CN",
+     "code": "2101",
+     "description": "Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "2103",
+     "description": "Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Goods listed in Annex 3 to the Polish VAT Act.\r\nAs regards CN codes (continuation): 2106  (exc. for fats of plant and/or animal products, certain kinds of cheese, infant milk and follow-on milk, products with an alcohol content over 1,2%), 3503 (only gelatin and its derivatives)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2106",
+     "description": "Food preparations not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "3503 00",
+     "description": "Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "comment": "As regards CN 2201 only water supplies by distrubition networks, tanks, other transport modes",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2201",
+     "description": "Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow"
+    },
+    {
+     "kind": "CPA",
+     "code": "36.00.20",
+     "description": "Treatment and distribution services of water through mains"
+    },
+    {
+     "kind": "CPA",
+     "code": "36.00.30",
+     "description": "Trade services of water through mains"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "Periodicals supplied electronically (other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music) are subject to 8% VAT rate regardless of CPA code. \r\nAs regards CN codes: 4902 (periodicals other than regional or local ones), 8523 (only periodicals on physical means of support other than regional or local ones)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "8523",
+     "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHOTOGRAPHS",
+   "category_description": "Photographs taken by the artist, printed by him or under his supervision, signed and numbered and limited to 30 copies, all sizes and mounts included",
+   "comment": "The Polish VAT rules, following the VAT Directive, do not provide for CN codes with respect to those items (the CN code 4911 91 is provided illustratively only).",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4911",
+     "description": "Other printed matter, including printed pictures and photographs"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TAPESTRIES",
+   "category_description": "Tapestries (CN code 5805 00 00) and wall textiles (CN code 6304 00 00) made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "5805 00 00",
+     "description": "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up"
+    },
+    {
+     "kind": "CN",
+     "code": "6304",
+     "description": "Other furnishing articles, excluding those of heading 9404"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Comments (continuation) 8% VAT rate is applied to certain equipment for blind persons (CN codes: 8442 30 00, 8471, 8472 90). Devices for writing and reading texts in Braille are subject to the reduced rate regardless of CN codes.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8442 30 00",
+     "description": "Machinery, apparatus and equipment"
+    },
+    {
+     "kind": "CN",
+     "code": "8471",
+     "description": "Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "8472 90 80",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PICTURES",
+   "category_description": "Pictures, collages and similar decorative plaques, paintings and drawings, executed entirely by hand by the artist, other than plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, hand-decorated manufactured articles, theatrical scenery, studio back cloths or the like of painted canvas (CN code 9701)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9701",
+     "description": "Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufactured articles; collages, mosaics and similar decorative plaques"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "IMPRESSIONS",
+   "category_description": "Original engravings, prints and lithographs, being impressions produced in the limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process (CN code 9702 00 00)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9702 00 00",
+     "description": "Original engravings, prints and lithographs"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SCULPTURES",
+   "category_description": "Original sculptures and statuary, in any material, provided that they are executed entirely by the artists",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9703 00 00",
+     "description": "Original sculptures and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SCULPTURE_CASTS",
+   "category_description": "Sculpture casts the production of which is limited to eight copies and supervised by the artist or his successors in title (CN code 9703 00 00) on an exceptional basis, in cases determined by the Member States, the limit of eight copies may be exceeded for statuary casts produced before 1 January 1989",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9703 00 00",
+     "description": "Original sculptures and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "POSTAGE",
+   "category_description": "Postage or revenue stamps, postmarks, first-day covers, pre-stamped stationery and the like, used, or if unused not current and not intended to be current (CN code 9704 00 00)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9704 00 00",
+     "description": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ZOOLOGICAL",
+   "category_description": "Importation of collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, paleontological, ethnographic or numismatic interest (CN code 9705 00 00)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9705 00 00",
+     "description": "Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, palaeontological, ethnographic or numismatic interest"
+    }
+   ]
+  },
+  {
+   "member_state": "PL",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "situation_on": "2026-07-01",
+   "category_id": "100_YEARS_OLD",
+   "category_description": "Goods, other than works of art or collector’s items, which are more than 100 years old (CN code 9706 00 00)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9706 00 00",
+     "description": "Antiques of an age exceeding 100 years"
+    }
+   ]
+  }
+ ]
+}

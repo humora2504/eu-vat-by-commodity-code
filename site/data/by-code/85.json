@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "85",
+ "entries": [
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "code_kind": "CPA",
+   "code_description": "Education services",
+   "comment": null,
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CY",
+   "country": "Cyprus",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "BOOKS",
+   "category_description": "Books",
+   "code_kind": "CN",
+   "code_description": "CHAPTER 85 - ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES",
+   "comment": "Books under tariff code 49.01-49.05\r\nAudio books for persons with disability under tariff code 85.23",
+   "situation_on": "2026-01-01"
+  },
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CPA",
+   "code_description": "Education services",
+   "comment": "Supply, including on loan by libraries, of books, picture books, drawing or colouring books, brochures, music and maps, including audio recordings of their content (other than those where advertising exceeds 50% of their content, or those that consist wholly or mainly of video content or audible music). It also applies to electronic versions (e-books, etc.).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LV",
+   "country": "Latvia",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "code_kind": "CPA",
+   "code_description": "Education services",
+   "comment": "The fee set by an association or foundation for participation in sports competitions and for sports lessons. Provided that the purpose of the services provided is not to generate additional income for this association or foundation.\n(Section 52, Paragraph 1, Clauses 14.1 and 14.2 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

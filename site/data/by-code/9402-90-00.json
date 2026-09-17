@@ -1,0 +1,102 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9402 90 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Royal Decree N° 20, Table A, category  XXIII, N° 11 - external defibrillators (ED)\r\n\r\nThe reduce rates only apply for: \r\n- batteries intended for ED: 8506 5090 90, 8507 6000 90\r\n- specific software and specific data storage card + Remotes for ED: \r\n8523 5110, 8523 5190, 8543 7090\r\n- ED: 9018 9084\r\n- first aid or intervention kits linked to the use of the external defibrillator 9019 2000\r\n- cabinets specially designed for the storage of ED: 9402 9000",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "This reduced rate applies only to care beds and beds accessories: — beds; 9402 90 00  — bedtables; 9403 2080 — bed straps; 7308 90 98 — head elevators;7326 90 98.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Diagnostic instrumentation for COVID-19; swabs for clinical analyzes; sterile test tubes; equipment for the construction of field hospitals (hospital beds, tents, plastic tents)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Articles of protective clothing for health purposes such as latex, vinyl and nitrile gloves, protective goggles and visors, protective suits, footwear and overshoes, caps, waterproof gowns, surgical gowns; thermometers; disinfectant hand cleaners; wall dispenser for disinfectants; hydroalcoholic solution in liters; 3 percent peroxide in liters; emergency trolleys; RNA extractors;",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LT",
+   "country": "Lithuania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Disabled technical aids and/or accessories, as listed in Order no. A1-338,  approved by the Minister of Social Security and Labor in 2006 December 19th or others (non-exhaustive list of technical assistance measures with different conditions of supply (must be documented for dissability purposes or  dissabled person's actual use) of such measures; see Comment on VAT Law on STI website)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "This reduced rate applies to the following items (and CN codes) for the exclusive use of the disabled (part 4):\r\n- car adaptation-handcontrols, swivel seats (9401 30 10 and 9401 30 90);\r\n- toilet frames/surrounds (9401 79 00);\r\n- special feeder chairs (9402 90 00);\r\n- mouthsticks (9608 39 90)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Tabel I prov. a.34 and b.1: carriages and crutches for the disabled; stand-up chairs; high-low beds. A vehicle for the disabled is defined as a means of transport that is designed to be used by a disabled person. The term can also include motor vehicles which are equipped for use by a disabled person. \r\n\r\nOnly carriages that within social standards are regarded as a vehicle for the invalid on the basis of its destination and presentation are included.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

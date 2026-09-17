@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1702 90 80",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Inulin syrup",
+   "comment": "Other sugars in solid form, excluding flavoured or coloured ones; non-flavored or colored sugar syrups; honey substitutes, whether or not mixed with natural honey; caramelized sugars and molasses, intended for human or animal consumption.\r\n1702 11, 1702 19, 1702 2090, 1702 30, 1702 40, 1702 9030, 1702 9050, 1702 9071, 1702 9075, 1702 9079, 17029080, 17029095 as long as not flavoured or coloured, and caramelized sugars and molasses for human or animal consumption.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

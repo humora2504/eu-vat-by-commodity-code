@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0306 35",
+ "entries": [
+  {
+   "member_state": "HR",
+   "country": "Croatia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",
+   "comment": "Edible oils and fats of vegetable or animal origin, baby foods and processed cereal-based foods for infants and young children and food for animals other than pet food, live animals, fresh or chilled meat and edible offal, fresh or chilled fish, molluscs or other aquatic invertebrates, fresh or chilled crustaceans, fresh or chilled crustaceans, fresh and dried fruits and nuts, fresh or chilled vegetables, roots and tubers, including dried leguminous vegetables, fresh poultry eggs in shell.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",
+   "comment": "Fresh fish live or dead chilled frozen or deep-frozen intended for food use simply salted or in brine dried or smoked Crustaceans&amp;molluscs including testaceans whether or not separated from their shells fresh chilled frozen or deep-frozen dried salted or in brine, excluding lobsters and crawfish and oysters; crustaceans in shell simply cooked in water or by steaming excluding lobsters and crawfish.\r\n030192,030193,030194,030195,03019903 only human consumption.\r\nIncluding 0306 399020,0306 999020",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "96.02.14",
+ "entries": [
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "code_kind": "CPA",
+   "code_description": "Hairdressing and barbers services, cosmetic treatment, manicuring and pedicuring services, at home",
+   "comment": "As regards CPA code 96.02.14 (only hairdressing at home).",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "TEMPORARY_EXEMPTION_RATE",
+   "category_description": "Temporary Exemptions, super-reduced or reduced rates (Article 105a(2) of the VAT Directive)",
+   "code_kind": "CPA",
+   "code_description": "Hairdressing and barbers services, cosmetic treatment, manicuring and pedicuring services, at home",
+   "comment": "Certain beauty treatment services (CPA codes: 96.02.13, 96.02.14. (cosmetic treatment, manicuring and pedicuring services, at home) 96.02.19 - from 1 April 2024",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

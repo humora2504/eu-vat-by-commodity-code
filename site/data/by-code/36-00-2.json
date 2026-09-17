@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "36.00.2",
+ "entries": [
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "SUPPLY_WATER",
+   "category_description": "Supply of water",
+   "code_kind": "CPA",
+   "code_description": "Treatment and distribution services of water",
+   "comment": "Drinking water.\r\nTreatment and distribution services of water through mains. Collection and treatment of wastewater and sewage.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

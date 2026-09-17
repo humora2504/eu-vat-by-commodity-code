@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "66.19.99",
+ "entries": [
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "code_kind": "CPA",
+   "code_description": "Other miscellaneous services auxiliary to financial services, except insurance and pension funding, n.e.c.",
+   "comment": "Management and safekeeping of securities; management of credit and credit guarantees by a person other than the person who granted the credits",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

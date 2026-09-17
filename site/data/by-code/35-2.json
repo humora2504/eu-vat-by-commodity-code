@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "35.2",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "SUPPLY_GAS",
+   "category_description": "Supply of natural gas",
+   "code_kind": "CPA",
+   "code_description": "Manufactured gas; distribution services of gaseous fuels through mains",
+   "comment": "Supply of methane gas used for combustion for civil uses limited to 480 cubic meters per year; supply, via distribution networks, of liquefied petroleum gases for domestic purposes for cooking food and for the production of hot water, liquefied petroleum gas contained by or intended to be placed in cylinders from 10 to 20 kg at any stage of marketing.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

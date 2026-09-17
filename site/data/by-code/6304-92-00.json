@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "6304 92 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "code_kind": "CN",
+   "code_description": "Not knitted or crocheted, of cotton",
+   "comment": "RD N° 20, Table A, category XXI; For CN codes 9701 90 00, 9706 00 00 and 4911 91 00: excl. utensils and for CN code (9706 00 00): excl. articles composed of dried or preserved plants, animals or parts thereof, presented in such a way (e.g. in blocks of plastic, behind glass or between two sheets of glass stuck together) that because of their decorative appearance they are intended to decorate houses -stuffed animals and parts of stuffed animals made in large quantities from the same species",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "ES",
+   "country": "Spain",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "TAPESTRIES",
+   "category_description": "Tapestries (CN code 5805 00 00) and wall textiles (CN code 6304 00 00) made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "code_kind": "CN",
+   "code_description": "Not knitted or crocheted, of cotton",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "code_kind": "CN",
+   "code_description": "Not knitted or crocheted, of cotton",
+   "comment": "Wall textiles made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "TAPESTRIES",
+   "category_description": "Tapestries (CN code 5805 00 00) and wall textiles (CN code 6304 00 00) made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "code_kind": "CN",
+   "code_description": "Not knitted or crocheted, of cotton",
+   "comment": "The reduced rate applies to imports and to supplies made by the artist or the artist’s estate, please see chapter 9 section 6 in the Swedish VAT Act (https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/mervardesskattelag-2023200_sfs-2023-200#K9).",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

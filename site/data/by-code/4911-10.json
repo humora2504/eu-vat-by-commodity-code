@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "4911 10",
+ "entries": [
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "category_id": "NEW_PARKING_RATE",
+   "category_description": "Parking rates (Article 105a(3) of the VAT Directive)",
+   "code_kind": "CN",
+   "code_description": "Trade advertising material, commercial catalogues and the like",
+   "comment": "Trade advertising material; commercial catalogues and the like; tourist publicity",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "14.0",
+   "category_id": "PRINTED_ADVERTISING_MATERIAL",
+   "category_description": "Printed advertising material, trade catalogues and the like; tourist propaganda publications",
+   "code_kind": "CN",
+   "code_description": "Trade advertising material, commercial catalogues and the like",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CN",
+   "code_description": "Trade advertising material, commercial catalogues and the like",
+   "comment": "(i) Not applicable to library loans, and \"production of publications of non-profit-making organisations and services related to such production\".\r\n\r\n(ii) This reduced rate has been extended to also include e-books.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

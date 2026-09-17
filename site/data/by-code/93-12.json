@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "93.12",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "code_kind": "CPA",
+   "code_description": "Services of sports clubs",
+   "comment": "Services provided by institutions not systemically aiming to make a profit and assigning revenues are only used to cover operational expenses according to article 44, § 2, 3° of the Belgian VAT Code. The VAT exemption only applies to the codes 93.11 and 93.12 if the latter conditions are met",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "code_kind": "CPA",
+   "code_description": "Services of sports clubs",
+   "comment": "Admission to and use of sports facilities according to Royal Decree N° 20, Table A, category XXVIII with the exception of the:\r\n- right to use automatic entertainment devices\r\n- putting at disposal of movable goods",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "CZ",
+   "country": "Czechia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "code_kind": "CPA",
+   "code_description": "Services of sports clubs",
+   "comment": "Admission to sporting events; use of indoor and outdoor sports facilities for sports activities; services related to the operation of recreational parks and beaches; operation of ski slopes.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "code_kind": "CPA",
+   "code_description": "Services of sports clubs",
+   "comment": "Tabel I prov. b.3 and b.14, f: the granting of (physical) access to spectators of sports competitions, demonstrations and the like. Sports competitions are events where people actively participate in sports. Sports demonstrations are, for example, shows of the Harlem Globetrotters (basketball), performances of the Spanish Riding School (horse dressage) and shows of Wrestlemania (wrestling); use of sporting facilities.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "56.21.01",
+ "entries": [
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "RESTAURANT",
+   "category_description": "Restaurant and catering services, it being possible to exclude the supply of (alcoholic and/or non-alcoholic) beverages",
+   "code_kind": "CPA",
+   "code_description": "Event catering services of private households",
+   "comment": "The reduced VAT rate is applied for restaurant and catering services, excluding alcoholic beverages as well as non-alcoholic beverages, falling within CN codes 2202. For details see art. 291 para. (2) letter n) of the Fiscal Code corroborated with point 37 para. (15) of the Methodological Norms.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

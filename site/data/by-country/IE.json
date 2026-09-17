@@ -1,0 +1,814 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "IE",
+ "country": "Ireland",
+ "rates": [
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "The Zero Rate of VAT applies to the supply of foodstuffs like bread, butter, cheese, cereals, condiments, flour, fruit, herbs, meat, milk, pasta, pastes, sauces, soups, spices, sugar and vegetables, (fresh or frozen). This is not an exhaustive list, but an indicative one. When supplied in the course of catering or from a vending machine, these foods become liable to the reduced rate. Certain other foods are Standard Rated.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0201",
+     "description": "Meat of bovine animals, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0304",
+     "description": "Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0401",
+     "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "0805",
+     "description": "Citrus fruit, fresh or dried"
+    },
+    {
+     "kind": "CN",
+     "code": "1905",
+     "description": "Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "The supply of bakery products, such as cakes, certain biscuits, bagels and croissants, (being flour or egg based) is liable to VAT at the reduced rate  . This applies when the products are served with meals or supplied as a cold take-away. The supply of bread that meets the ingredient definition in Irish VAT legislation is liable to the zero rate. Food Supplement Products are also subject to the reduced rate.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1905",
+     "description": "Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 20",
+     "description": "Gingerbread and the like"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2106",
+     "description": "Food preparations not elsewhere specified or included"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Animal feeding stuffs, (other than that which is packaged, sold, or otherwise for dogs, cats, cage birds or domestic pets, which is Standard-rated)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2308 00",
+     "description": "Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Human Oral Medicine, Oral and Non-oral hormone replacement therapy, Oral and Non-oral Nicotine Replacement Therapy, Oral Contraception, and sanitary products are zero-rated for VAT purposes (e. Animal Oral medicine is also zero-rated (excluding medicine for dogs, cats, cage birds or domestic pets, which is standard rated. All non-oral animal medicines are also standard rated.)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "30",
+     "description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 60 00",
+     "description": "Chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00 40",
+     "description": "Sanitary towels (pads), tampons and similar articles"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "The Zero Rate applies to newspapers, printed books, e-books, audiobooks, atlases, annual publications, children’s picture, colouring and music books. For a printed booklet to qualify for the zero rating, it must consist of essentially pictorial or textual matter, must have a distinctive front cover devoid of body text, must be no less than eight pages (excluding the cover) and must be bound, stitched or stapled.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4905",
+     "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Comments Certain Medical equipment, aids and their parts are at the 0% VAT rate. This includes, invalid carriages, orthopaedic appliances, surgical belts, artificial limbs, artificial parts of the body,  and deaf aids, walking frames, crutches, and parts of same. This does not include artificial teeth, corrective spectacles, or contact lenses. For specific queries, more detail can be found on the Revenue Commissioner's VAT Rates Database - https://www.revenue.ie/en/vat/vat-rates/index.aspx",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8713",
+     "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled"
+    },
+    {
+     "kind": "CN",
+     "code": "9021",
+     "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SOLAR_PANELS",
+   "category_description": "Supply and installation of solar panels on and adjacent to private dwellings, housing and public and other buildings used for activities in the public interest",
+   "comment": "Zero rate of VAT applies to the supply and installation of solar panels in private dwellings (from 1 May 2023); and to primary and secondary schools from 1 January 2024.\r\nA 9% VAT rate applies to the supply and installation of heat pump systems from 1 January 2025. HS Code 84139190",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8541 43 00",
+     "description": "Photovoltaic cells assembled in modules or made up into panels"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "86.90.19",
+     "description": "Other human health services n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.23.1",
+     "description": "Repair services of footwear and leather goods"
+    },
+    {
+     "kind": "CPA",
+     "code": "95.23.10",
+     "description": "Repair services of footwear and leather goods"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "NOT_APPLICABLE",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CLOTHING_REPAIR",
+   "category_description": "Minor repairs of clothing and household linen (including mending and alteration)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "95.29.11",
+     "description": "Repair and alteration services of garment and household textile articles"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Restaurant food, food served in canteens, and take away food is subject to the reduced rate of VAT of 9%.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1905",
+     "description": "Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 31",
+     "description": "Sweet biscuits"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2106",
+     "description": "Food preparations not elsewhere specified or included"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.10",
+     "description": "Restaurant and mobile food serving services"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.10.1",
+     "description": "Restaurant and mobile food serving services"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.29",
+     "description": "Other food serving services"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "9% applies to brochures, leaflets, programmes, catalogues, directories, maps, hydrographic and similar charts, and printed music- other than in book or booklet form; excluding matter devoted to advertising. The rate for these items was temporarily reduced from 13.5% to 9% from 1 November 2020 to 31 August 2023.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905",
+     "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed"
+    },
+    {
+     "kind": "CN",
+     "code": "4905 91 00",
+     "description": "In book form"
+    },
+    {
+     "kind": "CN",
+     "code": "4910 00 00",
+     "description": "Calendars of any kind, printed, including calendar blocks"
+    },
+    {
+     "kind": "CN",
+     "code": "4911 10 10",
+     "description": "Commercial catalogues"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.01.1",
+     "description": "Library and archive services"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "9% applies to periodicals (in printed form or electronically supplied), and electronically supplied books, excluding publications wholly or predominantly dedicated to advertising, and electronic publications which consist wholly or predominantly of audible music or video content.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "RESTAURANT",
+   "category_description": "Restaurant and catering services, it being possible to exclude the supply of (alcoholic and/or non-alcoholic) beverages",
+   "comment": "9% VAT from 01/07/2026",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56.10",
+     "description": "Restaurant and mobile food serving services"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.10.11",
+     "description": "Meal serving services with full restaurant service"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.21",
+     "description": "Event catering services"
+    },
+    {
+     "kind": "CPA",
+     "code": "56.21.1",
+     "description": "Event catering services"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "comment": "9% rate applies from 01/07/2026",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.02.11",
+     "description": "Hairdressing services for women and girls"
+    },
+    {
+     "kind": "CPA",
+     "code": "96.02.12",
+     "description": "Hairdressing and barbers' services for men and boys"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Non-oral contraceptive products are liable at the 13.5% rate, including condoms and contraceptive gels. \r\nNon-oral pharmaceutical products are standard-rated. For specific queries, more detail can be found on the Revenue Commissioner's VAT Rates Database - https://www.revenue.ie/en/vat/vat-rates/index.aspx",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3006 60 00",
+     "description": "Chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides"
+    },
+    {
+     "kind": "CN",
+     "code": "4014 10 00",
+     "description": "Sheath contraceptives"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "PHOTOGRAPHS",
+   "category_description": "Photographs taken by the artist, printed by him or under his supervision, signed and numbered and limited to 30 copies, all sizes and mounts included",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4911 91 00",
+     "description": "Pictures, designs and photographs"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "TAPESTRIES",
+   "category_description": "Tapestries (CN code 5805 00 00) and wall textiles (CN code 6304 00 00) made by hand from original designs provided by artists, provided that there are not more than eight copies of each",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "5805 00 00",
+     "description": "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up"
+    },
+    {
+     "kind": "CN",
+     "code": "6304",
+     "description": "Other furnishing articles, excluding those of heading 9404"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "CERAMICS",
+   "category_description": "Individual pieces of ceramics executed entirely by the artist and signed by him",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "6913 90 93",
+     "description": "Earthenware or fine pottery"
+    },
+    {
+     "kind": "CN",
+     "code": "6913 90 98",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8201",
+     "description": "Hand tools, the following: spades, shovels, mattocks, picks, hoes, forks and rakes; axes, billhooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.61.10",
+     "description": "Support services to crop production"
+    },
+    {
+     "kind": "CPA",
+     "code": "01.62.1",
+     "description": "Support services to animal production"
+    },
+    {
+     "kind": "CPA",
+     "code": "28.30.9",
+     "description": "Sub-contracted operations as part of manufacturing of agricultural and forestry machinery"
+    },
+    {
+     "kind": "CPA",
+     "code": "33.12.21",
+     "description": "Repair and maintenance services of agricultural and forestry machinery"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Repairs to medical equipment apply at the 13.5% rate.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9401 20 00",
+     "description": "Seats of a kind used for motor vehicles"
+    },
+    {
+     "kind": "CPA",
+     "code": "33.12.29",
+     "description": "Repair and maintenance services of other special-purpose machinery"
+    },
+    {
+     "kind": "CPA",
+     "code": "33.19.10",
+     "description": "Repair services of other equipment"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "PICTURES",
+   "category_description": "Pictures, collages and similar decorative plaques, paintings and drawings, executed entirely by hand by the artist, other than plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, hand-decorated manufactured articles, theatrical scenery, studio back cloths or the like of painted canvas (CN code 9701)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9701",
+     "description": "Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufactured articles; collages, mosaics and similar decorative plaques"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "IMPRESSIONS",
+   "category_description": "Original engravings, prints and lithographs, being impressions produced in the limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process (CN code 9702 00 00)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9702 00 00",
+     "description": "Original engravings, prints and lithographs"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "SCULPTURES",
+   "category_description": "Original sculptures and statuary, in any material, provided that they are executed entirely by the artists",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9703 00 00",
+     "description": "Original sculptures and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "SCULPTURE_CASTS",
+   "category_description": "Sculpture casts the production of which is limited to eight copies and supervised by the artist or his successors in title (CN code 9703 00 00) on an exceptional basis, in cases determined by the Member States, the limit of eight copies may be exceeded for statuary casts produced before 1 January 1989",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9703 00 00",
+     "description": "Original sculptures and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "ENAMELS",
+   "category_description": "Enamels on copper, executed entirely by hand, limited to eight numbered copies bearing the signature of the artist or the studio, excluding articles of jewellery and goldsmith’s and silversmith’s wares",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9703 00 00",
+     "description": "Original sculptures and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "100_YEARS_OLD",
+   "category_description": "Goods, other than works of art or collector’s items, which are more than 100 years old (CN code 9706 00 00)",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9706 00 00",
+     "description": "Antiques of an age exceeding 100 years"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "9% applies to the supply and construction of apartments\r\n13.5% VAT applies to all other construction",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.3",
+     "description": "Construction works for residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "41.00.30",
+     "description": "Construction works for residential buildings (new works, additions, alterations and renovation works)"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "PRIVATE_DWELLINGS",
+   "category_description": "The renovation and repair of private dwellings, excluding materials which account for a significant part of the value of the service supplied",
+   "comment": "13.5% VAT applies to all other construction",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.3",
+     "description": "Construction works for residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "41.00.30",
+     "description": "Construction works for residential buildings (new works, additions, alterations and renovation works)"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55.10",
+     "description": "Hotel and similar accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.30",
+     "description": "Camping grounds and recreational vehicle parks services"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "WINDOW_CLEANING",
+   "category_description": "Window cleaning and cleaning in private households",
+   "comment": "13.5% VAT applies to all other construction",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "81.21.10",
+     "description": "General cleaning services of buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "81.22.11",
+     "description": "Window cleaning services"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "STREET_CLEANING",
+   "category_description": "Supply of services provided in connection with street cleaning, refuse collection and waste treatment, other than the supply of such services by bodies referred to in Article 13",
+   "comment": "Street cleaning and refuse collecting apply at the 13.5% rate, waste treatment is at the standard VAT rate of 23%.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "84.12.13",
+     "description": "Administrative housing and community amenity services"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "The rate for these items was temporarily reduced from 13.5% to 9% from 1 November 2020 to 31 August 2023.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "90.04.10",
+     "description": "Arts facility operation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.02",
+     "description": "Museum services"
+    }
+   ]
+  },
+  {
+   "member_state": "IE",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "23.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": "&lt;p&gt;The Standard Rate of VAT was temporarily reduced from 23% to 21% from 1 September 2020 to 28 February 2021. It has been restored to 23% from 1 March 2021.&lt;/p&gt;",
+   "codes": []
+  }
+ ]
+}

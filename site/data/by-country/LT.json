@@ -1,0 +1,534 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "LT",
+ "country": "Lithuania",
+ "rates": [
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Disabled technical aids and/or accessories, as listed in Order no. A1-338,  approved by the Minister of Social Security and Labor in 2006 December 19th or others (non-exhaustive list of technical assistance measures with different conditions of supply (must be documented for dissability purposes or  dissabled person's actual use) of such measures; see Comment on VAT Law on STI website)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3922 20 00",
+     "description": "Lavatory seats and covers"
+    },
+    {
+     "kind": "CN",
+     "code": "3922 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3926 90 97",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4016 95 00",
+     "description": "Other inflatable articles"
+    },
+    {
+     "kind": "CN",
+     "code": "4016 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "4203 30 00",
+     "description": "Belts and bandoliers"
+    },
+    {
+     "kind": "CN",
+     "code": "6212 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "6602 00 00",
+     "description": "Walking sticks, seat-sticks, whips, riding-crops and the like"
+    },
+    {
+     "kind": "CN",
+     "code": "8215 20",
+     "description": "Other sets of assorted articles"
+    },
+    {
+     "kind": "CN",
+     "code": "8428 90",
+     "description": "Other machinery"
+    },
+    {
+     "kind": "CN",
+     "code": "8471 60",
+     "description": "Input or output units, whether or not containing storage units in the same housing"
+    },
+    {
+     "kind": "CN",
+     "code": "8472 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8517 11 00",
+     "description": "Line telephone sets with cordless handsets"
+    },
+    {
+     "kind": "CN",
+     "code": "8517 62 00",
+     "description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "8543 70",
+     "description": "Other machines and apparatus"
+    },
+    {
+     "kind": "CN",
+     "code": "8712 00",
+     "description": "Bicycles and other cycles (including delivery tricycles), not motorised"
+    },
+    {
+     "kind": "CN",
+     "code": "8713",
+     "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled"
+    },
+    {
+     "kind": "CN",
+     "code": "8714 20 00",
+     "description": "Of carriages for disabled persons"
+    },
+    {
+     "kind": "CN",
+     "code": "9017 80",
+     "description": "Other instruments"
+    },
+    {
+     "kind": "CN",
+     "code": "9021",
+     "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability"
+    },
+    {
+     "kind": "CN",
+     "code": "9026 10",
+     "description": "For measuring or checking the flow or level of liquids"
+    },
+    {
+     "kind": "CN",
+     "code": "9102",
+     "description": "Wristwatches, pocket-watches and other watches, including stopwatches, other than those of heading 9101"
+    },
+    {
+     "kind": "CN",
+     "code": "9401 71 00",
+     "description": "Upholstered"
+    },
+    {
+     "kind": "CN",
+     "code": "9401 79 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9402 90 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CPA",
+     "code": "33.20.41",
+     "description": "Installation services of professional medical machinery and precision and optical instruments"
+    },
+    {
+     "kind": "CPA",
+     "code": "33.13.02",
+     "description": "Repair and maintenance services of irradiation, electromedical and electrotherapeutic equipment"
+    },
+    {
+     "kind": "CPA",
+     "code": "33.17.09",
+     "description": "Repair and maintenance services of other civilian transport equipment n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "33.19.00",
+     "description": "Repair and maintenance services of other equipment"
+    },
+    {
+     "kind": "CPA",
+     "code": "77.22.09",
+     "description": "Rental and leasing services of other personal and household goods n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "77.39.09",
+     "description": "Rental and leasing services of other machinery and equipment without operator and tangible goods n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "95.29.09",
+     "description": "Repair and maintenance services of other personal and household goods n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Applicable for medicaments, medical aids and food products for special medical purposes, fully or partially compensated by the Compulsory Health Insurance Fund (at the moment of acquisition), as well as for all non-compensated prescribed medicines (entered into the Lithuanian or EU register of prescribed medications)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1901 10 00",
+     "description": "Preparations suitable for infants or young children, put up for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "1901 20 00",
+     "description": "Mixes and doughs for the preparation of bakers' wares of heading 1905"
+    },
+    {
+     "kind": "CN",
+     "code": "1901 90 91",
+     "description": "Containing no milkfats, sucrose, isoglucose, glucose or starch or containing less than 1,5 % milkfat, 5 % sucrose (including invert sugar) or isoglucose, 5 % glucose or starch, excluding food preparations in powder form of goods of headings 0401 to 0404"
+    },
+    {
+     "kind": "CN",
+     "code": "1901 90 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2202 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "30",
+     "description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS"
+    },
+    {
+     "kind": "CN",
+     "code": "3821 00 00",
+     "description": "Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells"
+    },
+    {
+     "kind": "CN",
+     "code": "4818",
+     "description": "Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width not exceeding 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, serviettes, bedsheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres"
+    },
+    {
+     "kind": "CN",
+     "code": "5208",
+     "description": "Woven fabrics of cotton, containing 85 % or more by weight of cotton, weighing not more than 200 g/m2"
+    },
+    {
+     "kind": "CN",
+     "code": "5601",
+     "description": "Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock), textile dust and mill neps"
+    },
+    {
+     "kind": "CN",
+     "code": "8713",
+     "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled"
+    },
+    {
+     "kind": "CN",
+     "code": "9018",
+     "description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electromedical apparatus and sight-testing instruments"
+    },
+    {
+     "kind": "CN",
+     "code": "9021",
+     "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability"
+    },
+    {
+     "kind": "CN",
+     "code": "9619 00",
+     "description": "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material"
+    },
+    {
+     "kind": "CN",
+     "code": "1901 90 95",
+     "description": "Food preparations in powder form, consisting of a blend of skimmed milk and/or whey and vegetable fats/oils, with a content of fats/oils not exceeding 30 % by weight"
+    },
+    {
+     "kind": "CN",
+     "code": "3822",
+     "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits, other than those of heading 3006; certified reference materials"
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Applies for printed and electronic books as well as printed and electronic non-periodical information publications (see non-exhaustive most common publications supplied list in Comment of VAT Law on the STI website)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905",
+     "description": "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed"
+    },
+    {
+     "kind": "CN",
+     "code": "4906 00 00",
+     "description": "Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; handwritten texts; photographic reproductions on sensitised paper and carbon copies of the foregoing"
+    },
+    {
+     "kind": "CN",
+     "code": "4911",
+     "description": "Other printed matter, including printed pictures and photographs"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.20",
+     "description": "E-books"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.50",
+     "description": "Publishing of books on a fee or contract basis"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.32",
+     "description": "Online audio books"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.11.00",
+     "description": "Library services"
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "With the exception of erotic and/or violent publications, or publications non-compliant with the professional ethics. Applies for  printed and (or) electronic newspapers, magazines and other periodicals.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.12.20",
+     "description": "Online newspapers"
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "With the exception of erotic and/or violent publications, or publications non-compliant with the professional ethics. Applies for printed and (or) electronic periodicals.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.13.20",
+     "description": "Online journals and periodicals"
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Applies only for established domestic regular routes",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.31.21",
+     "description": "Interurban special-purpose scheduled passenger transport services by road"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.31.22",
+     "description": "Other interurban scheduled passenger transport services by road"
+    },
+    {
+     "kind": "CPA",
+     "code": "50.10.11",
+     "description": "Sea and coastal passenger water transport services by ferries"
+    },
+    {
+     "kind": "CPA",
+     "code": "50.10.19",
+     "description": "Sea and coastal passenger water transport services n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "50.30.11",
+     "description": "Inland passenger water transport services by ferries"
+    },
+    {
+     "kind": "CPA",
+     "code": "50.30.19",
+     "description": "Inland passenger water transport services n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "51.10.11",
+     "description": "Domestic scheduled air transport services of passengers"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.11.00",
+     "description": "Passenger heavy rail transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.12.00",
+     "description": "Other passenger rail transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.31.12",
+     "description": "Other urban and suburban scheduled passenger transport services by road"
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "for visiting all types of art and cultural institutions, art and cultural events, other than VAT-exempt services provided by non-profit legal entities",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93.21.10",
+     "description": "Amusement park and theme park services"
+    },
+    {
+     "kind": "CPA",
+     "code": "59.14.00",
+     "description": "Motion picture projection services"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.20.00",
+     "description": "Services of performing arts"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.1",
+     "description": "Library and archive services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.2",
+     "description": "Museum, collection, historical site and monument services"
+    },
+    {
+     "kind": "CPA",
+     "code": "91.4",
+     "description": "Botanical and zoological garden and nature reserve services"
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "In accordance with the procedure laid down in the legislation governing tourism (therein Law on turism)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55.10.00",
+     "description": "Hotel and similar accommodation services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.01",
+     "description": "Room or unit accommodation services in youth hostels and holiday cabins"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.02",
+     "description": "Room or unit accommodation services in time-share properties"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.03",
+     "description": "Other room or unit accommodation services, without daily housekeeping"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.30.00",
+     "description": "Camping grounds and recreational vehicle parks services"
+    }
+   ]
+  },
+  {
+   "member_state": "LT",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "21.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  }
+ ]
+}

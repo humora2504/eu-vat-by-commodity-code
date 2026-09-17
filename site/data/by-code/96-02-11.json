@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "96.02.11",
+ "entries": [
+  {
+   "member_state": "IE",
+   "country": "Ireland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "code_kind": "CPA",
+   "code_description": "Hairdressing services for women and girls",
+   "comment": "9% rate applies from 01/07/2026",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "code_kind": "CPA",
+   "code_description": "Hairdressing services for women and girls",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "code_kind": "CPA",
+   "code_description": "Hairdressing services for women and girls",
+   "comment": "Tabel I prov. b.7: activities a hairdresser usually performs on human hair (cutting, washing, blow drying, dyeing, shaving etc). Products that hairdressers use when treating hair ( shampoo, hair dye, etc.) and inexpensive hair ornaments incorporated into a hairstyle that are not separately charged and application of hair extensions and measurement and overhaul of wigs and toupees are also included. The material used for those services (hair extension, wig or toupee) is excluded.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "HAIRDRESSING",
+   "category_description": "Hairdressing",
+   "code_kind": "CPA",
+   "code_description": "Hairdressing services for women and girls",
+   "comment": "As regards CPA code 96.02.14 (only hairdressing at home).",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

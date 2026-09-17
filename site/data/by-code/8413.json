@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8413",
+ "entries": [
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "13.0",
+   "category_id": "AGRICULTURAL_EQUIPMENT",
+   "category_description": "Certain agricultural tools and equipment",
+   "code_kind": "CN",
+   "code_description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators",
+   "comment": "Reduced rate applies only on agricultural and forestry tractors, agricultural machines, devices and tools of tariff headings 8701, 8201, 8413, 8419, 8424, 8432, 8433, 8434, 8435, 8436, 8437, which by their nature and characteristics are intended mainly or exclusively for agriculture, animal husbandry or forestry",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "PARKING_RATE",
+   "rate_value": "13.0",
+   "category_id": "AGRICULTURAL_EQUIPMENT",
+   "category_description": "Certain agricultural tools and equipment",
+   "code_kind": "CN",
+   "code_description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators",
+   "comment": "Reduced rate applies only on pumps for liquids, air pumps and air compressors for fish tanks, mobile silos, greenhouses, fish tanks made of glass, accumulator shells, floating fish farming structures of tariff headings 8413, 8414, 8716, 9406, 7020, 8479, 8907 which by their nature and characteristics are intended mainly or exclusively for agriculture, animal husbandry or forestry",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators",
+   "comment": "Blood glucose meters and continuous glucose meters, parts and accessories; diagnostic strips meters; sensors  transmitters for glucose meters; test strips with reagent ; mechanical injectors; needles for injector; trigger device with attached lancet; device for inserting sensors; disposable syringe, needles; diagnostic scanning tapes and tests; lancet; insulin pump, reservoir pump; infusion set for insulin pump; threaded push rod; puncture set; pumps as part of an insulin dosing device",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

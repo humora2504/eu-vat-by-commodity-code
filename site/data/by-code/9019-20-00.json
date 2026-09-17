@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9019 20 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",
+   "comment": "Royal Decree N° 20, Table A, category  XXIII, N° 11 - external defibrillators (ED)\r\n\r\nThe reduce rates only apply for: \r\n- batteries intended for ED: 8506 5090 90, 8507 6000 90\r\n- specific software and specific data storage card + Remotes for ED: \r\n8523 5110, 8523 5190, 8543 7090\r\n- ED: 9018 9084\r\n- first aid or intervention kits linked to the use of the external defibrillator 9019 2000\r\n- cabinets specially designed for the storage of ED: 9402 9000",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, n° 3 to 5 \r\nThe reduced rate only applies to:\r\n- walking frames: 8716 8000\r\n- apparatus to be worn on the person and allowing continuous or intermittent injection of medicaments by means of a hypodermic needle supplied by an electronically controlled pump: 9018 3110\r\n- outpatient rehabilitators:  9019 1090\r\n- aerosol devices and their accessories: 9019 2000  \r\n- anti-decubitus material: 9404 90 90",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, N° 2 - dentures, etc. … (3)\r\nThe reduced rate only applies for:\r\n- (PICC) peripheral insertion central catheters, introduced surgically and for a prolonged period into the human body for the purpose of administering intravenous medications (chemotherapy, parenteral nutrition, etc.) and samples frequent blood: 9018 3900\r\n- devices to be held in the hand, worn on the person or implanted in the body, to compensate for a deficiency or infirmity: 9019 2000",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",
+   "comment": "This reduced rate applies only to ostomy care products (part 3): —Tracheostomy care products : — filters for tracheostomy, neck bands for tracheostomy, speaking and swallowing valves; 9019 20 00, 9021 90 90, 6307 —foam dressings and patches for tracheostomy; 3005 10 00 — skin cleansing patches for tracheostomy; 3401 19 00 — protective layer for the skin surrounding tracheostomy; 3401 — tracheostomy protectors; 9018 90 84 — aspiration probes ; 9018 39 00 — tracheal cannulas ; 9018 39 00.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",
+   "comment": "This reduced rate applies only to devices for ozone therapy, oxygen therapy, aerosol therapy and treatment of apnoea.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

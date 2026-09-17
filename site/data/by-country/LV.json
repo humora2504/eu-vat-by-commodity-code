@@ -1,0 +1,412 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "LV",
+ "country": "Latvia",
+ "rates": [
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "comment": "The fee set by an association or foundation for participation in sports competitions and for sports lessons. Provided that the purpose of the services provided is not to generate additional income for this association or foundation.\n(Section 52, Paragraph 1, Clauses 14.1 and 14.2 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "85",
+     "description": "Education services"
+    },
+    {
+     "kind": "CPA",
+     "code": "93",
+     "description": "Sporting services and amusement and recreation services"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_CARE",
+   "category_description": "Provision of medical and dental care and thermal treatment",
+   "comment": "Certain medical and dental services.\n(Section 52, Paragraph 1, Clauses 3, 4, 5, and 7 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "86",
+     "description": "Human health services"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "comment": "Social care, vocational and social rehabilitation, social assistance and social work services.\n(Section 52, Paragraph 1, Clause 9 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "87",
+     "description": "Residential care services"
+    },
+    {
+     "kind": "CPA",
+     "code": "88",
+     "description": "Social work services without accommodation"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "comment": "The royalty received by the author for his work and use thereof.\n(Section 52, Paragraph 1, Clause 18 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "90",
+     "description": "Arts creation and performing arts services"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "Cultural services.\n(Section 52, Paragraph 1, Clause 17 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "91",
+     "description": "Libraries, archives, museums and other cultural services"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PERIODICALS",
+   "category_description": "Periodicals",
+   "comment": "Magazines and other periodicals in the form of printed publication or electronic publication, website publications and subscription fees, including the supply of the abovementioned periodicals online or by downloading them, if they are published in Latvian, Latgalian, or Livonian, as well as in the official languages of the EU, the EEA, Switzerland, EU candidate countries, and the OECD.\n(Section 42, Paragraphs 7–9 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "49",
+     "description": "CHAPTER 49 - PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Books in the form of printed publication or electronic publication, the supply of the abovementioned literature online or by downloading them, if they are published in Latvian, Latgalian, or Livonian, as well as in the official languages of the EU, the EEA, Switzerland, EU candidate countries, and the OECD.\n(Section 42, Paragraphs 5, 8, and 9 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "49",
+     "description": "CHAPTER 49 - PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "Newspapers in the form of printed publication or electronic publication, website publications and subscription fees, including the supply of the abovementioned periodicals online or by downloading them, if they are published in Latvian, Latgalian, or Livonian, as well as in the official languages of the EU, the EEA, Switzerland, EU candidate countries, and the OECD.\n(Section 42, Paragraphs 7–9 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "49",
+     "description": "CHAPTER 49 - PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Certain fresh bread, milk, poultry and eggs. (Section 42, Paragraph 16 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0207",
+     "description": "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen"
+    },
+    {
+     "kind": "CN",
+     "code": "0401",
+     "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "0407",
+     "description": "Birds' eggs, in shell, fresh, preserved or cooked"
+    },
+    {
+     "kind": "CN",
+     "code": "1905",
+     "description": "Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Specialised food products intended for infants. \n(Section 42, Paragraph 3 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "04",
+     "description": "CHAPTER 4 - DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+    },
+    {
+     "kind": "CN",
+     "code": "16",
+     "description": "CHAPTER 16 - PREPARATIONS OF MEAT, OF FISH, OF CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES, OR OF INSECTS"
+    },
+    {
+     "kind": "CN",
+     "code": "19",
+     "description": "CHAPTER 19 - PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS' PRODUCTS"
+    },
+    {
+     "kind": "CN",
+     "code": "20",
+     "description": "CHAPTER 20 - PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS"
+    },
+    {
+     "kind": "CN",
+     "code": "21",
+     "description": "CHAPTER 21 - MISCELLANEOUS EDIBLE PREPARATIONS"
+    },
+    {
+     "kind": "CN",
+     "code": "22",
+     "description": "CHAPTER 22 - BEVERAGES, SPIRITS AND VINEGAR"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Certain fresh fruits, berries and vegetables.\n(Section 42, Paragraph 16 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "07",
+     "description": "CHAPTER 7 - EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+    },
+    {
+     "kind": "CN",
+     "code": "08",
+     "description": "CHAPTER 8 - EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+    },
+    {
+     "kind": "CN",
+     "code": "12",
+     "description": "CHAPTER 12 - OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "Medical products.\n(Section 42, Paragraph 1 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "30",
+     "description": "CHAPTER 30 - PHARMACEUTICAL PRODUCTS"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Certain medical devices intended only for individual use by persons with functional body disorders. \n(Section 42, Paragraph 2 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3822 00 00",
+     "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 3002 or 3006; certified reference materials"
+    },
+    {
+     "kind": "CN",
+     "code": "8713",
+     "description": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled"
+    },
+    {
+     "kind": "CN",
+     "code": "8714 20 00",
+     "description": "Of carriages for disabled persons"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 30",
+     "description": "Renal dialysis equipment (artificial kidneys, kidney machines and dialysers)"
+    },
+    {
+     "kind": "CN",
+     "code": "9018 90 84",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "9021",
+     "description": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability"
+    },
+    {
+     "kind": "CN",
+     "code": "9019 20",
+     "description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WOOD_ARTICLE98",
+   "category_description": "Wood used as firewood (until 1 January 2030)",
+   "comment": "Supplies of firewood, if the actual consumer thereof is an inhabitant who purchases and consumes firewood for domestic needs. \n(Section 42, Paragraph 11 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4401",
+     "description": "Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "comment": "Supplies of thermal energy, if the actual consumer thereof is an inhabitant who purchases and consumes thermal energy for domestic needs. \n(Section 42, Paragraph 12 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "35.30.12",
+     "description": "Steam and hot water supply services through mains"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Scheduled inland transport services.\n(Section 42, Paragraph 4 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49",
+     "description": "Land transport services and transport services via pipelines"
+    },
+    {
+     "kind": "CPA",
+     "code": "50",
+     "description": "Water transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51",
+     "description": "Air transport services"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "12.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "Accommodation services in tourist accommodation sites.\n(Section 42, Paragraph 10 of the Law; https://likumi.lv/ta/en/en/id/253451)",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55",
+     "description": "Accommodation services"
+    }
+   ]
+  },
+  {
+   "member_state": "LV",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "21.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": "&lt;p&gt;Section 41, Paragraph 1, Clause 1 of the &lt;a href=\"https://likumi.lv/ta/en/en/id/253451-value-added-tax-law\" rel=\"noopener noreferrer\" target=\"_blank\"&gt;Law&lt;/a&gt;.&lt;/p&gt;",
+   "codes": []
+  }
+ ]
+}

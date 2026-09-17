@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "6307",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other made-up articles, including dress patterns",
+   "comment": "This reduced rate applies only to ostomy care products (part 3): —Tracheostomy care products : — filters for tracheostomy, neck bands for tracheostomy, speaking and swallowing valves; 9019 20 00, 9021 90 90, 6307 —foam dressings and patches for tracheostomy; 3005 10 00 — skin cleansing patches for tracheostomy; 3401 19 00 — protective layer for the skin surrounding tracheostomy; 3401 — tracheostomy protectors; 9018 90 84 — aspiration probes ; 9018 39 00 — tracheal cannulas ; 9018 39 00.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Other made-up articles, including dress patterns",
+   "comment": "For tariff headings 3926, 4015, 4818, 6307, reduced rate applies only on protective masks and gloves for medicine (for protection against viruses and prevention of disease transmission for hospital and private use)",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other made-up articles, including dress patterns",
+   "comment": "•For tariff headings of goods intended for the service of persons with disabilities needs, the reduced rate applies only on  socks or KG (6115,6217), stump socks (6307)",
+   "situation_on": "2025-01-01"
+  }
+ ]
+}

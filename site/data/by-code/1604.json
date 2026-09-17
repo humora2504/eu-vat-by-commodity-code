@@ -1,0 +1,89 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "1604",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+   "comment": "Royal Decree N° 20, Table A, category III fish, crustaceans, shellfish and mollusks for human consumption, excepted:  \r\n- other than fish, crustaceans and mollusks for human consumption 0308\r\n- meat extracts and juices 1603 00\r\n- caviar 1604 3100\r\n- caviar substitutes 1604 3200",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+   "comment": "•For tariff heading 1604 excluded caviar\r\n•For tariff heading 2009 reduced rate applies only on preparations of vegetables , fruits and fruit or other parts of plants , as well as fruit and vegetable juices",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "SUPER_REDUCED_RATE",
+   "rate_value": "3.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "PL",
+   "country": "Poland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+   "comment": "Dietary foods for special medical purposes regardless of CN code. As regards CN codes 12: (only for human consumption), 15 (only edible products), 1601-1604 (except for products containing sea food CN 1603 00, caviar CN 1604 31 00, caviar substitutes CN 1604 32 00)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+   "comment": "Food, including beverages, intended for human and animal consumption, live animals and poultry of domestic species, except alcoholic beverages, non-alcoholic beverages NC 2202, foods with added sugar, whose total sugar content is at least 10g/100g product, other than milk formula for newborns, infants and young children, food supplements defined by Law No. 56/2021: art. 291 para (2) lett. b) of Fiscal Code and point 37 (4)-(4^3) of Norms.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+   "comment": "Except: 0301 11 00 &amp; 0301 19 00; 0106: only live rabbits, frogs, roe deer, partridges, pheasants, and other wild fowl; 1207 99 96: only pumpkin seed; 1208 90 00: only crumbled or ground poppy seed; 2501 00 10: only salt; 2501 00 91: only salt; 2530 90 70: only sepiolite; 2923 20 00: only lecithin; 2934 99 90: only acesulfame; 3824 99 96: only dietetic salt; 2106: ex. sugar syrups and prep. for making bev. (2106 90 30-59, 2106 90 98); 2202: ex. bev. cont. added sugar or sweeteners",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

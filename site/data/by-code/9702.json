@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9702",
+ "entries": [
+  {
+   "member_state": "DE",
+   "country": "Germany",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "IMPRESSIONS",
+   "category_description": "Original engravings, prints and lithographs, being impressions produced in the limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process (CN code 9702 00 00)",
+   "code_kind": "CN",
+   "code_description": "Original engravings, prints and lithographs",
+   "comment": "VAT - Import - Annex 2 of the German VAT Act contains a list of goods falling under the reduced rate of 7%. For legal certainty please have a look at the German VAT Act.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "DE",
+   "country": "Germany",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "7.0",
+   "category_id": "IMPRESSIONS",
+   "category_description": "Original engravings, prints and lithographs, being impressions produced in the limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process (CN code 9702 00 00)",
+   "code_kind": "CN",
+   "code_description": "Original engravings, prints and lithographs",
+   "comment": "Annex 2 of the German VAT Act contains a list of goods falling under the reduced rate of 7%. For legal certainty please have a look at the German VAT Act.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "HU",
+   "country": "Hungary",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "code_kind": "CN",
+   "code_description": "Original engravings, prints and lithographs",
+   "comment": "importation of works of art",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "code_kind": "CN",
+   "code_description": "Original engravings, prints and lithographs",
+   "comment": "Original engravings, prints and lithographs, being impressions produced in limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed, but not including any mechanical or photomechanical process",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

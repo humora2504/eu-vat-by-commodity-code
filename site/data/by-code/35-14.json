@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "35.14",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "SUPPLY_HEATING",
+   "category_description": "Supply of district heating",
+   "code_kind": "CPA",
+   "code_description": "Distribution services of electricity",
+   "comment": "Services &amp; supplies of equipment and materials relating to the supply of thermal energy for domestic use through public district heating networks or as part of the energy service contract, as defined in Interm Decree Art. 11, par. 1, of regulation referred to in Pres. Decree No 412/1993, and subsequent amendments; it includes supplies of energy produced from renewable sources or high efficiency cogeneration plants. \r\nOrdinary rate is applied to supplies of energy from other sources.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

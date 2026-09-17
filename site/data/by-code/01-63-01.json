@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "01.63.01",
+ "entries": [
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Post-harvest crop services and seed processing services of propagation",
+   "comment": "The reduced rate shall be applied for Collecting and baling the vegetal material, by pressing in bales (post-harvest services); Chopping the vegetable scraps; Topping sugar beet; Lining, baling, tying tobacco; Collecting, sorting, conditioning, labelling of vegetables and fruits works. For details see art. 291 para. (2) letter e) of the Fiscal Code and points 10, 11, 16, 17, 25 of the Annex to the Order no. 4634/2022.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Post-harvest crop services and seed processing services of propagation",
+   "comment": "The reduced rate shall be applied for Treatment of seeds used in setting up of the agricultural crops, with plant protection products. For details see art. 291 para. (2) letter e) of the Fiscal Code and point 8 of the Annex to the Order no. 4634/2022.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "11.0",
+   "category_id": "AGRICULTURAL_PRODUCTION",
+   "category_description": "Supply of goods and services of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings",
+   "code_kind": "CPA",
+   "code_description": "Post-harvest crop services and seed processing services of propagation",
+   "comment": "The reduced rate shall be applied for Multiplication of seeds. For details see art. 291 para. (2) letter e) of the Fiscal Code and point 44 of the Annex to the Order no. 4634/2022.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

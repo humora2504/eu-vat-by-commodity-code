@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8716 80 00",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Other vehicles",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, n° 3 to 5 \r\nThe reduced rate only applies to:\r\n- walking frames: 8716 8000\r\n- apparatus to be worn on the person and allowing continuous or intermittent injection of medicaments by means of a hypodermic needle supplied by an electronically controlled pump: 9018 3110\r\n- outpatient rehabilitators:  9019 1090\r\n- aerosol devices and their accessories: 9019 2000  \r\n- anti-decubitus material: 9404 90 90",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

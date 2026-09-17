@@ -1,0 +1,183 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "BG",
+ "country": "Bulgaria",
+ "rates": [
+  {
+   "member_state": "BG",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "The reduced rate is applicable for supply of foods suitable for babies or small children.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1901 10 00",
+     "description": "Preparations suitable for infants or young children, put up for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "2005 10 00",
+     "description": "Homogenised vegetables"
+    },
+    {
+     "kind": "CN",
+     "code": "2007 10",
+     "description": "Homogenised preparations"
+    },
+    {
+     "kind": "CN",
+     "code": "2104 20 00",
+     "description": "Homogenised composite food preparations"
+    }
+   ]
+  },
+  {
+   "member_state": "BG",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "The reduced rate is applicable for supply of specialised milk formulas (with partially hydrolysed protein and those for children with allergies) and dietetic foods for special medical purposes intended for infants.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2106 90 92",
+     "description": "Containing no milkfats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milkfat, 5 % sucrose or isoglucose, 5 % glucose or starch"
+    },
+    {
+     "kind": "CN",
+     "code": "2106 90 98",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "BG",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "The supply of books on a physical medium or by electronic means, or both (including textbooks, knowledge books and textbooks, children's picture books, drawing or coloring books, printed or handwritten notebooks), periodicals like newspapers and magazines, on a physical medium or by electronic means, or both, other than publications which are wholly or mainly intended for advertising, and other than publications which are wholly or mainly composed of video content or audio-musical content.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    },
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    },
+    {
+     "kind": "CN",
+     "code": "4905 91 00",
+     "description": "In book form"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.11.30",
+     "description": "On-line books"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.13.2",
+     "description": "Online journals and periodicals"
+    },
+    {
+     "kind": "CPA",
+     "code": "58.14.2",
+     "description": "On-line journals and periodicals"
+    }
+   ]
+  },
+  {
+   "member_state": "BG",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "The reduced rate is applicable for supply of baby diapers and similar baby hygiene items.",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9619 00 81",
+     "description": "Napkins and napkin liners for babies"
+    }
+   ]
+  },
+  {
+   "member_state": "BG",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": "The supply of accommodation services provided in hotels and similar establishments, including the provision of holiday accommodation and the rental of places for camping or caravans, with a place of supply in the territory of the country.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55.10.10",
+     "description": "Room or unit accommodation services for visitors, with daily housekeeping (except time-share)"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.11",
+     "description": "Room or unit accommodation services for visitors in youth hostels and holiday cabins"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.12",
+     "description": "Room or unit accommodation services for visitors in time-share properties"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.19",
+     "description": "Other room or unit accommodation services for visitors, without daily housekeeping"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.30.11",
+     "description": "Camping ground services"
+    }
+   ]
+  },
+  {
+   "member_state": "BG",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "20.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "90.04.10",
+ "entries": [
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Admission to exhibitions, sites and installations of a cultural, recreational, educational or professional nature (article 279 b nonies of the general tax code)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.5",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Shows, theatres, circuses, concerts, cinemas, admission to zoologic parcs, teaching and practice of horseback riding, entry fees for video gaming competitions (article 278-0 bis F, G, L and O of the general tax code)",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "IE",
+   "country": "Ireland",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.5",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "The rate for these items was temporarily reduced from 13.5% to 9% from 1 November 2020 to 31 August 2023.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SE",
+   "country": "Sweden",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Admission to shows, theatres, circuses, concerts, operas, ballets and similar performances are subject to 6 % VAT. The reduced rate also applies to admission to zoos. However, arrangement of public exhibitions in museums and supplies of items to such exhibitions are exempt if the museum is run by the public sector or is supported by the public sector. Admission to amusement parks and cinemas are subject to the standard VAT rate. Please see chapter 9 section 14 in the Swedish VAT Act.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SK",
+   "country": "Slovakia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "code_kind": "CPA",
+   "code_description": "Arts facility operation services",
+   "comment": "Production and performance of performing arts, operation of artistic venues – admission to theatrical performances, puppet theatre shows, opera, ballet, musicals, or other similar cultural performances, and services related to the operation of museums.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

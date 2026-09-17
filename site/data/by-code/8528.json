@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8528",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",
+   "comment": "This reduced rate applies only to aids for the deaf, blind and visually impaired persons (part 1):\r\n— monuculars, binocular glasses; 9004 90 90\r\n— magnifying glasses; 9013 80 00\r\n— magnifying video systems and reading monitors; 8528 and 8543\r\n— White canes; 6602 00 00\r\n— handles and knobs of a white cane; 6603 90 10\r\n— parts and accessories for white cane; 6603 90 90 —\r\nAlarm clocks for deaf and blind persons (tactile, speaking, vibrating); 9105 11 00 and 9105 19 00",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",
+   "comment": "This reduced rate applies only to computer units, accessories and special equipment for the blind and visually impaired persons: touch screen monitors; keyboards; devices contr. by hand, foot, head; switching devices; special attachments (keyboard frame); voice-contr. computer components; Braille monitor, printer; touch monitor, voice controlled systems, screen reading systems, equipment for the production of Braille and recorded material; hearing aids customised for computer.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",
+   "comment": "For tariff headings of goods intended for the service of persons with vision disabilities , the reduced rate applies only on wristwatches (Braille) (9102), on writing boards (Braille), measures (Braille) (9017), electronic sticks (6602), 4 track cassette tapes (Braille) (8519), Braille display (8528), scanner (8471), Braille note taker (8472)",
+   "situation_on": "2025-01-01"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "50.10",
+ "entries": [
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "13.0",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "code_kind": "CPA",
+   "code_description": "Sea and coastal passenger water transport services",
+   "comment": "The reduced rate applies ONLY to transport of passengers and their luggage.",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "FR",
+   "country": "France",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "code_kind": "CPA",
+   "code_description": "Sea and coastal passenger water transport services",
+   "comment": "Article 279 b quater of the general tax code",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "MT",
+   "country": "Malta",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "code_kind": "CPA",
+   "code_description": "Sea and coastal passenger water transport services",
+   "comment": "The exemption applies to domestic public passenger transport on scheduled routes per regulation 68B, international air and sea passenger transport, scheduled inter-island sea transport by authorized carriers, regular sea passenger transport, and regular transport of students and workers to and from recognized educational establishments and workplaces.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

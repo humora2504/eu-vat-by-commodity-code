@@ -1,0 +1,50 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "95.23",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of footwear and leather goods",
+   "comment": "Royal Decree N° 20, Table A, category XXXIX, 2°",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of footwear and leather goods",
+   "comment": "Tabel I prov. b.5: Footwear: all kinds of footwear such as (sports) shoes, sandals, ski boots. Skates, inline skates and such can be regarded as footwear for the shoe part. Which material the footwear is made of is irrelevant. 'Leather goods' include small articles made from leather (leather suitcases and bags, gloves, wallets and belts, etc). Repair of large leather utensils (such as furniture); grinding and straightening skates and supplies of goods sold separately (laces etc.)are excluded.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "SI",
+   "country": "Slovenia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.5",
+   "category_id": "SHOES_REPAIR",
+   "category_description": "Minor repairs of shoes and leather goods",
+   "code_kind": "CPA",
+   "code_description": "Repair and maintenance services of footwear and leather goods",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

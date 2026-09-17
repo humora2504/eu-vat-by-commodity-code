@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "9103",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Clocks with watch movements, excluding clocks of heading 9104",
+   "comment": "Royal Decree N°20, Table A, category  XXIII, n° 6  - Aids specially designed for the visually impaired and blind, except frames, spectacle glasses and contact lenses\r\nThe reduced rate only applies for 6602 0000, 8523 2919, 8523 2990, 8523 4920, 8523 4990, 8523 5190, 8523 5990, 8523 8090, 8543 7009 99, 9005 1000, 9005 8000, 9013 8090 90, 9014 1000 90, 9015 10, 9017, 9101, 9102, 9103, 9105 if means of assistance specially designed for the visually impaired and the blind",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

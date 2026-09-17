@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "3005 10 00",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Adhesive dressings and other articles having an adhesive layer",
+   "comment": "This reduced rate applies only to ostomy care products (part 3): —Tracheostomy care products : — filters for tracheostomy, neck bands for tracheostomy, speaking and swallowing valves; 9019 20 00, 9021 90 90, 6307 —foam dressings and patches for tracheostomy; 3005 10 00 — skin cleansing patches for tracheostomy; 3401 19 00 — protective layer for the skin surrounding tracheostomy; 3401 — tracheostomy protectors; 9018 90 84 — aspiration probes ; 9018 39 00 — tracheal cannulas ; 9018 39 00.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Adhesive dressings and other articles having an adhesive layer",
+   "comment": "This reduced rate applies only to ostomy care products (part 1): — ostomy bags (including fasteners); 3006 91 00 — baseplates; 3005 10 00, 3006 91 00 — external catheters for men; 4014 90 00 — single use bladder catheters; 9018 39 00 — belts for ostomy bag; 6307 90 98.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Adhesive dressings and other articles having an adhesive layer",
+   "comment": "This reduced rate applies only to chronic ulcers and pressure sores (part 2): — ointment dressings; 3005 90 31, 3005 90 99\r\n— wound dressings with collagen; 3005 90 99\r\n— Soft silicone wound dressings; 3005 10 00\r\n— bioactive wound dressings; 3005 90 50\r\n— foam wound pads; 3005 90 99\r\n— wound dressings with silver (incl hydrofiber); 3005 90 50, 3005 90 99 — hydrocolloid wound pads and wound plasters; 3005 90 99, 3005 10 00\r\n— wound dressings activated with a Ringer’s solution; 3005 90 50",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "NL",
+   "country": "Netherlands",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "code_kind": "CN",
+   "code_description": "Adhesive dressings and other articles having an adhesive layer",
+   "comment": "Tabel I prov. a.8: bandages such as cottonwool, mesh, adhesives, band aids, tampons, splints and similar products for pharmaceutical purposes; first aid kits; sanitary napkins; maternity matrasses; incontinence products; products that with regard to use can be equated with said bandages and are developed and offered for medical purposes. 'Bandages' only encompasses products that serve to cover injured body parts. \r\nExcluded: consumer articles (such as clothing) which have a therapeutic effect.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

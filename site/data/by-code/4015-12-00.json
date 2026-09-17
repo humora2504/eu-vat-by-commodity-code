@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "4015 12 00",
+ "entries": [
+  {
+   "member_state": "RO",
+   "country": "Romania",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Of a kind used for medical, surgical, dental or veterinary purposes",
+   "comment": "Supply of prostheses and their accessories, with the exception of dental prostheses exempt from tax under art.292 para.(1) lett.(b) and supply of orthopedic products. When those goods are imported from a third territory or a third country, the reduced VAT rate is conditioned by submission of the Customs Notice for medical devices or the Declaration of conformity of the medical device manufacturer according to art.12 of the Order no.1009/2016. Art.294 para.(5) letters c), d) of the Fiscal Code.",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "95.29.12",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "BICYCLES_RENTAL",
+   "category_description": "Rental and repair of bicycles",
+   "code_kind": "CPA",
+   "code_description": "Repair services of bicycles",
+   "comment": "Royal Decree N° 20, Table A, category XXXIX, 1°",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "LU",
+   "country": "Luxembourg",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "8.0",
+   "category_id": "BICYCLES_RENTAL",
+   "category_description": "Rental and repair of bicycles",
+   "code_kind": "CPA",
+   "code_description": "Repair services of bicycles",
+   "comment": null,
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

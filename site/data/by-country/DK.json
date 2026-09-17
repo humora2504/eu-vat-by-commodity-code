@@ -1,0 +1,180 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "DK",
+ "country": "Denmark",
+ "rates": [
+  {
+   "member_state": "DK",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "Taxis, scheduled busses, trains and air transport are exempted. In connection with international transportation of passengers the exemption also covers accompanying luggage.\r\nPassenger transport in tourist busses and similar vehicles (CPA 49.39.32, 49.39.33, 49.39.34) are subject to VAT in Denmark (Standard rate).",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.10",
+     "description": "Passenger rail transport services, interurban"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.31",
+     "description": "Scheduled passenger transport services by road"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.32",
+     "description": "Non-scheduled passenger transport services by road"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.1",
+     "description": "Interurban and special-purpose scheduled passenger land transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.2",
+     "description": "Passenger transport services by funiculars, teleferics and ski-lifts"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.35",
+     "description": "Road transport services of passengers by man- or animal-drawn vehicles"
+    },
+    {
+     "kind": "CPA",
+     "code": "49.39.39",
+     "description": "Passenger land transport services n.e.c."
+    },
+    {
+     "kind": "CPA",
+     "code": "50.1",
+     "description": "Sea and coastal passenger water transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "50.3",
+     "description": "Inland passenger water transport services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51.10.1",
+     "description": "Passenger air transport services, except rental services"
+    },
+    {
+     "kind": "CPA",
+     "code": "51.10.2",
+     "description": "Rental services of passenger air transport equipment with operator"
+    }
+   ]
+  },
+  {
+   "member_state": "DK",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SOCIAL_WELLBEING",
+   "category_description": "Supply of goods and services by organisations recognised as being devoted to social wellbeing by Member States and engaged in welfare or social security work",
+   "comment": "Delivery of goods and services related to charitable events - e.g. collection and sale of used items of little value - is exempt under certain conditions according to section 13(1)(17). Exemption obtained by prior application to the tax authorities on condition that the event does not distort competition in relation to commercial enterprises. An application for exemption is based on a specific assessment (event has a charitable purpose or has a commercial character).",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "88.99.1",
+     "description": "Other social work services without accommodation n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "DK",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "90.01",
+     "description": "Services of performing artists"
+    },
+    {
+     "kind": "CPA",
+     "code": "90.03.11",
+     "description": "Services provided by authors, composers, sculptors and other artists, except performing artists"
+    }
+   ]
+  },
+  {
+   "member_state": "DK",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "Services related to cultural activities, including libraries, museums, zoos and the like and supply of goods and services closely related to these services are exempt from VAT. The exemption does not cover radio and television broadcasts, movie display and theatre performances, concerts, etc.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "91",
+     "description": "Libraries, archives, museums and other cultural services"
+    }
+   ]
+  },
+  {
+   "member_state": "DK",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "SPORTING_EVENTS",
+   "category_description": "Admission to sporting events",
+   "comment": "The exemption does not cover events with professional athletes as participants. It is a condition that the supplier is not acting for the purpose of gaining profit.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "93.12.10",
+     "description": "Services of sport clubs"
+    }
+   ]
+  },
+  {
+   "member_state": "DK",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "UNDERTAKERS_SERVICES",
+   "category_description": "Supply of services by undertakers and cremation services, and the supply of goods related thereto",
+   "comment": "The exemption does not include goods.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "96.03.1",
+     "description": "Funeral and related services"
+    }
+   ]
+  },
+  {
+   "member_state": "DK",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "25.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "6109",
+ "entries": [
+  {
+   "member_state": "BE",
+   "country": "Belgium",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "T-shirts, singlets and other vests, knitted or crocheted",
+   "comment": "Royal Decree N° 20, Table A, cat. XXIII, N° 2 - part of orthopedic appliances etc.\r\nThe reduced rate only applies for:\r\n- medical and surgical support bandages in 3926 9097,3926 2000, 4014 9000, 4015 9000, 4016 1000 90, 4016 9997 90, 4017 0000, 4203, 6103 41-42-43-49, 6104 61-62-63-69, 6107 11-12-19-91-99, 6108 21-22-29, 6109, 6115, 6116, 6117 80, 6203 41-42-43-49, 6204 61-62-63-69, 6207 11-19-91-99, 6208 91 92 99, 6212 90, 6216, 6217 10, 6307 90, 6505 0090, 6506 91, 6506 9990",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

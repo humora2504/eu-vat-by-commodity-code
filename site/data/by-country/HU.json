@@ -1,0 +1,1574 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "member_state": "HU",
+ "country": "Hungary",
+ "rates": [
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "EXEMPTED",
+   "rate_value": "0.0",
+   "situation_on": "2026-07-01",
+   "category_id": "NEWSPAPERS",
+   "category_description": "Newspapers",
+   "comment": "Daily newspapers (journals published at least four times in a week)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Pure-bred cattle for breeding",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0102 21 10",
+     "description": "Heifers (female bovines that have never calved)"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 21 30",
+     "description": "Cows"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 21 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Other, live domestic bovines",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0102 29 05",
+     "description": "Of the sub-genus Bibos or of the sub-genus Poephagus"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 10",
+     "description": "Of a weight not exceeding 80 kg"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 21",
+     "description": "For slaughter"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 29",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 41",
+     "description": "For slaughter"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 49",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 51",
+     "description": "For slaughter"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 59",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 61",
+     "description": "For slaughter"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 69",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 91",
+     "description": "For slaughter"
+    },
+    {
+     "kind": "CN",
+     "code": "0102 29 99",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Pure-bred breeding swine",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0103 10 00",
+     "description": "Pure-bred breeding animals"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Domestic swine, weighing less than 50 kg",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0103 91 10",
+     "description": "Domestic species"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Live sows, having farrowed at least once, of a weight of not less than 160 kg",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0103 92 11",
+     "description": "Sows having farrowed at least once, of a weight of not less than 160 kg"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Live domestic swine, of a weight of not less than 50 kg",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0103 92 19",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Pure-bred sheep for breeding",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0104 10 10",
+     "description": "Pure-bred breeding animals"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Other, live domestic sheep",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0104 10 30",
+     "description": "Lambs (up to a year old)"
+    },
+    {
+     "kind": "CN",
+     "code": "0104 10 80",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Pure-bred breeding goats",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0104 20 10",
+     "description": "Pure-bred breeding animals"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Other, live domestic goats",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0104 20 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, fresh or chilled, carcasses and half-carcasses",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0201 10 00",
+     "description": "Carcases and half-carcases"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, fresh or chilled, other cuts with bone in, “compensated” quarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0201 20 20",
+     "description": "Compensated quarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, fresh or chilled, other cuts with bone in, unseparated or separated forequarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0201 20 30",
+     "description": "Unseparated or separated forequarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, fresh or chilled, other cuts with bone in, unseparated or separated hindquarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0201 20 50",
+     "description": "Unseparated or separated hindquarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat and edible offal of domestic bovines, fresh chilled or frozen",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0201 20 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0201 30 00",
+     "description": "Boneless"
+    },
+    {
+     "kind": "CN",
+     "code": "0202 20 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0202 30 50",
+     "description": "Crop, chuck-and-blade and brisket cuts"
+    },
+    {
+     "kind": "CN",
+     "code": "0202 30 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "0206 10",
+     "description": "Of bovine animals, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0206 21 00",
+     "description": "Tongues"
+    },
+    {
+     "kind": "CN",
+     "code": "0206 22 00",
+     "description": "Livers"
+    },
+    {
+     "kind": "CN",
+     "code": "0206 29",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, frozen, carcasses and half-carcasses",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0202 10 00",
+     "description": "Carcases and half-carcases"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, frozen, other cuts with bone in, “compensated” quarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0202 20 10",
+     "description": "Compensated quarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, frozen, other cuts with bone in, unseparated or separated forequarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0202 20 30",
+     "description": "Unseparated or separated forequarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic bovine animals, frozen, other cuts with bone in, unseparated or separated hindquarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0202 20 50",
+     "description": "Unseparated or separated hindquarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic swine, fresh, chilled or frozen",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0203",
+     "description": "Meat of swine, fresh, chilled or frozen"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Domestic swine whole or halved, fresh or chilled",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0203 11 10",
+     "description": "Of domestic swine"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Domestic swine whole or halved, frozen",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0203 21 10",
+     "description": "Of domestic swine"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Carcasses and half-carcasses of lamb, fresh or chilled",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 10 00",
+     "description": "Carcases and half-carcases of lamb, fresh or chilled"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Other meat of sheep, fresh or chilled, carcasses and half-carcasses",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 21 00",
+     "description": "Carcases and half-carcases"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Other meat of sheep, fresh or chilled, other cuts with bone in, short forequarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 22 10",
+     "description": "Short forequarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Carcasses and half-carcasses of domestic lamb, frozen",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 30 00",
+     "description": "Carcases and half-carcases of lamb, frozen"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Other meat of domestic sheep, frozen, carcasses and half-carcasses",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 41 00",
+     "description": "Carcases and half-carcases"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Other meat of sheep, frozen, other cuts with bone in, short forequarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 42 10",
+     "description": "Short forequarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic goats, fresh or chilled, carcasses and half-carcasses",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 50 11",
+     "description": "Carcases and half-carcases"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic goats, fresh or chilled, short forequarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 50 13",
+     "description": "Short forequarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic goats, frozen, carcasses and half-carcasses",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 50 51",
+     "description": "Carcases and half-carcases"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat of domestic goats, frozen, short forequarters",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0204 50 53",
+     "description": "Short forequarters"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat and edible meat offal of domestic swine, fresh, chilled or frozen",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0206 30 00",
+     "description": "Of swine, fresh or chilled"
+    },
+    {
+     "kind": "CN",
+     "code": "0206 41 00",
+     "description": "Livers"
+    },
+    {
+     "kind": "CN",
+     "code": "0206 49 00",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0207",
+     "description": "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Live fish suitable for human consumption, excluding ornamental fish",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0301",
+     "description": "Live fish"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Fish suitable for human consumption (including skins, roes, milt and livers thereof and other edible fish offal), fresh, chilled or frozen, excluding sharks",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0302",
+     "description": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304"
+    },
+    {
+     "kind": "CN",
+     "code": "0303",
+     "description": "Fish, frozen, excluding fish fillets and other fish meat of heading 0304"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen, suitable for human consumption, excluding shark meat",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0304",
+     "description": "Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Milk and milk products (excluding mother’s milk, and the products under the rate 5%)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0401",
+     "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "0402",
+     "description": "Milk and cream, concentrated or containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "0403",
+     "description": "Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa"
+    },
+    {
+     "kind": "CN",
+     "code": "0404 10",
+     "description": "Whey and modified whey, whether or not concentrated or containing added sugar or other sweetening matter"
+    },
+    {
+     "kind": "CN",
+     "code": "0405",
+     "description": "Butter and other fats and oils derived from milk; dairy spreads"
+    },
+    {
+     "kind": "CN",
+     "code": "0406",
+     "description": "Cheese and curd"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Milk (excluding mother’s milk)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0401 10",
+     "description": "Of a fat content, by weight, not exceeding 1 %"
+    },
+    {
+     "kind": "CN",
+     "code": "0401 20",
+     "description": "Of a fat content, by weight, exceeding 1 % but not exceeding 6 %"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Birds’ eggs, in shell, fresh",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0407",
+     "description": "Birds' eggs, in shell, fresh, preserved or cooked"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "PHARMACEUTICAL_PRODUCTS",
+   "category_description": "Pharmaceutical products of a kind normally used for health care, prevention of illness and as treatment for medical and veterinary purposes, including products used for contraception and sanitary protection",
+   "comment": "human medical products, but the standard rate is applicable to products for veterinary purposes",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1211 50 00",
+     "description": "Ephedra"
+    },
+    {
+     "kind": "CN",
+     "code": "1211 90 86",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "1302",
+     "description": "Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products"
+    },
+    {
+     "kind": "CN",
+     "code": "2804 40 00",
+     "description": "Oxygen"
+    },
+    {
+     "kind": "CN",
+     "code": "2844 40 20",
+     "description": "Artificial radioactive isotopes (Euratom)"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 11 00",
+     "description": "Malaria diagnostic test kits"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 12 00",
+     "description": "Antisera and other blood fractions"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 13 00",
+     "description": "Immunological products, unmixed, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 14 00",
+     "description": "Immunological products, mixed, not put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 15 00",
+     "description": "Immunological products, put up in measured doses or in forms or packings for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 19 00",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3002 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 20 00",
+     "description": "Blood-grouping reagents"
+    },
+    {
+     "kind": "CN",
+     "code": "3006 30 00",
+     "description": "Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient"
+    },
+    {
+     "kind": "CN",
+     "code": "3821 00 00",
+     "description": "Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells"
+    },
+    {
+     "kind": "CN",
+     "code": "3822 00 00",
+     "description": "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 3002 or 3006; certified reference materials"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Dietary supplements for special medicinal purposes (foodstuffs), mother’s milk substitutes and supplements (foodstuffs)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1901 10 00",
+     "description": "Preparations suitable for infants or young children, put up for retail sale"
+    },
+    {
+     "kind": "CN",
+     "code": "2106 90 92",
+     "description": "Containing no milkfats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milkfat, 5 % sucrose or isoglucose, 5 % glucose or starch"
+    },
+    {
+     "kind": "CN",
+     "code": "2106 90 98",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "2202 99",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "3004 50 00",
+     "description": "Other, containing vitamins or other products of heading 2936"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Braille-boards, plastic",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "3926 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Books (including books reproduced on any form of physical support or medium)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4901",
+     "description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+    },
+    {
+     "kind": "CN",
+     "code": "4903 00 00",
+     "description": "Children's picture, drawing or colouring books"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Periodicals, other newspapers (journals published at least once in a year)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4902",
+     "description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "comment": "Sheet-music (including sheet-music reproduced on any form of physical support or medium)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "4904 00 00",
+     "description": "Music, printed or in manuscript, whether or not bound or illustrated"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ANTIQUES",
+   "category_description": "Supply of works of art, collectors' items and antiques listed in Annex IX, Parts A, B and C",
+   "comment": "importation of works of art",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "5805 00 00",
+     "description": "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up"
+    },
+    {
+     "kind": "CN",
+     "code": "6304",
+     "description": "Other furnishing articles, excluding those of heading 9404"
+    },
+    {
+     "kind": "CN",
+     "code": "9701",
+     "description": "Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufactured articles; collages, mosaics and similar decorative plaques"
+    },
+    {
+     "kind": "CN",
+     "code": "9702",
+     "description": "Original engravings, prints and lithographs"
+    },
+    {
+     "kind": "CN",
+     "code": "9703",
+     "description": "Original sculpture and statuary, in any material"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "White canes for the blind",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "6602 00 00",
+     "description": "Walking sticks, seat-sticks, whips, riding-crops and the like"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Perforators for the blind",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8205 59 80",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Braille-boards, metal",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8310 00 00",
+     "description": "Sign-plates, nameplates, address-plates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 9405"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Braille typewriter, Braille printer, Braille display for the blind",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8443",
+     "description": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof"
+    },
+    {
+     "kind": "CN",
+     "code": "8472 90 90",
+     "description": "Other"
+    },
+    {
+     "kind": "CN",
+     "code": "8543",
+     "description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Signal processing unit for the blind and for the hearing impaired (sold at cost by the Association to its members)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8471",
+     "description": "Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Telephone operator adapters for the blind",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "8517 69 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "comment": "Braille-clocks for the blind",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "9102",
+     "description": "Wristwatches, pocket-watches and other watches, including stopwatches, other than those of heading 9101"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "New residential unit proposed or existing in a multi-unit residential building with a total net floor space not exceeding 150 square meter",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.1",
+     "description": "Residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "68.10.11",
+     "description": "Residential buildings and associated land sales or purchases services"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "New single-unit residential building with a total net floor space not exceeding 300 square meters",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.1",
+     "description": "Residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "68.10.11",
+     "description": "Residential buildings and associated land sales or purchases services"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "HOUSING_PROVISION",
+   "category_description": "Provision, construction, renovation and alteration of housing, as part of a social policy",
+   "comment": "New residential unit with a total net floor space not exceeding 150 square meters, proposed or existing in a multi-unit residential building situated in brownfield sites",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "41.00.1",
+     "description": "Residential buildings"
+    },
+    {
+     "kind": "CPA",
+     "code": "68.10.11",
+     "description": "Residential buildings and associated land sales or purchases services"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "TRANSPORT_PASSENGERS",
+   "category_description": "Transport of passengers and their accompanying luggage",
+   "comment": "'Hop on hop off' guided city tour by bus (scheduled transport)\r\nThe reduced rate is subject to a condition: the service provider shall ensure electronic payment.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "49.39",
+     "description": "Other passenger land transport services n.e.c."
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "ACCOMMODATION",
+   "category_description": "Accommodation provided in hotels and similar establishments, including the provision of holiday accommodation and the letting of places on camping or caravan sites",
+   "comment": null,
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "55.10.10",
+     "description": "Room or unit accommodation services for visitors, with daily housekeeping (except time-share)"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.11",
+     "description": "Room or unit accommodation services for visitors in youth hostels and holiday cabins"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.12",
+     "description": "Room or unit accommodation services for visitors in time-share properties"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.20.19",
+     "description": "Other room or unit accommodation services for visitors, without daily housekeeping"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.30.11",
+     "description": "Camping ground services"
+    },
+    {
+     "kind": "CPA",
+     "code": "55.30.12",
+     "description": "Recreational and vacation camp services"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "RESTAURANT",
+   "category_description": "Restaurant and catering services, it being possible to exclude the supply of (alcoholic and/or non-alcoholic) beverages",
+   "comment": "in restaurants meals and food, and supply of non-alcoholic beverages prepared on site",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "56.10",
+     "description": "Restaurant and mobile food serving services"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "BROADCASTING_SERVICES",
+   "category_description": "Reception of radio and television broadcasting services",
+   "comment": "Internet access service",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "61.10.41",
+     "description": "Internet backbone services"
+    },
+    {
+     "kind": "CPA",
+     "code": "61.10.42",
+     "description": "Narrowband internet access services over wired networks"
+    },
+    {
+     "kind": "CPA",
+     "code": "61.10.43",
+     "description": "Broadband internet access services over wired networks"
+    },
+    {
+     "kind": "CPA",
+     "code": "61.20.41",
+     "description": "Narrow-band Internet access services over wireless networks"
+    },
+    {
+     "kind": "CPA",
+     "code": "61.20.42",
+     "description": "Broad-band Internet access services over wireless networks"
+    },
+    {
+     "kind": "CPA",
+     "code": "61.30.10",
+     "description": "Satellite telecommunications services, except home programme distribution services via satellite"
+    },
+    {
+     "kind": "CPA",
+     "code": "61.90.10",
+     "description": "Other telecommunications services"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "situation_on": "2026-07-01",
+   "category_id": "WRITERS_SERVICES",
+   "category_description": "Supply of services by writers, composers and performing artists, or of the royalties due to them",
+   "comment": "supply of instrumental music services rendered by performing artists, such as live instrumental music provided in: places serving restauration or entertainment purposes, private events among family members or friends, certain events without admission fee.",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "90.01.10",
+     "description": "Services of performing artists"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "18.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Dairy products [excluding imitation milk drinks (milk-derivative-based drinks), usually containing a mixture of milk and permeates - or whey and/or cream -, whose quality and quantitative composition differs from natural milk, and contains significantly less protein than natural milk]",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "0404 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "18.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Cheese-based desserts",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1806",
+     "description": "Chocolate and other food preparations containing cocoa"
+    },
+    {
+     "kind": "CN",
+     "code": "2106",
+     "description": "Food preparations not elsewhere specified or included"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "18.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Cereals, flour, starch or milk products\r\n(excluding the products under the rate 5%)",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "1901",
+     "description": "Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404, not containing cocoa or containing less than 5 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "1903 00 00",
+     "description": "Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or similar forms"
+    },
+    {
+     "kind": "CN",
+     "code": "1904",
+     "description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked or otherwise prepared, not elsewhere specified or included"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 10 00",
+     "description": "Crispbread"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 40",
+     "description": "Rusks, toasted bread and similar toasted products"
+    },
+    {
+     "kind": "CN",
+     "code": "1905 90",
+     "description": "Other"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "18.0",
+   "situation_on": "2026-07-01",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "comment": "Flavored milk",
+   "codes": [
+    {
+     "kind": "CN",
+     "code": "2202 99 91",
+     "description": "Less than 0,2 %"
+    },
+    {
+     "kind": "CN",
+     "code": "2202 99 95",
+     "description": "0,2 % or more but less than 2 %"
+    },
+    {
+     "kind": "CN",
+     "code": "2202 99 99",
+     "description": "2 % or more"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "18.0",
+   "situation_on": "2026-07-01",
+   "category_id": "CULTURAL_EVENTS",
+   "category_description": "Admission to shows, theatres, circuses, fairs, amusement parks, concerts, museums, zoos, cinemas, exhibitions and similar cultural events and facilities",
+   "comment": "entrance to open-air festival",
+   "codes": [
+    {
+     "kind": "CPA",
+     "code": "90.01.10",
+     "description": "Services of performing artists"
+    }
+   ]
+  },
+  {
+   "member_state": "HU",
+   "rate_class": "STANDARD",
+   "rate_type": "DEFAULT",
+   "rate_value": "27.0",
+   "situation_on": "2026-07-01",
+   "category_id": null,
+   "category_description": null,
+   "comment": null,
+   "codes": []
+  }
+ ]
+}

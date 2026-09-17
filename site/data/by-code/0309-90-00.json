@@ -1,0 +1,24 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "0309 90 00",
+ "entries": [
+  {
+   "member_state": "IT",
+   "country": "Italy",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "10.0",
+   "category_id": "FOODSTUFFS",
+   "category_description": "Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs",
+   "code_kind": "CN",
+   "code_description": "Other",
+   "comment": "Fresh fish live or dead chilled frozen or deep-frozen intended for food use simply salted or in brine dried or smoked Crustaceans&amp;molluscs including testaceans whether or not separated from their shells fresh chilled frozen or deep-frozen dried salted or in brine, excluding lobsters and crawfish and oysters; crustaceans in shell simply cooked in water or by steaming excluding lobsters and crawfish.\r\n030192,030193,030194,030195,03019903 only human consumption.\r\nIncluding 0306 399020,0306 999020",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}

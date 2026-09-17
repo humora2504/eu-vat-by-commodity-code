@@ -1,0 +1,63 @@
+{
+ "source": "European Commission, DG TAXUD, Taxes in Europe Database (TEDB)",
+ "source_url": "https://ec.europa.eu/taxation_customs/tedb/ws/VatRetrievalService",
+ "licence": "CC BY 4.0 (Commission Decision 2011/833/EU). Reshaped, not altered.",
+ "attribution": "© European Union, source: DG TAXUD TEDB",
+ "situation_on": "2026-09-18",
+ "fetched_at": "2026-09-17T18:49:58+00:00",
+ "code": "8543",
+ "entries": [
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter",
+   "comment": "This reduced rate applies only to aids for the deaf, blind and visually impaired persons (part 1):\r\n— monuculars, binocular glasses; 9004 90 90\r\n— magnifying glasses; 9013 80 00\r\n— magnifying video systems and reading monitors; 8528 and 8543\r\n— White canes; 6602 00 00\r\n— handles and knobs of a white cane; 6603 90 10\r\n— parts and accessories for white cane; 6603 90 90 —\r\nAlarm clocks for deaf and blind persons (tactile, speaking, vibrating); 9105 11 00 and 9105 19 00",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EE",
+   "country": "Estonia",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "9.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter",
+   "comment": "This reduced rate applies only to computer units, accessories and special equipment for the blind and visually impaired persons: touch screen monitors; keyboards; devices contr. by hand, foot, head; switching devices; special attachments (keyboard frame); voice-contr. computer components; Braille monitor, printer; touch monitor, voice controlled systems, screen reading systems, equipment for the production of Braille and recorded material; hearing aids customised for computer.",
+   "situation_on": "2026-07-01"
+  },
+  {
+   "member_state": "EL",
+   "country": "Greece",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "6.0",
+   "category_id": "LOAN_LIBRARIES",
+   "category_description": "Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically or both (including brochures, leaflets and similar printed matter, children's picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music.",
+   "code_kind": "CN",
+   "code_description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter",
+   "comment": "Reduced rate applies only on books and books for children of tariff headings 4901 and 4903, editions thereof, visual or audio, inscribed on a material backing of tariff headings 8523 and 8543 and on devices of tariff heading 8519.  Also, reduced rate applies on music handwritten or printed, illustrated or not, whether or not bound of tariff heading 4904.",
+   "situation_on": "2025-01-01"
+  },
+  {
+   "member_state": "HU",
+   "country": "Hungary",
+   "rate_class": "REDUCED",
+   "rate_type": "REDUCED_RATE",
+   "rate_value": "5.0",
+   "category_id": "MEDICAL_EQUIPMENT",
+   "category_description": "Medical equipment, aids and other appliances normally intended to alleviate or treat disability, for the exclusive personal use of the disabled, including the repair of such goods",
+   "code_kind": "CN",
+   "code_description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter",
+   "comment": "Braille typewriter, Braille printer, Braille display for the blind",
+   "situation_on": "2026-07-01"
+  }
+ ]
+}
