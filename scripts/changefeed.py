@@ -10,7 +10,7 @@ import json, os, sys, datetime, hashlib
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "data", "raw.json")
 PREV = os.path.join(ROOT, "data", "previous.json")
-SITE = os.path.join(ROOT, "site")
+SITE = os.path.join(ROOT, "docs")
 FEED = os.path.join(SITE, "data", "changes.json")
 SCHEMA_VERSION = "1.0"
 

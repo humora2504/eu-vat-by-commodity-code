@@ -2,7 +2,7 @@
 """Tests for the dataset. A data product is judged on whether the numbers are right."""
 import json, os, re, glob, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = os.path.join(ROOT, "site")
+SITE = os.path.join(ROOT, "docs")
 passed = failed = 0
 def check(n, ok, d=""):
     global passed, failed

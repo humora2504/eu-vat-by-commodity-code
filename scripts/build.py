@@ -8,7 +8,7 @@ import json, os, re, html, datetime, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "data", "raw.json")
-OUT = os.path.join(ROOT, "site")
+OUT = os.path.join(ROOT, "docs")
 BASE = "https://humora2504.github.io/eu-vat-by-commodity-code/"
 
 COUNTRY = {"AT":"Austria","BE":"Belgium","BG":"Bulgaria","CY":"Cyprus","CZ":"Czechia",
